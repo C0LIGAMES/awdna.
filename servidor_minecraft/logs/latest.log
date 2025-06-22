@@ -1,18 +1,18 @@
-[22Jun2025 03:21:12.768] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[22Jun2025 03:21:12.771] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[22Jun2025 03:21:13.286] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[22Jun2025 03:21:13.336] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/awdna./servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
-[22Jun2025 03:21:13.629] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/awdna./servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[22Jun2025 03:21:13.630] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/awdna./servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[22Jun2025 03:21:13.632] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/awdna./servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[22Jun2025 03:21:13.633] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/awdna./servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[22Jun2025 03:21:13.816] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 5 dependencies adding them to mods collection
-[22Jun2025 03:21:16.209] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[22Jun2025 03:21:16.362] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
-[22Jun2025 03:21:16.366] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[22Jun2025 03:21:16.483] [main/WARN] [mixin/]: Reference map 'puzzlesaccessapi.common.refmap.json' for puzzlesaccessapi.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[22Jun2025 03:21:16.499] [main/WARN] [mixin/]: Reference map 'mixins.spartan_materials.refmap.json' for mixins.spartan_materials.json could not be read. If this is a development environment you can ignore this message
-[22Jun2025 03:21:16.532] [main/INFO] [Puzzles Lib/]: Loading 50 mods:
+[22Jun2025 21:48:00.121] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[22Jun2025 21:48:00.125] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[22Jun2025 21:48:04.475] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[22Jun2025 21:48:04.574] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/awdna./servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[22Jun2025 21:48:05.121] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/awdna./servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[22Jun2025 21:48:05.122] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/awdna./servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[22Jun2025 21:48:05.123] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/awdna./servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[22Jun2025 21:48:05.127] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/awdna./servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[22Jun2025 21:48:05.664] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 5 dependencies adding them to mods collection
+[22Jun2025 21:48:09.061] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[22Jun2025 21:48:09.245] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
+[22Jun2025 21:48:09.248] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[22Jun2025 21:48:09.445] [main/WARN] [mixin/]: Reference map 'puzzlesaccessapi.common.refmap.json' for puzzlesaccessapi.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[22Jun2025 21:48:09.471] [main/WARN] [mixin/]: Reference map 'mixins.spartan_materials.refmap.json' for mixins.spartan_materials.json could not be read. If this is a development environment you can ignore this message
+[22Jun2025 21:48:09.583] [main/INFO] [Puzzles Lib/]: Loading 50 mods:
 	- alexscaves 2.0.2
 	- architectury 9.2.14
 	- bettervillage 3.3.0
@@ -63,21 +63,21 @@
 	- xaerominimap 25.2.0
 	- xaeroworldmap 1.39.4
 	- xpfromharvest 1.2.4
-[22Jun2025 03:21:17.624] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
-[22Jun2025 03:21:17.625] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/Screen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER)
-[22Jun2025 03:21:17.625] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.Screen was not found relics.mixins.json:ScreenMixin
-[22Jun2025 03:21:17.764] [main/WARN] [mixin/]: Error loading class: net/bettercombat/client/collision/TargetFinder (java.lang.ClassNotFoundException: net.bettercombat.client.collision.TargetFinder)
-[22Jun2025 03:21:17.764] [main/WARN] [mixin/]: @Mixin target net.bettercombat.client.collision.TargetFinder was not found justleveling.mixins.json:MixTargetFinder
-[22Jun2025 03:21:17.952] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
-[22Jun2025 03:21:17.952] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
-[22Jun2025 03:21:17.952] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found tlskincape-mixins.json:MixinAbstractPlayer
-[22Jun2025 03:21:17.953] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER
-[22Jun2025 03:21:17.954] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/TitleScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER)
-[22Jun2025 03:21:17.954] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.TitleScreen was not found tlskincape-mixins.json:MixinMainMenu
-[22Jun2025 03:21:17.955] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/model/PlayerModel (java.lang.ClassNotFoundException: net.minecraft.client.model.PlayerModel)
-[22Jun2025 03:21:17.956] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.model.PlayerModel was not found tlskincape-mixins.json:MixinPlayerModel
-[22Jun2025 03:21:18.293] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[22Jun2025 03:21:18.557] [main/WARN] [net.minecraft.SystemReport/]: Failed retrieving info for group hardware
+[22Jun2025 21:48:11.907] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
+[22Jun2025 21:48:11.907] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/Screen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER)
+[22Jun2025 21:48:11.908] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.Screen was not found relics.mixins.json:ScreenMixin
+[22Jun2025 21:48:12.159] [main/WARN] [mixin/]: Error loading class: net/bettercombat/client/collision/TargetFinder (java.lang.ClassNotFoundException: net.bettercombat.client.collision.TargetFinder)
+[22Jun2025 21:48:12.160] [main/WARN] [mixin/]: @Mixin target net.bettercombat.client.collision.TargetFinder was not found justleveling.mixins.json:MixTargetFinder
+[22Jun2025 21:48:12.398] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
+[22Jun2025 21:48:12.398] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
+[22Jun2025 21:48:12.398] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found tlskincape-mixins.json:MixinAbstractPlayer
+[22Jun2025 21:48:12.399] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER
+[22Jun2025 21:48:12.399] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/TitleScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER)
+[22Jun2025 21:48:12.399] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.TitleScreen was not found tlskincape-mixins.json:MixinMainMenu
+[22Jun2025 21:48:12.401] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/model/PlayerModel (java.lang.ClassNotFoundException: net.minecraft.client.model.PlayerModel)
+[22Jun2025 21:48:12.401] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.model.PlayerModel was not found tlskincape-mixins.json:MixinPlayerModel
+[22Jun2025 21:48:12.781] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[22Jun2025 21:48:13.306] [main/WARN] [net.minecraft.SystemReport/]: Failed retrieving info for group hardware
 java.lang.NoClassDefFoundError: com/sun/jna/Platform
 	at oshi.SystemInfo.<clinit>(SystemInfo.java:60) ~[oshi-core-6.2.2.jar%2369!/:6.2.2]
 	at net.minecraft.SystemReport.m_143564_(SystemReport.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
@@ -107,112 +107,112 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:137) ~[securejarhandler-2.1.10.jar:?]
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
 	... 22 more
-[22Jun2025 03:21:23.820] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
+[22Jun2025 21:48:22.068] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
 
-[22Jun2025 03:21:24.325] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
-[22Jun2025 03:21:24.362] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
-[22Jun2025 03:21:24.427] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for illagerinvasion:main
-[22Jun2025 03:21:25.421] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for hangglider:main
-[22Jun2025 03:21:25.548] [modloading-worker-0/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
-[22Jun2025 03:21:25.684] [modloading-worker-0/INFO] [Spartan Weaponry/]: Constructing Mod: Spartan Weaponry
-[22Jun2025 03:21:25.686] [modloading-worker-0/INFO] [Spartan Weaponry/]: Initialising API! Version: 11
-[22Jun2025 03:21:25.694] [modloading-worker-0/INFO] [Spartan Weaponry/]: Spartan Weaponry API version 11 has been initalized!
-[22Jun2025 03:21:25.890] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[22Jun2025 03:21:25.938] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[22Jun2025 03:21:25.938] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[22Jun2025 03:21:25.959] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
-[22Jun2025 03:21:26.024] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for enchantinginfuser:main
-[22Jun2025 03:21:28.386] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
-[22Jun2025 03:21:28.398] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
-[22Jun2025 03:21:28.398] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
-[22Jun2025 03:21:28.400] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
-[22Jun2025 03:21:28.494] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
-[22Jun2025 03:21:28.601] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
-[22Jun2025 03:21:28.606] [Thread-0/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
-[22Jun2025 03:21:28.674] [modloading-worker-0/INFO] [CPM/]: Customizable Player Models Initialized
-[22Jun2025 03:21:28.678] [modloading-worker-0/INFO] [firstaid/]: firstaid starting...
-[22Jun2025 03:21:28.805] [modloading-worker-0/INFO] [Spartan Shields/]: Setting up Spartan Shields!
-[22Jun2025 03:21:28.825] [modloading-worker-0/INFO] [Spartan Weaponry/]: Setting up Spartan Weaponry!
-[22Jun2025 03:21:28.841] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [illagerinvasion] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/illagerinvasion.json
-[22Jun2025 03:21:28.900] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [illagerinvasion] Found status: UP_TO_DATE Current: 8.0.7 Target: null
-[22Jun2025 03:21:28.900] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[22Jun2025 03:21:28.961] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 9.1.39 Target: null
-[22Jun2025 03:21:28.962] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cpm] Starting version check at https://raw.githubusercontent.com/tom5454/CustomPlayerModels/master/version-check.json
-[22Jun2025 03:21:29.064] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cpm] Found status: BETA Current: 0.6.22a Target: 0.6.22a
-[22Jun2025 03:21:29.064] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
-[22Jun2025 03:21:29.075] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 20.1.1 Target: null
-[22Jun2025 03:21:29.076] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Starting version check at http://changelogs.moddinglegacy.com/structure-gel.json
-[22Jun2025 03:21:29.267] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
-[22Jun2025 03:21:29.267] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
-[22Jun2025 03:21:29.268] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
-[22Jun2025 03:21:29.268] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
-[22Jun2025 03:21:29.268] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of toughasnails:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 4
-[22Jun2025 03:21:29.268] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of toughasnails:water_canteen for Water (Fluid Amount Required: 200) with the ID 5
-[22Jun2025 03:21:29.269] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of toughasnails:water for Water (Fluid Amount Required: 1000) with the ID 6
-[22Jun2025 03:21:29.334] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
-[22Jun2025 03:21:29.336] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[22Jun2025 03:21:29.339] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
-[22Jun2025 03:21:29.339] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[22Jun2025 03:21:29.344] [modloading-worker-0/INFO] [CPM/]: Customizable Player Models API initialized: Loaded plugins: (0)
+[22Jun2025 21:48:23.176] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[22Jun2025 21:48:23.214] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[22Jun2025 21:48:23.239] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for illagerinvasion:main
+[22Jun2025 21:48:24.892] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for hangglider:main
+[22Jun2025 21:48:25.045] [modloading-worker-0/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
+[22Jun2025 21:48:25.258] [modloading-worker-0/INFO] [Spartan Weaponry/]: Constructing Mod: Spartan Weaponry
+[22Jun2025 21:48:25.258] [modloading-worker-0/INFO] [Spartan Weaponry/]: Initialising API! Version: 11
+[22Jun2025 21:48:25.259] [modloading-worker-0/INFO] [Spartan Weaponry/]: Spartan Weaponry API version 11 has been initalized!
+[22Jun2025 21:48:25.538] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[22Jun2025 21:48:25.565] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[22Jun2025 21:48:25.613] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[22Jun2025 21:48:25.614] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[22Jun2025 21:48:25.720] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for enchantinginfuser:main
+[22Jun2025 21:48:28.286] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
+[22Jun2025 21:48:28.299] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
+[22Jun2025 21:48:28.299] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
+[22Jun2025 21:48:28.301] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
+[22Jun2025 21:48:28.420] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
+[22Jun2025 21:48:28.569] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[22Jun2025 21:48:28.572] [Thread-0/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[22Jun2025 21:48:28.658] [modloading-worker-0/INFO] [CPM/]: Customizable Player Models Initialized
+[22Jun2025 21:48:28.659] [modloading-worker-0/INFO] [firstaid/]: firstaid starting...
+[22Jun2025 21:48:28.814] [modloading-worker-0/INFO] [Spartan Shields/]: Setting up Spartan Shields!
+[22Jun2025 21:48:28.848] [modloading-worker-0/INFO] [Spartan Weaponry/]: Setting up Spartan Weaponry!
+[22Jun2025 21:48:28.864] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [illagerinvasion] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/illagerinvasion.json
+[22Jun2025 21:48:28.912] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [illagerinvasion] Found status: UP_TO_DATE Current: 8.0.7 Target: null
+[22Jun2025 21:48:28.912] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[22Jun2025 21:48:28.973] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 9.1.39 Target: null
+[22Jun2025 21:48:28.974] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cpm] Starting version check at https://raw.githubusercontent.com/tom5454/CustomPlayerModels/master/version-check.json
+[22Jun2025 21:48:29.065] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cpm] Found status: BETA Current: 0.6.22a Target: 0.6.22a
+[22Jun2025 21:48:29.067] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[22Jun2025 21:48:29.086] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 20.1.1 Target: null
+[22Jun2025 21:48:29.087] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Starting version check at http://changelogs.moddinglegacy.com/structure-gel.json
+[22Jun2025 21:48:29.368] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[22Jun2025 21:48:29.368] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[22Jun2025 21:48:29.370] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[22Jun2025 21:48:29.371] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[22Jun2025 21:48:29.371] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of toughasnails:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 4
+[22Jun2025 21:48:29.371] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of toughasnails:water_canteen for Water (Fluid Amount Required: 200) with the ID 5
+[22Jun2025 21:48:29.372] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of toughasnails:water for Water (Fluid Amount Required: 1000) with the ID 6
+[22Jun2025 21:48:29.441] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[22Jun2025 21:48:29.443] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[22Jun2025 21:48:29.444] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[22Jun2025 21:48:29.445] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[22Jun2025 21:48:29.459] [modloading-worker-0/INFO] [CPM/]: Customizable Player Models API initialized: Loaded plugins: (0)
 
-[22Jun2025 03:21:29.400] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Found status: BETA Current: 2.16.2 Target: null
-[22Jun2025 03:21:29.401] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
-[22Jun2025 03:21:30.449] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: AHEAD Current: 1.20.1-1.0.21 Target: null
-[22Jun2025 03:21:30.450] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Starting version check at https://raw.githubusercontent.com/SilentChaos512/SilentLib/1.20.x/update.json
-[22Jun2025 03:21:30.461] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Found status: BETA Current: 8.0.0 Target: null
-[22Jun2025 03:21:30.461] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hangglider] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/hangglider.json
-[22Jun2025 03:21:30.471] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hangglider] Found status: UP_TO_DATE Current: 8.0.1 Target: null
-[22Jun2025 03:21:30.471] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dungeons_enhanced] Starting version check at https://raw.githubusercontent.com/Ametrin-Studios/DungeonsEnhanced/refs/heads/master/update.json
-[22Jun2025 03:21:30.480] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dungeons_enhanced] Found status: OUTDATED Current: 5.4.1 Target: 5.4.2
-[22Jun2025 03:21:30.480] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
-[22Jun2025 03:21:30.490] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.32 Target: null
-[22Jun2025 03:21:30.490] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [scalinghealth] Starting version check at https://raw.githubusercontent.com/SilentChaos512/ScalingHealth/1.18/update.json
-[22Jun2025 03:21:30.502] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [scalinghealth] Found status: BETA Current: 8.0.2+9 Target: null
-[22Jun2025 03:21:30.502] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[22Jun2025 03:21:30.743] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[22Jun2025 03:21:30.744] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/enchantinginfuser.json
-[22Jun2025 03:21:30.755] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Found status: UP_TO_DATE Current: 8.0.3 Target: null
-[22Jun2025 03:21:31.639] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[22Jun2025 03:21:32.970] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/awdna./servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23191!/assets/.mcassetsroot' uses unexpected schema
-[22Jun2025 03:21:32.970] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/awdna./servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23191!/data/.mcassetsroot' uses unexpected schema
-[22Jun2025 03:21:33.437] [main/INFO] [bettervillage/]: StructureSet modified for minecraft:village : Now using custom village configuration (can be disabled in the better villages config: boolean.villages.enabled_custom_config).
-[22Jun2025 03:21:34.298] [main/INFO] [Spartan Weaponry/]: Finished registering commands for Spartan Weaponry!
-[22Jun2025 03:21:35.118] [Worker-Main-2/INFO] [Spartan Weaponry/]: Adding Diamond Weapons to the End City Treasure Loot Table!
-[22Jun2025 03:21:35.130] [Worker-Main-2/INFO] [Spartan Weaponry/]: Adding Iron Weapons to the Village Weaponsmith Loot Table!
-[22Jun2025 03:21:35.215] [Worker-Main-2/INFO] [Spartan Weaponry/]: Adding Longbow and Heavy Crossbow related loot to the Village Fletcher Loot Table!
-[22Jun2025 03:21:35.387] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
-[22Jun2025 03:21:35.387] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_blasting_electrum_weapons as it's serializer returned null
-[22Jun2025 03:21:35.408] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
-[22Jun2025 03:21:35.409] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_smelting_platinum_weapons as it's serializer returned null
-[22Jun2025 03:21:35.428] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
-[22Jun2025 03:21:35.429] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_blasting_aluminum_weapons as it's serializer returned null
-[22Jun2025 03:21:35.452] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/bronze" Skipping...
-[22Jun2025 03:21:35.452] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:bronze_nugget_from_blasting_bronze_weapons as it's serializer returned null
-[22Jun2025 03:21:35.464] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/steel" Skipping...
-[22Jun2025 03:21:35.464] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:steel_nugget_from_blasting_steel_weapons as it's serializer returned null
-[22Jun2025 03:21:35.468] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
-[22Jun2025 03:21:35.468] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_smelting_invar_weapons as it's serializer returned null
-[22Jun2025 03:21:35.475] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
-[22Jun2025 03:21:35.475] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_smelting_constantan_weapons as it's serializer returned null
-[22Jun2025 03:21:35.502] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
-[22Jun2025 03:21:35.503] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_smelting_nickel_weapons as it's serializer returned null
-[22Jun2025 03:21:35.503] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
-[22Jun2025 03:21:35.503] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_smelting_electrum_weapons as it's serializer returned null
-[22Jun2025 03:21:35.528] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/lead" Skipping...
-[22Jun2025 03:21:35.528] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:lead_nugget_from_smelting_lead_weapons as it's serializer returned null
-[22Jun2025 03:21:35.546] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/steel" Skipping...
-[22Jun2025 03:21:35.546] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:steel_nugget_from_smelting_steel_weapons as it's serializer returned null
-[22Jun2025 03:21:35.590] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
-[22Jun2025 03:21:35.591] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_blasting_platinum_weapons as it's serializer returned null
-[22Jun2025 03:21:35.594] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
-[22Jun2025 03:21:35.595] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_blasting_constantan_weapons as it's serializer returned null
-[22Jun2025 03:21:35.614] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/lead" Skipping...
-[22Jun2025 03:21:35.614] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:lead_nugget_from_blasting_lead_weapons as it's serializer returned null
-[22Jun2025 03:21:35.619] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/bronze" Skipping...
-[22Jun2025 03:21:35.619] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:bronze_nugget_from_smelting_bronze_weapons as it's serializer returned null
-[22Jun2025 03:21:35.621] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/tin" Skipping...
-[22Jun2025 03:21:35.622] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:tin_nugget_from_smelting_tin_weapons as it's serializer returned null
-[22Jun2025 03:21:35.636] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dedsafio3:llave_crafteo
+[22Jun2025 21:48:29.544] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Found status: BETA Current: 2.16.2 Target: null
+[22Jun2025 21:48:29.545] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
+[22Jun2025 21:48:30.442] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: AHEAD Current: 1.20.1-1.0.21 Target: null
+[22Jun2025 21:48:30.442] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Starting version check at https://raw.githubusercontent.com/SilentChaos512/SilentLib/1.20.x/update.json
+[22Jun2025 21:48:30.503] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Found status: BETA Current: 8.0.0 Target: null
+[22Jun2025 21:48:30.503] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hangglider] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/hangglider.json
+[22Jun2025 21:48:30.516] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hangglider] Found status: UP_TO_DATE Current: 8.0.1 Target: null
+[22Jun2025 21:48:30.516] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dungeons_enhanced] Starting version check at https://raw.githubusercontent.com/Ametrin-Studios/DungeonsEnhanced/refs/heads/master/update.json
+[22Jun2025 21:48:30.530] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dungeons_enhanced] Found status: OUTDATED Current: 5.4.1 Target: 5.4.2
+[22Jun2025 21:48:30.530] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[22Jun2025 21:48:30.547] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.32 Target: null
+[22Jun2025 21:48:30.547] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [scalinghealth] Starting version check at https://raw.githubusercontent.com/SilentChaos512/ScalingHealth/1.18/update.json
+[22Jun2025 21:48:30.561] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [scalinghealth] Found status: BETA Current: 8.0.2+9 Target: null
+[22Jun2025 21:48:30.563] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[22Jun2025 21:48:30.704] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[22Jun2025 21:48:30.704] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/enchantinginfuser.json
+[22Jun2025 21:48:30.721] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Found status: UP_TO_DATE Current: 8.0.3 Target: null
+[22Jun2025 21:48:31.989] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[22Jun2025 21:48:33.673] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/awdna./servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23191!/assets/.mcassetsroot' uses unexpected schema
+[22Jun2025 21:48:33.673] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/awdna./servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23191!/data/.mcassetsroot' uses unexpected schema
+[22Jun2025 21:48:34.333] [main/INFO] [bettervillage/]: StructureSet modified for minecraft:village : Now using custom village configuration (can be disabled in the better villages config: boolean.villages.enabled_custom_config).
+[22Jun2025 21:48:35.163] [main/INFO] [Spartan Weaponry/]: Finished registering commands for Spartan Weaponry!
+[22Jun2025 21:48:35.905] [Worker-Main-2/INFO] [Spartan Weaponry/]: Adding Diamond Weapons to the End City Treasure Loot Table!
+[22Jun2025 21:48:35.918] [Worker-Main-2/INFO] [Spartan Weaponry/]: Adding Iron Weapons to the Village Weaponsmith Loot Table!
+[22Jun2025 21:48:36.001] [Worker-Main-2/INFO] [Spartan Weaponry/]: Adding Longbow and Heavy Crossbow related loot to the Village Fletcher Loot Table!
+[22Jun2025 21:48:36.146] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
+[22Jun2025 21:48:36.146] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_blasting_electrum_weapons as it's serializer returned null
+[22Jun2025 21:48:36.170] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
+[22Jun2025 21:48:36.170] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_smelting_platinum_weapons as it's serializer returned null
+[22Jun2025 21:48:36.190] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
+[22Jun2025 21:48:36.190] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_blasting_aluminum_weapons as it's serializer returned null
+[22Jun2025 21:48:36.219] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/bronze" Skipping...
+[22Jun2025 21:48:36.219] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:bronze_nugget_from_blasting_bronze_weapons as it's serializer returned null
+[22Jun2025 21:48:36.234] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/steel" Skipping...
+[22Jun2025 21:48:36.234] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:steel_nugget_from_blasting_steel_weapons as it's serializer returned null
+[22Jun2025 21:48:36.239] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
+[22Jun2025 21:48:36.239] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_smelting_invar_weapons as it's serializer returned null
+[22Jun2025 21:48:36.247] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
+[22Jun2025 21:48:36.247] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_smelting_constantan_weapons as it's serializer returned null
+[22Jun2025 21:48:36.268] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
+[22Jun2025 21:48:36.268] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_smelting_nickel_weapons as it's serializer returned null
+[22Jun2025 21:48:36.269] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
+[22Jun2025 21:48:36.269] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_smelting_electrum_weapons as it's serializer returned null
+[22Jun2025 21:48:36.353] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/lead" Skipping...
+[22Jun2025 21:48:36.355] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:lead_nugget_from_smelting_lead_weapons as it's serializer returned null
+[22Jun2025 21:48:36.376] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/steel" Skipping...
+[22Jun2025 21:48:36.376] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:steel_nugget_from_smelting_steel_weapons as it's serializer returned null
+[22Jun2025 21:48:36.409] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
+[22Jun2025 21:48:36.409] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_blasting_platinum_weapons as it's serializer returned null
+[22Jun2025 21:48:36.412] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
+[22Jun2025 21:48:36.412] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_blasting_constantan_weapons as it's serializer returned null
+[22Jun2025 21:48:36.435] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/lead" Skipping...
+[22Jun2025 21:48:36.436] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:lead_nugget_from_blasting_lead_weapons as it's serializer returned null
+[22Jun2025 21:48:36.447] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/bronze" Skipping...
+[22Jun2025 21:48:36.447] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:bronze_nugget_from_smelting_bronze_weapons as it's serializer returned null
+[22Jun2025 21:48:36.451] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/tin" Skipping...
+[22Jun2025 21:48:36.451] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:tin_nugget_from_smelting_tin_weapons as it's serializer returned null
+[22Jun2025 21:48:36.489] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dedsafio3:llave_crafteo
 com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipe.java:295) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
 	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:219) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
@@ -248,69 +248,75 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2353!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2353!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[22Jun2025 03:21:35.649] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
-[22Jun2025 03:21:35.650] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_blasting_nickel_weapons as it's serializer returned null
-[22Jun2025 03:21:35.654] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
-[22Jun2025 03:21:35.654] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_blasting_invar_weapons as it's serializer returned null
-[22Jun2025 03:21:35.661] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/tin" Skipping...
-[22Jun2025 03:21:35.661] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:tin_nugget_from_blasting_tin_weapons as it's serializer returned null
-[22Jun2025 03:21:35.669] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
-[22Jun2025 03:21:35.670] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_smelting_aluminum_weapons as it's serializer returned null
-[22Jun2025 03:21:35.678] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 11 recipes
-[22Jun2025 03:21:35.708] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_basic_shield: Unknown item id 'enderio:octadic_capacitor'
-[22Jun2025 03:21:35.765] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_tower_shield: Unknown item id 'mekanism:energy_tablet'
-[22Jun2025 03:21:35.784] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_tower_shield: Unknown item id 'enderio:octadic_capacitor'
-[22Jun2025 03:21:35.790] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_basic_shield: Unknown item id 'mekanism:energy_tablet'
-[22Jun2025 03:21:35.847] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3101 advancements
-[22Jun2025 03:21:35.860] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
-[22Jun2025 03:21:35.866] [main/ERROR] [top.theillusivec4.curios.Curios/]: talisman is not a registered slot type!
-[22Jun2025 03:21:35.866] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
-[22Jun2025 03:21:35.868] [main/ERROR] [bettervillage/]: Ice And Fire compatibility is not enabled for Better Village and Ice And Fire is present in your mod list.
+[22Jun2025 21:48:36.509] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
+[22Jun2025 21:48:36.509] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_blasting_nickel_weapons as it's serializer returned null
+[22Jun2025 21:48:36.517] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
+[22Jun2025 21:48:36.517] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_blasting_invar_weapons as it's serializer returned null
+[22Jun2025 21:48:36.531] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/tin" Skipping...
+[22Jun2025 21:48:36.531] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:tin_nugget_from_blasting_tin_weapons as it's serializer returned null
+[22Jun2025 21:48:36.546] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
+[22Jun2025 21:48:36.547] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_smelting_aluminum_weapons as it's serializer returned null
+[22Jun2025 21:48:36.557] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 11 recipes
+[22Jun2025 21:48:36.585] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_basic_shield: Unknown item id 'enderio:octadic_capacitor'
+[22Jun2025 21:48:36.637] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_tower_shield: Unknown item id 'mekanism:energy_tablet'
+[22Jun2025 21:48:36.657] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_tower_shield: Unknown item id 'enderio:octadic_capacitor'
+[22Jun2025 21:48:36.663] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_basic_shield: Unknown item id 'mekanism:energy_tablet'
+[22Jun2025 21:48:36.696] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3101 advancements
+[22Jun2025 21:48:36.706] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
+[22Jun2025 21:48:36.711] [main/ERROR] [top.theillusivec4.curios.Curios/]: talisman is not a registered slot type!
+[22Jun2025 21:48:36.712] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[22Jun2025 21:48:36.714] [main/ERROR] [bettervillage/]: Ice And Fire compatibility is not enabled for Better Village and Ice And Fire is present in your mod list.
      - Please install the datapack for better compatibility between Better Villages and Ice And Fire.
      - You can find the datapack URL in the `compatibility` section of the Better Villages description.
      - URL=https://www.curseforge.com/minecraft/mc-mods/better-village-forge
-[22Jun2025 03:21:36.918] [main/INFO] [Spartan Weaponry/]: Finished initialising Weapon Traits & Attributes! Took 7.589897ms
-[22Jun2025 03:21:36.923] [main/INFO] [firstaid/registry]: Built local FirstAid registry lookups
-[22Jun2025 03:21:37.009] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[22Jun2025 03:21:37.010] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[22Jun2025 03:21:37.010] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[22Jun2025 03:21:37.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[22Jun2025 03:21:37.295] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[22Jun2025 03:21:37.316] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[22Jun2025 03:21:37.397] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[22Jun2025 03:21:37.398] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[22Jun2025 03:21:37.398] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[22Jun2025 03:21:37.398] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[22Jun2025 03:21:37.419] [Server thread/INFO] [Puzzles Lib/]: Loading server config for illagerinvasion
-[22Jun2025 03:21:37.421] [Thread-0/INFO] [Puzzles Lib/]: Reloading server config for illagerinvasion
-[22Jun2025 03:21:37.433] [Server thread/INFO] [Puzzles Lib/]: Loading server config for hangglider
-[22Jun2025 03:21:37.435] [Thread-0/INFO] [Puzzles Lib/]: Reloading server config for hangglider
-[22Jun2025 03:21:37.438] [Server thread/INFO] [Puzzles Lib/]: Loading server config for enchantinginfuser
-[22Jun2025 03:21:37.440] [Thread-0/INFO] [Puzzles Lib/]: Reloading server config for enchantinginfuser
-[22Jun2025 03:21:37.442] [Thread-0/INFO] [Puzzles Lib/]: Reloading server config for enchantinginfuser
-[22Jun2025 03:21:37.545] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[22Jun2025 03:21:40.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[22Jun2025 03:21:44.930] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Jun2025 03:21:44.967] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Jun2025 03:21:44.985] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Jun2025 03:21:45.007] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Jun2025 03:21:45.018] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Jun2025 03:21:45.034] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Jun2025 03:21:45.055] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Jun2025 03:21:45.071] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Jun2025 03:21:45.095] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Jun2025 03:21:45.456] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Jun2025 03:21:45.956] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 22%
-[22Jun2025 03:21:46.456] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 84%
-[22Jun2025 03:21:46.552] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5596 ms
-[22Jun2025 03:21:46.552] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (9.141s)! For help, type "help"
-[22Jun2025 03:21:46.588] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[22Jun2025 03:21:46.593] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
-[22Jun2025 03:21:46.593] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[22Jun2025 03:21:46.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
-[22Jun2025 03:21:46.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: home/codespace/.python/current/bin/python3 "/workspaces/awdna./msx (1).py"<--[HERE]
-[22Jun2025 03:27:03.521] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: C0LIGAMES[/127.53.118.236:36397] logged in with entity id 118 at (-179.87213326959414, 63.0, -716.3156726344863)
-[22Jun2025 03:27:03.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
-[22Jun2025 03:27:05.763] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2270ms or 45 ticks behind
-[22Jun2025 03:28:07.255] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Disconnected
-[22Jun2025 03:28:07.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
+[22Jun2025 21:48:37.677] [main/INFO] [Spartan Weaponry/]: Finished initialising Weapon Traits & Attributes! Took 6.655617ms
+[22Jun2025 21:48:37.682] [main/INFO] [firstaid/registry]: Built local FirstAid registry lookups
+[22Jun2025 21:48:37.807] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[22Jun2025 21:48:37.809] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[22Jun2025 21:48:37.810] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[22Jun2025 21:48:37.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[22Jun2025 21:48:37.908] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[22Jun2025 21:48:37.954] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[22Jun2025 21:48:38.047] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22Jun2025 21:48:38.048] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[22Jun2025 21:48:38.048] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22Jun2025 21:48:38.049] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[22Jun2025 21:48:38.076] [Server thread/INFO] [Puzzles Lib/]: Loading server config for illagerinvasion
+[22Jun2025 21:48:38.077] [Thread-0/INFO] [Puzzles Lib/]: Reloading server config for illagerinvasion
+[22Jun2025 21:48:38.077] [Thread-0/INFO] [Puzzles Lib/]: Reloading server config for illagerinvasion
+[22Jun2025 21:48:38.092] [Server thread/INFO] [Puzzles Lib/]: Loading server config for hangglider
+[22Jun2025 21:48:38.094] [Thread-0/INFO] [Puzzles Lib/]: Reloading server config for hangglider
+[22Jun2025 21:48:38.096] [Thread-0/INFO] [Puzzles Lib/]: Reloading server config for hangglider
+[22Jun2025 21:48:38.099] [Server thread/INFO] [Puzzles Lib/]: Loading server config for enchantinginfuser
+[22Jun2025 21:48:38.101] [Thread-0/INFO] [Puzzles Lib/]: Reloading server config for enchantinginfuser
+[22Jun2025 21:48:38.220] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[22Jun2025 21:48:41.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[22Jun2025 21:48:45.019] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Jun2025 21:48:45.055] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Jun2025 21:48:45.066] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Jun2025 21:48:45.075] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Jun2025 21:48:45.087] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Jun2025 21:48:45.095] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Jun2025 21:48:45.101] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Jun2025 21:48:45.279] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Jun2025 21:48:45.781] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Jun2025 21:48:46.274] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[22Jun2025 21:48:46.774] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 65%
+[22Jun2025 21:48:46.996] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5223 ms
+[22Jun2025 21:48:46.997] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (8.934s)! For help, type "help"
+[22Jun2025 21:48:47.051] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[22Jun2025 21:48:47.058] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[22Jun2025 21:48:47.058] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[22Jun2025 21:50:15.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[22Jun2025 21:50:15.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[22Jun2025 21:50:15.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[22Jun2025 21:50:15.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[22Jun2025 21:50:15.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22Jun2025 21:50:15.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22Jun2025 21:50:15.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/grotesque_steve:stomach
+[22Jun2025 21:50:15.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22Jun2025 21:50:15.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22Jun2025 21:50:15.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22Jun2025 21:50:15.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (stomach): All chunks are saved
+[22Jun2025 21:50:15.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22Jun2025 21:50:15.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
