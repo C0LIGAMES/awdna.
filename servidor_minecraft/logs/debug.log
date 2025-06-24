@@ -9137,3 +9137,12 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [24Jun2025 23:26:51.996] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [24Jun2025 23:26:52.005] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [24Jun2025 23:29:27.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> chale
+[24Jun2025 23:31:51.998] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jun2025 23:31:52.006] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jun2025 23:36:05.993] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-332, y=64, z=-218} BlockPos{x=-332, y=62, z=-217}
+[24Jun2025 23:36:51.995] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jun2025 23:36:52.004] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jun2025 23:37:42.341] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[24Jun2025 23:40:58.281] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[24Jun2025 23:41:02.032] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[24Jun2025 23:41:02.033] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!

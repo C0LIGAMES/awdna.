@@ -1298,3 +1298,4 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [24Jun2025 23:20:52.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> duerme
 [24Jun2025 23:23:12.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> VISITAAME UN RATO TOY SOLO
 [24Jun2025 23:29:27.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> chale
+[24Jun2025 23:36:05.993] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-332, y=64, z=-218} BlockPos{x=-332, y=62, z=-217}
