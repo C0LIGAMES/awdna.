@@ -36,6 +36,7 @@
       "minecraft:deep_lukewarm_ocean": "2025-06-22 22:30:16 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-22 02:53:15 +0000",
       "minecraft:windswept_gravelly_hills": "2025-06-18 02:53:40 +0000",
+      "minecraft:savanna": "2025-06-24 23:16:49 +0000",
       "minecraft:plains": "2025-06-16 00:35:49 +0000"
     },
     "done": false
@@ -2007,6 +2008,7 @@
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_large_dungeon": "2025-06-16 00:57:46 +0000",
+      "entered_dungeon_variant": "2025-06-24 23:03:40 +0000",
       "entered_ruined_building": "2025-06-22 02:53:24 +0000"
     },
     "done": false
@@ -4168,6 +4170,12 @@
   "iceandfire:recipes/misc/ash_to_charcoal": {
     "criteria": {
       "has_item": "2025-06-24 22:51:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/gold_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-06-24 23:07:59 +0000"
     },
     "done": true
   },
