@@ -1179,3 +1179,82 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [24Jun2025 22:50:19.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
 [24Jun2025 22:50:26.666] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [24Jun2025 22:50:26.666] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[24Jun2025 22:50:29.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was energized by Lightning Dragon
+[24Jun2025 22:50:32.149] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[24Jun2025 22:50:32.150] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[24Jun2025 22:50:36.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was slain by Lightning Dragon
+[24Jun2025 22:50:53.289] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[24Jun2025 22:50:53.289] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[24Jun2025 22:50:56.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was slain by Lightning Dragon
+[24Jun2025 22:50:57.902] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[24Jun2025 22:50:57.902] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[24Jun2025 22:51:05.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was slain by Lightning Dragon
+[24Jun2025 22:51:06.624] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[24Jun2025 22:51:06.624] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[24Jun2025 22:51:11.977] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7265ba8a[id=<null>,name=joaocover,properties={},legacy=false] (/127.201.115.94:46387) lost connection: Disconnected
+[24Jun2025 22:51:44.025] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1acb7ab4[id=<null>,name=joaocover,properties={},legacy=false] (/127.201.115.94:52205) lost connection: Disconnected
+[24Jun2025 22:52:03.924] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@201d60fb[id=<null>,name=joaocover,properties={},legacy=false] (/127.201.115.94:53429) lost connection: Disconnected
+[24Jun2025 22:52:05.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was slain by Zombie
+[24Jun2025 22:52:06.727] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[24Jun2025 22:52:06.727] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[24Jun2025 22:52:15.641] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joaocover[/127.201.115.94:52361] logged in with entity id 12206 at (-239.23750001192093, -8.0, -287.30000001192093)
+[24Jun2025 22:52:15.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover joined the game
+[24Jun2025 22:52:27.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was energized by Lightning Dragon
+[24Jun2025 22:52:28.326] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[24Jun2025 22:52:28.326] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[24Jun2025 22:52:35.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was energized by Lightning Dragon
+[24Jun2025 22:52:36.375] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[24Jun2025 22:52:36.376] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[24Jun2025 22:52:40.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was slain by Lightning Dragon
+[24Jun2025 22:52:41.691] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[24Jun2025 22:52:41.691] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[24Jun2025 22:52:53.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was energized by Lightning Dragon
+[24Jun2025 22:52:54.721] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[24Jun2025 22:52:54.721] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[24Jun2025 22:53:02.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was slain by Lightning Dragon
+[24Jun2025 22:53:04.134] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[24Jun2025 22:53:04.135] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[24Jun2025 22:53:12.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was energized by Lightning Dragon
+[24Jun2025 22:53:13.705] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[24Jun2025 22:53:13.705] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[24Jun2025 22:53:27.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was slain by Lightning Dragon
+[24Jun2025 22:53:28.477] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[24Jun2025 22:53:28.477] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[24Jun2025 22:53:32.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was slain by Lightning Dragon
+[24Jun2025 22:53:33.797] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[24Jun2025 22:53:33.797] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[24Jun2025 22:53:38.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was struck with lightning by Lightning Dragon
+[24Jun2025 22:53:38.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover died
+[24Jun2025 22:53:38.821] [Server thread/INFO] [Scaling Health/]: Blight Wolf has died
+[24Jun2025 22:53:38.823] [Server thread/INFO] [Scaling Health/]: Blight Wolf has died
+[24Jun2025 22:53:39.224] [Server thread/INFO] [Scaling Health/]: Blight Zombie has died
+[24Jun2025 22:53:39.264] [Server thread/INFO] [Scaling Health/]: Blight Skeleton has died
+[24Jun2025 22:53:39.362] [Server thread/INFO] [Scaling Health/]: Blight Myrmex Soldier has died
+[24Jun2025 22:53:39.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Killed 648 entities]
+[24Jun2025 22:53:39.694] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[24Jun2025 22:53:39.694] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[24Jun2025 22:53:39.852] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[24Jun2025 22:53:39.852] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[24Jun2025 22:53:52.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[24Jun2025 22:53:55.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> xd
+[24Jun2025 22:54:09.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> ESE BARRA KILL
+[24Jun2025 22:54:40.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover has made the advancement [Take Aim, Chaps!]
+[24Jun2025 22:54:51.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> pasa coord
+[24Jun2025 22:55:34.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was slain by Zombie
+[24Jun2025 22:57:20.229] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[24Jun2025 22:57:20.229] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[24Jun2025 22:57:36.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was slain by Zombie
+[24Jun2025 22:57:37.856] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[24Jun2025 22:57:37.856] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[24Jun2025 22:57:59.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was slain by Zombie
+[24Jun2025 22:58:00.674] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[24Jun2025 22:58:00.674] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[24Jun2025 22:58:08.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was slain by Zombie
+[24Jun2025 22:58:10.623] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[24Jun2025 22:58:10.624] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[24Jun2025 22:59:39.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> no mori
+[24Jun2025 22:59:47.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> XD
+[24Jun2025 22:59:53.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> desaparecio el dragon XD
+[24Jun2025 22:59:59.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> el lot?
+[24Jun2025 23:00:10.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> algo hay
+[24Jun2025 23:00:17.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> -.
