@@ -1299,3 +1299,18 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [24Jun2025 23:23:12.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> VISITAAME UN RATO TOY SOLO
 [24Jun2025 23:29:27.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> chale
 [24Jun2025 23:36:05.993] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-332, y=64, z=-218} BlockPos{x=-332, y=62, z=-217}
+[24Jun2025 23:44:49.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]
+[24Jun2025 23:44:51.223] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Disconnected
+[24Jun2025 23:44:51.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
+[24Jun2025 23:45:02.129] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: C0LIGAMES[/127.53.118.236:45631] logged in with entity id 33806 at (-2643.300000011921, 73.0, -697.6574185833734)
+[24Jun2025 23:45:02.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
+[24Jun2025 23:45:09.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> XD
+[24Jun2025 23:45:25.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> reviviste
+[24Jun2025 23:45:35.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> si
+[24Jun2025 23:45:53.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> echale un vistaso a mi base
+[24Jun2025 23:46:04.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> ES UN POCO PEQUEÑA
+[24Jun2025 23:46:09.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> PERO ME SIRVE
+[24Jun2025 23:46:24.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover has made the advancement [Take Aim]
+[24Jun2025 23:48:13.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> uff simetria
+[24Jun2025 23:50:49.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has made the advancement [Packing Up!]
+[24Jun2025 23:51:01.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has made the advancement [Bigger is better]
