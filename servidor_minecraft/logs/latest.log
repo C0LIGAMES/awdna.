@@ -460,3 +460,45 @@ Reason: Banned by an operator.
 [25Jun2025 02:12:05.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has made the advancement [Blade of the Samurai]
 [25Jun2025 02:13:37.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> libertad
 [25Jun2025 02:14:01.110] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover moved too quickly! 0.19440790337694125,-0.5009966402674735,10.050900952352208
+[25Jun2025 02:14:28.742] [Server thread/INFO] [Scaling Health/]: Blight Zombie was killed by C0LIGAMES
+[25Jun2025 02:15:51.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was slain by Zombie
+[25Jun2025 02:15:52.774] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jun2025 02:15:52.774] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[25Jun2025 02:16:39.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> ME FUI SADISFECHO DEL NUEVO CONTINENTE
+[25Jun2025 02:16:51.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[25Jun2025 02:17:10.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> por que tu base es una dangueon de pilaller
+[25Jun2025 02:18:18.738] [Server thread/INFO] [Scaling Health/]: Blight Zombie was killed by C0LIGAMES
+[25Jun2025 02:18:25.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover fell off some vines
+[25Jun2025 02:18:25.990] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for joaocover with unique ID travelersbackpack.standard_25.06.2025-02.18.25.dat
+[25Jun2025 02:18:28.171] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jun2025 02:18:28.171] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[25Jun2025 02:18:32.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[25Jun2025 02:18:51.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> BUENO TODO DE4 NUEVOW
+[25Jun2025 02:22:31.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> CUENTAME EL FINAL
+[25Jun2025 02:22:56.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> el final feliz
+[25Jun2025 02:23:00.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD?
+[25Jun2025 02:24:29.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> nms
+[25Jun2025 02:24:36.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> hay dngueon bajo el agua
+[25Jun2025 02:24:39.056] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joaocover) moved wrongly! 0.609736831886039
+[25Jun2025 02:24:39.130] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joaocover) moved wrongly! 0.9762627299212454
+[25Jun2025 02:24:39.194] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joaocover) moved wrongly! 1.352318955423243
+[25Jun2025 02:24:59.420] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/137313, l='ServerLevel[world]', x=-1541.27, y=58.44, z=-720.07]
+[25Jun2025 02:24:59.420] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/137314, l='ServerLevel[world]', x=-1541.27, y=58.44, z=-720.07]
+[25Jun2025 02:24:59.420] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/137315, l='ServerLevel[world]', x=-1541.27, y=58.44, z=-720.07]
+[25Jun2025 02:24:59.420] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/137316, l='ServerLevel[world]', x=-1541.27, y=58.44, z=-720.07]
+[25Jun2025 02:24:59.420] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/137317, l='ServerLevel[world]', x=-1541.27, y=58.44, z=-720.07]
+[25Jun2025 02:27:04.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was slain by Zombie
+[25Jun2025 02:27:04.566] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for C0LIGAMES with unique ID travelersbackpack.cactus_25.06.2025-02.27.04.dat
+[25Jun2025 02:27:06.054] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jun2025 02:27:06.054] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[25Jun2025 02:27:48.479] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
+[25Jun2025 02:27:52.931] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
+[25Jun2025 02:27:56.150] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
+[25Jun2025 02:28:01.131] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
+[25Jun2025 02:29:32.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> voy
+[25Jun2025 02:33:02.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has made the advancement [Voluntary Exile]
+[25Jun2025 02:34:11.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Sea Serpent
+[25Jun2025 02:34:11.069] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for joaocover with unique ID travelersbackpack.standard_25.06.2025-02.34.11.dat
+[25Jun2025 02:34:12.183] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jun2025 02:34:12.183] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[25Jun2025 02:34:14.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD

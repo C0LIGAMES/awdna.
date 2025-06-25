@@ -753,6 +753,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-06-25 02:33:02 +0000",
       "minecraft:skeleton": "2025-06-16 00:51:42 +0000",
       "minecraft:spider": "2025-06-21 01:19:40 +0000",
       "minecraft:slime": "2025-06-25 01:54:01 +0000",
@@ -4964,9 +4965,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-06-25 02:33:02 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:rapier": {
     "criteria": {
       "has_rapier": "2025-06-25 01:42:31 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cactus_smithing": {
+    "criteria": {
+      "has_cactus": "2025-06-25 02:17:29 +0000"
     },
     "done": true
   },
