@@ -4812,12 +4812,6 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_amythest_leggings": {
-    "criteria": {
-      "has_item": "2025-06-25 01:07:30 +0000"
-    },
-    "done": true
-  },
   "spartanfire:recipes/lightning_dragon_bone_longbow": {
     "criteria": {
       "has_lightning_dragon_blood": "2025-06-25 01:07:22 +0000"
@@ -4860,21 +4854,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_amythest_helmet": {
-    "criteria": {
-      "has_item": "2025-06-25 01:07:30 +0000"
-    },
-    "done": true
-  },
   "spartanfire:recipes/lightning_dragon_bone_tomahawk": {
     "criteria": {
       "has_lightning_dragon_blood": "2025-06-25 01:07:22 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragon_egg": {
-    "criteria": {
-      "egg": "2025-06-25 01:07:32 +0000"
     },
     "done": true
   },
@@ -4902,21 +4884,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_amythest_boots": {
-    "criteria": {
-      "has_item": "2025-06-25 01:07:30 +0000"
-    },
-    "done": true
-  },
   "spartanfire:recipes/lightning_dragon_bone_warhammer": {
     "criteria": {
       "has_lightning_dragon_blood": "2025-06-25 01:07:22 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_amythest_to_dragonscale_amythest": {
-    "criteria": {
-      "has_dragonscales_amythest": "2025-06-25 01:07:30 +0000"
     },
     "done": true
   },
@@ -4929,12 +4899,6 @@
   "spartanfire:recipes/lightning_dragon_bone_heavy_crossbow": {
     "criteria": {
       "has_lightning_dragon_blood": "2025-06-25 01:07:22 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_amythest_chestplate": {
-    "criteria": {
-      "has_item": "2025-06-25 01:07:30 +0000"
     },
     "done": true
   },
@@ -4953,6 +4917,42 @@
   "spartanfire:recipes/lightning_dragon_bone_saber": {
     "criteria": {
       "has_lightning_dragon_blood": "2025-06-25 01:07:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_leggings": {
+    "criteria": {
+      "has_item": "2025-06-25 01:07:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_helmet": {
+    "criteria": {
+      "has_item": "2025-06-25 01:07:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_boots": {
+    "criteria": {
+      "has_item": "2025-06-25 01:07:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_amythest_to_dragonscale_amythest": {
+    "criteria": {
+      "has_dragonscales_amythest": "2025-06-25 01:07:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-25 01:07:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2025-06-25 01:07:32 +0000"
     },
     "done": true
   },

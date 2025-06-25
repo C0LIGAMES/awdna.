@@ -256,3 +256,86 @@ Reason: Banned by an operator.
 [25Jun2025 01:22:13.612] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Flying is not enabled on this server
 [25Jun2025 01:22:13.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
 [25Jun2025 01:22:49.886] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@505ec926[id=<null>,name=C0LIGAMES,properties={},legacy=false] (/127.53.118.236:54753) lost connection: Disconnected
+[25Jun2025 01:23:22.308] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1aa45912[id=<null>,name=C0LIGAMES,properties={},legacy=false] (/127.53.118.236:51171) lost connection: Disconnected
+[25Jun2025 01:23:31.059] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: C0LIGAMES[/127.53.118.236:41143] logged in with entity id 103393 at (-1560.272094425509, 91.35807168628544, -721.5196708299667)
+[25Jun2025 01:23:31.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
+[25Jun2025 01:23:39.796] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES moved too quickly! 0.0,-10.806526110008988,0.0
+[25Jun2025 01:23:43.555] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES was kicked for floating too long!
+[25Jun2025 01:23:43.636] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Flying is not enabled on this server
+[25Jun2025 01:23:43.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
+[25Jun2025 01:24:10.521] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@73db5275[id=<null>,name=C0LIGAMES,properties={},legacy=false] (/127.53.118.236:32823) lost connection: Disconnected
+[25Jun2025 01:25:40.846] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: C0LIGAMES[/127.53.118.236:56161] logged in with entity id 104143 at (-1560.2189019262478, 81.61260444018367, -721.4990928479826)
+[25Jun2025 01:25:40.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
+[25Jun2025 01:25:47.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set C0LIGAMES's game mode to Spectator Mode
+[25Jun2025 01:25:57.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]
+[25Jun2025 01:25:59.097] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Disconnected
+[25Jun2025 01:25:59.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
+[25Jun2025 01:26:30.221] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@9d01e6a[id=<null>,name=C0LIGAMES,properties={},legacy=false] (/127.53.118.236:56433) lost connection: Disconnected
+[25Jun2025 01:27:36.619] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1d37ed8b[id=<null>,name=C0LIGAMES,properties={},legacy=false] (/127.53.118.236:50269) lost connection: Disconnected
+[25Jun2025 01:27:47.201] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: C0LIGAMES[/127.53.118.236:42195] logged in with entity id 104926 at (-1560.2189019262478, 57.62250584971819, -721.4990928479826)
+[25Jun2025 01:27:47.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
+[25Jun2025 01:27:57.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was slain by Sea Serpent
+[25Jun2025 01:28:00.829] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jun2025 01:28:00.829] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[25Jun2025 01:28:04.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> TENGO MIEDO WE
+[25Jun2025 01:28:09.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported C0LIGAMES to -1553.500000, 59.500000, -724.500000]
+[25Jun2025 01:28:14.970] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Disconnected
+[25Jun2025 01:28:14.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
+[25Jun2025 01:28:50.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Underzealot
+[25Jun2025 01:28:50.015] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for joaocover with unique ID travelersbackpack.standard_25.06.2025-01.28.50.dat
+[25Jun2025 01:28:51.457] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jun2025 01:28:51.457] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[25Jun2025 01:29:09.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Vesper
+[25Jun2025 01:29:10.672] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jun2025 01:29:10.673] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[25Jun2025 01:29:27.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Vesper
+[25Jun2025 01:29:28.839] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jun2025 01:29:28.839] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[25Jun2025 01:29:32.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Vesper
+[25Jun2025 01:29:34.186] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jun2025 01:29:34.186] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[25Jun2025 01:29:41.267] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover moved too quickly! -1.7172684377765108,-9.667067244575914,3.348728810135526
+[25Jun2025 01:29:53.851] [Server thread/INFO] [Scaling Health/]: Blight Glow Squid has died
+[25Jun2025 01:30:17.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Vesper
+[25Jun2025 01:30:19.169] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: C0LIGAMES[/127.53.118.236:33889] logged in with entity id 107640 at (-1553.5, 49.71359914051722, -724.5)
+[25Jun2025 01:30:19.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
+[25Jun2025 01:30:19.223] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jun2025 01:30:19.223] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[25Jun2025 01:30:33.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was slain by Sea Serpent
+[25Jun2025 01:30:33.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[25Jun2025 01:30:36.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Vesper
+[25Jun2025 01:30:37.891] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jun2025 01:30:37.892] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[25Jun2025 01:30:40.435] [Server thread/INFO] [Scaling Health/]: Blight Gloomoth has died
+[25Jun2025 01:30:45.504] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jun2025 01:30:45.504] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[25Jun2025 01:30:48.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported C0LIGAMES to -1547.500000, 46.500000, -721.500000]
+[25Jun2025 01:30:58.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Vesper
+[25Jun2025 01:30:59.352] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jun2025 01:30:59.353] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[25Jun2025 01:31:04.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set C0LIGAMES's game mode to Creative Mode
+[25Jun2025 01:31:49.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Underzealot
+[25Jun2025 01:31:51.088] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jun2025 01:31:51.089] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[25Jun2025 01:31:56.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]
+[25Jun2025 01:32:12.500] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES moved too quickly! 11.61827017198243,0.7806827045792346,4.560286696714911
+[25Jun2025 01:32:15.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Underzealot
+[25Jun2025 01:32:15.479] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES was kicked for floating too long!
+[25Jun2025 01:32:15.502] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Flying is not enabled on this server
+[25Jun2025 01:32:15.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
+[25Jun2025 01:32:16.537] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jun2025 01:32:16.537] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[25Jun2025 01:32:40.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Vesper
+[25Jun2025 01:32:41.591] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jun2025 01:32:41.591] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[25Jun2025 01:32:55.988] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3bfe5513[id=<null>,name=C0LIGAMES,properties={},legacy=false] (/127.53.118.236:33225) lost connection: Disconnected
+[25Jun2025 01:33:05.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was doomed to fall by Vesper
+[25Jun2025 01:33:06.925] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jun2025 01:33:06.925] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[25Jun2025 01:33:17.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Vesper
+[25Jun2025 01:33:18.724] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jun2025 01:33:18.724] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[25Jun2025 01:33:31.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Vesper
+[25Jun2025 01:33:32.564] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jun2025 01:33:32.564] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[25Jun2025 01:33:33.404] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@135370f5[id=<null>,name=C0LIGAMES,properties={},legacy=false] (/127.53.118.236:47631) lost connection: Disconnected
