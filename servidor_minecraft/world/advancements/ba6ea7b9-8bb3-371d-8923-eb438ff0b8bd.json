@@ -24,6 +24,7 @@
       "minecraft:windswept_hills": "2025-06-21 01:36:10 +0000",
       "minecraft:bamboo_jungle": "2025-06-25 00:41:37 +0000",
       "minecraft:beach": "2025-06-18 02:36:23 +0000",
+      "minecraft:sparse_jungle": "2025-06-25 00:42:53 +0000",
       "minecraft:river": "2025-06-16 00:25:04 +0000",
       "minecraft:lukewarm_ocean": "2025-06-25 00:26:05 +0000",
       "minecraft:forest": "2025-06-16 00:24:09 +0000",
@@ -4712,6 +4713,18 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-25 00:51:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-06-25 00:51:32 +0000"
+    },
+    "done": true
+  },
   "dungeons_enhanced:thats_a_dungeon": {
     "criteria": {
       "entered_large_dungeon": "2025-06-25 00:32:22 +0000"
@@ -4724,9 +4737,81 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-06-25 00:51:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-25 00:51:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-25 00:51:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-06-25 00:51:32 +0000"
+    },
+    "done": true
+  },
   "dungeons_enhanced:root": {
     "criteria": {
       "entered_large_dungeon": "2025-06-25 00:32:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-25 00:51:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-06-25 00:51:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-06-25 00:51:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-06-25 00:51:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-06-25 00:51:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-06-25 00:59:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-06-25 00:59:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-06-25 00:59:36 +0000"
     },
     "done": true
   },
