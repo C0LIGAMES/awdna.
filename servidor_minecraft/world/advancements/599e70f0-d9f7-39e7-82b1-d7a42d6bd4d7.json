@@ -4971,6 +4971,12 @@
     },
     "done": true
   },
+  "spartanweaponry:saber": {
+    "criteria": {
+      "has_saber": "2025-06-25 02:55:07 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/lead_heavy_crossbow": {
     "criteria": {
       "has_lead_ingot": "2025-06-25 02:36:08 +0000"

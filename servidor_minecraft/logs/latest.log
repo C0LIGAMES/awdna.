@@ -517,3 +517,44 @@ Reason: Banned by an operator.
 [25Jun2025 02:41:46.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> usa un barco pe cojudo
 [25Jun2025 02:42:01.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> AAAA
 [25Jun2025 02:42:12.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[25Jun2025 02:47:00.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Sea Serpent
+[25Jun2025 02:47:01.723] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jun2025 02:47:01.723] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[25Jun2025 02:49:25.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> jojajo
+[25Jun2025 02:49:28.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> que
+[25Jun2025 02:49:29.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> apago el server
+[25Jun2025 02:49:33.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> PERA
+[25Jun2025 02:49:46.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> MIS COSAS
+[25Jun2025 02:50:07.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> no despawnean
+[25Jun2025 02:50:16.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> IGUAL VOY
+[25Jun2025 02:50:34.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> dame 5
+[25Jun2025 02:51:16.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> 5
+[25Jun2025 02:52:22.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> TIENES DAWN?
+[25Jun2025 02:52:26.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD?
+[25Jun2025 02:52:39.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> ENCONTRE UN TEMPLO ACUATICO
+[25Jun2025 02:52:49.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> 3
+[25Jun2025 02:53:45.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> 2
+[25Jun2025 02:55:07.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has made the advancement [Swashbuckler]
+[25Jun2025 02:55:15.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ya
+[25Jun2025 02:55:20.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> nos vemos jojajo
+[25Jun2025 02:55:36.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> chau
+[25Jun2025 02:55:37.584] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Disconnected
+[25Jun2025 02:55:37.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
+[25Jun2025 02:56:21.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Sea Serpent
+[25Jun2025 02:56:22.945] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jun2025 02:56:22.945] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[25Jun2025 02:56:27.623] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover lost connection: Disconnected
+[25Jun2025 02:56:27.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover left the game
+[25Jun2025 02:56:27.665] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[25Jun2025 02:57:29.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[25Jun2025 02:57:29.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[25Jun2025 02:57:29.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[25Jun2025 02:57:29.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[25Jun2025 02:57:31.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/grotesque_steve:stomach
+[25Jun2025 02:57:31.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[25Jun2025 02:57:31.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[25Jun2025 02:57:31.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[25Jun2025 02:57:31.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (stomach): All chunks are saved
+[25Jun2025 02:57:31.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[25Jun2025 02:57:31.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[25Jun2025 02:57:31.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
