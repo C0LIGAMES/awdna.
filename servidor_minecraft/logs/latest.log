@@ -339,3 +339,58 @@ Reason: Banned by an operator.
 [25Jun2025 01:33:32.564] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [25Jun2025 01:33:32.564] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
 [25Jun2025 01:33:33.404] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@135370f5[id=<null>,name=C0LIGAMES,properties={},legacy=false] (/127.53.118.236:47631) lost connection: Disconnected
+[25Jun2025 01:33:41.971] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[25Jun2025 01:33:53.518] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: C0LIGAMES[/127.53.118.236:49327] logged in with entity id 112247 at (-1230.598543346527, 65.78182135595509, -580.1637072547227)
+[25Jun2025 01:33:53.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
+[25Jun2025 01:34:10.105] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13146ms or 262 ticks behind
+[25Jun2025 01:34:15.222] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES moved too quickly! 0.8173991184987699,-10.09780262021114,0.4098666702971059
+[25Jun2025 01:34:22.724] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES moved too quickly! 10.295529633393699,3.573642368742,3.952529831467359
+[25Jun2025 01:34:38.656] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13598ms or 271 ticks behind
+[25Jun2025 01:34:43.297] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES moved too quickly! 9.734293139898455,1.311568916973684,5.022942243288867
+[25Jun2025 01:35:03.798] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10189ms or 203 ticks behind
+[25Jun2025 01:35:29.496] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10737ms or 214 ticks behind
+[25Jun2025 01:35:40.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES fell from a high place
+[25Jun2025 01:35:42.303] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jun2025 01:35:42.303] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[25Jun2025 01:35:47.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> f
+[25Jun2025 01:35:55.956] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11497ms or 229 ticks behind
+[25Jun2025 01:36:13.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[25Jun2025 01:36:18.318] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7410ms or 148 ticks behind
+[25Jun2025 01:36:21.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> TU CADAVER ES INMUNE A LA LAVA
+[25Jun2025 01:36:24.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> me persigue los familiares de batman
+[25Jun2025 01:36:34.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> xd
+[25Jun2025 01:36:38.052] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4743ms or 94 ticks behind
+[25Jun2025 01:36:55.761] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2752ms or 55 ticks behind
+[25Jun2025 01:37:13.986] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3227ms or 64 ticks behind
+[25Jun2025 01:38:06.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was doomed to fall by Vesper
+[25Jun2025 01:38:07.425] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jun2025 01:38:07.425] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[25Jun2025 01:38:40.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Vesper
+[25Jun2025 01:38:41.641] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jun2025 01:38:41.641] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[25Jun2025 01:38:43.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[25Jun2025 01:39:29.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Underzealot
+[25Jun2025 01:39:31.043] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jun2025 01:39:31.043] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[25Jun2025 01:39:36.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[25Jun2025 01:40:55.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover has reached the goal [The Black Parade]
+[25Jun2025 01:41:16.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Vesper
+[25Jun2025 01:41:17.673] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jun2025 01:41:17.673] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[25Jun2025 01:42:00.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Corrodent
+[25Jun2025 01:42:01.880] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jun2025 01:42:01.880] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[25Jun2025 01:42:18.323] [Server thread/INFO] [Scaling Health/]: Blight Gloomoth has died
+[25Jun2025 01:42:31.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has made the advancement [En Garde!]
+[25Jun2025 01:42:33.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Corrodent
+[25Jun2025 01:42:36.545] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jun2025 01:42:36.545] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[25Jun2025 01:42:45.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Vesper
+[25Jun2025 01:42:46.820] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jun2025 01:42:46.820] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[25Jun2025 01:42:50.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Vesper
+[25Jun2025 01:42:52.023] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jun2025 01:42:52.023] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[25Jun2025 01:43:41.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Vesper
+[25Jun2025 01:43:42.843] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jun2025 01:43:42.843] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
