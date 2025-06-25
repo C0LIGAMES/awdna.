@@ -4956,9 +4956,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/bookshelf_smithing": {
+    "criteria": {
+      "has_bookshelf": "2025-06-25 01:45:40 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:rapier": {
     "criteria": {
       "has_rapier": "2025-06-25 01:42:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-06-25 01:52:56 +0000"
     },
     "done": true
   },
