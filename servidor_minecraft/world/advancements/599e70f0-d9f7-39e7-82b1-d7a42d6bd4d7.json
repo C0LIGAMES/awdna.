@@ -4181,9 +4181,105 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-06-24 23:50:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-06-24 23:50:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_button": {
     "criteria": {
       "has_planks": "2025-06-24 23:50:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-24 23:50:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2025-06-24 23:50:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2025-06-24 23:50:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-24 23:50:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2025-06-24 23:50:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-24 23:50:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-24 23:50:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2025-06-24 23:50:33 +0000"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/iron_from_basic": {
+    "criteria": {
+      "recipe_condition": "2025-06-24 23:50:49 +0000"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/copper_from_basic": {
+    "criteria": {
+      "recipe_condition": "2025-06-24 23:50:49 +0000"
+    },
+    "done": true
+  },
+  "packedup:basic_backpack": {
+    "criteria": {
+      "has_backpack": "2025-06-24 23:50:49 +0000"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/gold_from_copper": {
+    "criteria": {
+      "recipe_condition": "2025-06-24 23:51:01 +0000"
+    },
+    "done": true
+  },
+  "packedup:iron_or_copper_backpack": {
+    "criteria": {
+      "has_copper_backpack": "2025-06-24 23:51:01 +0000"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/silver_from_copper": {
+    "criteria": {
+      "recipe_condition": "2025-06-24 23:51:01 +0000"
     },
     "done": true
   },
@@ -4229,30 +4325,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/acacia_stairs": {
-    "criteria": {
-      "has_planks": "2025-06-24 23:50:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/acacia_door": {
-    "criteria": {
-      "has_planks": "2025-06-24 23:50:33 +0000"
-    },
-    "done": true
-  },
-  "packedup:recipes/misc/gold_from_copper": {
-    "criteria": {
-      "recipe_condition": "2025-06-24 23:51:01 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/skull_to_bone_meal": {
-    "criteria": {
-      "has_item": "2025-06-24 23:54:14 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/misc/nest": {
     "criteria": {
       "has_item": "2025-06-24 23:54:13 +0000"
@@ -4271,18 +4343,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/acacia_sign": {
-    "criteria": {
-      "has_planks": "2025-06-24 23:50:33 +0000"
-    },
-    "done": true
-  },
-  "packedup:iron_or_copper_backpack": {
-    "criteria": {
-      "has_copper_backpack": "2025-06-24 23:51:01 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/building_blocks/dragon_bone_block": {
     "criteria": {
       "has_dragonbone": "2025-06-24 23:54:13 +0000"
@@ -4298,12 +4358,6 @@
   "spartanfire:recipes/dragon_bone_throwing_knife": {
     "criteria": {
       "has_dragon_bone": "2025-06-24 23:54:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/acacia_wood": {
-    "criteria": {
-      "has_log": "2025-06-24 23:50:25 +0000"
     },
     "done": true
   },
@@ -4337,51 +4391,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/acacia_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-06-24 23:50:33 +0000"
-    },
-    "done": true
-  },
-  "packedup:recipes/misc/iron_from_basic": {
-    "criteria": {
-      "recipe_condition": "2025-06-24 23:50:49 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/tools/dragonbone_shovel": {
     "criteria": {
       "has_item": "2025-06-24 23:54:13 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/acacia_slab": {
-    "criteria": {
-      "has_planks": "2025-06-24 23:50:33 +0000"
-    },
-    "done": true
-  },
   "spartanfire:recipes/dragon_bone_longbow": {
     "criteria": {
       "has_dragon_bone": "2025-06-24 23:54:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/acacia_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-06-24 23:50:33 +0000"
-    },
-    "done": true
-  },
-  "packedup:recipes/misc/copper_from_basic": {
-    "criteria": {
-      "recipe_condition": "2025-06-24 23:50:49 +0000"
-    },
-    "done": true
-  },
-  "packedup:basic_backpack": {
-    "criteria": {
-      "has_backpack": "2025-06-24 23:50:49 +0000"
     },
     "done": true
   },
@@ -4421,12 +4439,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/acacia_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-06-24 23:50:33 +0000"
-    },
-    "done": true
-  },
   "spartanfire:recipes/dragon_bone_javelin": {
     "criteria": {
       "has_dragon_bone": "2025-06-24 23:54:13 +0000"
@@ -4436,12 +4448,6 @@
   "spartanfire:recipes/dragon_bone_tomahawk": {
     "criteria": {
       "has_dragon_bone": "2025-06-24 23:54:13 +0000"
-    },
-    "done": true
-  },
-  "packedup:recipes/misc/silver_from_copper": {
-    "criteria": {
-      "recipe_condition": "2025-06-24 23:51:01 +0000"
     },
     "done": true
   },
@@ -4463,12 +4469,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/acacia_fence": {
-    "criteria": {
-      "has_planks": "2025-06-24 23:50:33 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/tools/dragonbone_sword": {
     "criteria": {
       "has_item": "2025-06-24 23:54:13 +0000"
@@ -4487,21 +4487,57 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/dragon_stick": {
-    "criteria": {
-      "has_item": "2025-06-24 23:54:14 +0000"
-    },
-    "done": true
-  },
   "spartanfire:recipes/dragon_bone_quarterstaff": {
     "criteria": {
       "has_dragon_bone": "2025-06-24 23:54:13 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/acacia_planks": {
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
     "criteria": {
-      "has_log": "2025-06-24 23:50:25 +0000"
+      "has_item": "2025-06-24 23:54:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_stick": {
+    "criteria": {
+      "has_item": "2025-06-24 23:54:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/crackled_to_gravel": {
+    "criteria": {
+      "has_item": "2025-06-25 00:02:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-25 00:19:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-25 00:19:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-25 00:19:30 +0000"
+    },
+    "done": true
+  },
+  "enchantinginfuser:recipes/decorations/enchanting_infuser": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-25 00:19:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-25 00:19:30 +0000"
     },
     "done": true
   },
