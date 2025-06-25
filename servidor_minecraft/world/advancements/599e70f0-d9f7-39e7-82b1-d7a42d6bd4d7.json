@@ -4959,6 +4959,72 @@
     },
     "done": true
   },
+  "spartanweaponry:rapier": {
+    "criteria": {
+      "has_rapier": "2025-06-25 01:42:31 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bookshelf_smithing": {
+    "criteria": {
+      "has_bookshelf": "2025-06-25 01:45:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-06-25 01:52:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-06-25 01:54:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-06-25 01:54:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-06-25 01:54:02 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:katana": {
+    "criteria": {
+      "has_katana": "2025-06-25 02:12:05 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cactus_smithing": {
+    "criteria": {
+      "has_cactus": "2025-06-25 02:17:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-06-25 02:33:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-06-25 02:35:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-06-25 02:35:18 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/lead_scythe": {
     "criteria": {
       "has_lead_ingot": "2025-06-25 02:36:08 +0000"
@@ -4968,12 +5034,6 @@
   "spartanweaponry:recipes/lead_pike": {
     "criteria": {
       "has_lead_ingot": "2025-06-25 02:36:08 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:saber": {
-    "criteria": {
-      "has_saber": "2025-06-25 02:55:07 +0000"
     },
     "done": true
   },
@@ -4992,24 +5052,6 @@
   "spartanweaponry:recipes/lead_lance": {
     "criteria": {
       "has_lead_ingot": "2025-06-25 02:36:08 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/bookshelf_smithing": {
-    "criteria": {
-      "has_bookshelf": "2025-06-25 01:45:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2025-06-25 02:33:02 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:rapier": {
-    "criteria": {
-      "has_rapier": "2025-06-25 01:42:31 +0000"
     },
     "done": true
   },
@@ -5055,12 +5097,6 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/cactus_smithing": {
-    "criteria": {
-      "has_cactus": "2025-06-25 02:17:29 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/lead_boomerang": {
     "criteria": {
       "has_lead_ingot": "2025-06-25 02:36:08 +0000"
@@ -5073,27 +5109,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/slime_block": {
-    "criteria": {
-      "has_slime_ball": "2025-06-25 01:54:02 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/lead_flanged_mace": {
     "criteria": {
       "has_lead_ingot": "2025-06-25 02:36:08 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:katana": {
-    "criteria": {
-      "has_katana": "2025-06-25 02:12:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2025-06-25 01:52:56 +0000"
     },
     "done": true
   },
@@ -5106,18 +5124,6 @@
   "spartanweaponry:recipes/lead_katana": {
     "criteria": {
       "has_lead_ingot": "2025-06-25 02:36:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/paper": {
-    "criteria": {
-      "has_reeds": "2025-06-25 02:35:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/lead": {
-    "criteria": {
-      "has_slime_ball": "2025-06-25 01:54:02 +0000"
     },
     "done": true
   },
@@ -5157,27 +5163,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/sticky_piston": {
-    "criteria": {
-      "has_slime_ball": "2025-06-25 01:54:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sugar_from_sugar_cane": {
-    "criteria": {
-      "has_sugar_cane": "2025-06-25 02:35:18 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/lead_dagger": {
     "criteria": {
       "has_lead_ingot": "2025-06-25 02:36:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/lapis_lazuli": {
-    "criteria": {
-      "has_lapis_block": "2025-06-25 02:36:35 +0000"
     },
     "done": true
   },
@@ -5190,6 +5178,24 @@
   "spartanweaponry:recipes/lead_longbow": {
     "criteria": {
       "has_lead_ingot": "2025-06-25 02:36:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-06-25 02:36:35 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:saber": {
+    "criteria": {
+      "has_saber": "2025-06-25 02:55:07 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:battle_hammer": {
+    "criteria": {
+      "has_battle_hammer": "2025-06-25 23:40:35 +0000"
     },
     "done": true
   },

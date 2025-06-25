@@ -5018,9 +5018,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-06-25 23:27:31 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/melon_juice": {
     "criteria": {
       "has_melon_slice": "2025-06-25 22:45:15 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/aluminum_lance": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-06-25 23:28:26 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/steel_spear": {
+    "criteria": {
+      "has_steel_ingot": "2025-06-25 23:29:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ash_to_charcoal": {
+    "criteria": {
+      "has_item": "2025-06-25 23:45:50 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/steel_tower_shield": {
+    "criteria": {
+      "has_steel_ingot": "2025-06-25 23:29:35 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/aluminum_katana": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-06-25 23:28:26 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/steel_longbow": {
+    "criteria": {
+      "has_steel_ingot": "2025-06-25 23:29:35 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/aluminum_tomahawk": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-06-25 23:28:26 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/aluminum_javelin": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-06-25 23:28:26 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/yellow_sleeping_bag": {
+    "criteria": {
+      "has_yellow_wool": "2025-06-25 23:45:39 +0000"
     },
     "done": true
   },
@@ -5036,9 +5096,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/mountain_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-06-25 23:46:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bamboo_planks": {
     "criteria": {
       "has_logs": "2025-06-25 22:50:30 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/steel_halberd": {
+    "criteria": {
+      "has_steel_ingot": "2025-06-25 23:29:35 +0000"
     },
     "done": true
   },
@@ -5048,9 +5120,75 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/aluminum_warhammer": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-06-25 23:28:26 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/steel_scythe": {
+    "criteria": {
+      "has_steel_ingot": "2025-06-25 23:29:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/bamboo_fence": {
     "criteria": {
       "has_planks": "2025-06-25 23:15:07 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/steel_throwing_knife": {
+    "criteria": {
+      "has_steel_ingot": "2025-06-25 23:29:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-06-25 23:42:21 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/steel_parrying_dagger": {
+    "criteria": {
+      "has_steel_ingot": "2025-06-25 23:29:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_bacon_from_campfire_cooking": {
+    "criteria": {
+      "cooked_bacon": "2025-06-25 23:47:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_bacon_from_smoking": {
+    "criteria": {
+      "cooked_bacon": "2025-06-25 23:47:06 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/aluminum_battleaxe": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-06-25 23:28:26 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/aluminum_saber": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-06-25 23:28:26 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/aluminum_quarterstaff": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-06-25 23:28:26 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/steel_boomerang": {
+    "criteria": {
+      "has_steel_ingot": "2025-06-25 23:29:35 +0000"
     },
     "done": true
   },
@@ -5060,9 +5198,27 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/steel_warhammer": {
+    "criteria": {
+      "has_steel_ingot": "2025-06-25 23:29:35 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/steel_longsword": {
+    "criteria": {
+      "has_steel_ingot": "2025-06-25 23:29:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bamboo_slab": {
     "criteria": {
       "has_planks": "2025-06-25 23:15:07 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/steel_rapier": {
+    "criteria": {
+      "has_steel_ingot": "2025-06-25 23:29:35 +0000"
     },
     "done": true
   },
@@ -5072,9 +5228,63 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/steel_saber": {
+    "criteria": {
+      "has_steel_ingot": "2025-06-25 23:29:35 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/aluminum_tower_shield": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-06-25 23:28:26 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/aluminum_rapier": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-06-25 23:28:26 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/aluminum_pike": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-06-25 23:28:26 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/steel_flanged_mace": {
+    "criteria": {
+      "has_steel_ingot": "2025-06-25 23:29:35 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/aluminum_flanged_mace": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-06-25 23:28:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/bamboo_button": {
     "criteria": {
       "has_planks": "2025-06-25 23:15:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2025-06-25 23:45:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2025-06-25 23:47:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_bacon": {
+    "criteria": {
+      "cooked_bacon": "2025-06-25 23:47:06 +0000"
     },
     "done": true
   },
@@ -5084,15 +5294,177 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-06-25 23:47:04 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/steel_katana": {
+    "criteria": {
+      "has_steel_ingot": "2025-06-25 23:29:35 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/aluminum_parrying_dagger": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-06-25 23:28:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-06-25 23:42:21 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/aluminum_boomerang": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-06-25 23:28:26 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/aluminum_battle_hammer": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-06-25 23:28:26 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/aluminum_halberd": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-06-25 23:28:26 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/aluminum_longsword": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-06-25 23:28:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-06-25 23:42:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-06-25 23:47:04 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/steel_heavy_crossbow": {
+    "criteria": {
+      "has_steel_ingot": "2025-06-25 23:29:35 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/steel_quarterstaff": {
+    "criteria": {
+      "has_steel_ingot": "2025-06-25 23:29:35 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/steel_tomahawk": {
+    "criteria": {
+      "has_steel_ingot": "2025-06-25 23:29:35 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/aluminum_longbow": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-06-25 23:28:26 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/aluminum_throwing_knife": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-06-25 23:28:26 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/steel_lance": {
+    "criteria": {
+      "has_steel_ingot": "2025-06-25 23:29:35 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/aluminum_spear": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-06-25 23:28:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2025-06-25 23:45:39 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/aluminum_heavy_crossbow": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-06-25 23:28:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-06-25 23:06:02 +0000"
     },
     "done": true
   },
+  "spartanweaponry:recipes/steel_battle_hammer": {
+    "criteria": {
+      "has_steel_ingot": "2025-06-25 23:29:35 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/steel_pike": {
+    "criteria": {
+      "has_steel_ingot": "2025-06-25 23:29:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-06-25 23:27:31 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/aluminum_greatsword": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-06-25 23:28:26 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/aluminum_scythe": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-06-25 23:28:26 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/steel_battleaxe": {
+    "criteria": {
+      "has_steel_ingot": "2025-06-25 23:29:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/bamboo_sign": {
     "criteria": {
       "has_planks": "2025-06-25 23:15:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-06-25 23:27:31 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/steel_basic_shield": {
+    "criteria": {
+      "has_steel_ingot": "2025-06-25 23:29:35 +0000"
     },
     "done": true
   },
@@ -5114,9 +5486,33 @@
     },
     "done": true
   },
+  "spartanshields:recipes/aluminum_basic_shield": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-06-25 23:28:26 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/steel_javelin": {
+    "criteria": {
+      "has_steel_ingot": "2025-06-25 23:29:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-06-25 23:46:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/bamboo_trapdoor": {
     "criteria": {
       "has_planks": "2025-06-25 23:15:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/forest_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-06-25 23:46:41 +0000"
     },
     "done": true
   },
@@ -5126,15 +5522,51 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/steel_dagger": {
+    "criteria": {
+      "has_steel_ingot": "2025-06-25 23:29:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2025-06-25 23:45:39 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/aluminum_dagger": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-06-25 23:28:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/bamboo_fence_gate": {
     "criteria": {
       "has_planks": "2025-06-25 23:15:07 +0000"
     },
     "done": true
   },
+  "spartanweaponry:recipes/steel_glaive": {
+    "criteria": {
+      "has_steel_ingot": "2025-06-25 23:29:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bamboo_stairs": {
     "criteria": {
       "has_planks": "2025-06-25 23:15:07 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/aluminum_glaive": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-06-25 23:28:26 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/steel_greatsword": {
+    "criteria": {
+      "has_steel_ingot": "2025-06-25 23:29:35 +0000"
     },
     "done": true
   },
