@@ -1,560 +1,388 @@
-[25Jun2025 00:00:52.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> -256
-[25Jun2025 00:00:59.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> -265
-[25Jun2025 00:01:03.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> 64
-[25Jun2025 00:01:28.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> -268
-[25Jun2025 00:01:41.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> pasa coordenada
-[25Jun2025 00:02:02.136] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-315, y=66, z=-318} BlockPos{x=-316, y=64, z=-318}
-[25Jun2025 00:02:02.138] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-315, y=66, z=-318} BlockPos{x=-316, y=64, z=-318}
-[25Jun2025 00:02:02.139] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-317, y=66, z=-318} BlockPos{x=-316, y=64, z=-318}
-[25Jun2025 00:03:44.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> trae un chingo de flechas
-[25Jun2025 00:03:52.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> OK
-[25Jun2025 00:04:07.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> ENCONTRE TU GRANJA
-[25Jun2025 00:04:29.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> PA DONDE?
-[25Jun2025 00:04:35.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> PTMA JOAO
-[25Jun2025 00:04:46.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> -2485 115 -862
-[25Jun2025 00:04:53.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> XD
-[25Jun2025 00:06:37.366] [Worker-Main-68/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[25Jun2025 00:07:29.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was slain by Lightning Dragon
-[25Jun2025 00:07:36.022] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jun2025 00:07:36.022] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[25Jun2025 00:08:03.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> si lo mato
-[25Jun2025 00:08:26.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> esta aca cerca el grotesco
-[25Jun2025 00:09:02.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> UNA ALDEA
-[25Jun2025 00:09:31.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> casi valgo cheto
-[25Jun2025 00:10:01.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> un hueso de dragon xd
-[25Jun2025 00:10:06.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover has made the advancement [Would you Like to Know More?]
-[25Jun2025 00:10:08.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover has made the advancement [Book of Monsters]
-[25Jun2025 00:10:16.782] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/47291, l='ServerLevel[world]', x=-1170.40, y=63.50, z=-1310.25] died, message: 'Villager was energized by Lightning Dragon'
-[25Jun2025 00:10:38.725] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/47094, l='ServerLevel[world]', x=-1146.30, y=67.56, z=-1296.30] died, message: 'Villager was energized by Lightning Dragon'
-[25Jun2025 00:10:54.825] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES moved too quickly! 168.8304026098017,-112.22977577018233,181.7121747654146
-[25Jun2025 00:10:54.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> AYUDA
-[25Jun2025 00:11:01.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set C0LIGAMES's game mode to Spectator Mode
-[25Jun2025 00:11:01.797] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES moved too quickly! 24.22215726627519,0.0,-50.05824944044548
-[25Jun2025 00:11:02.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> DRAGON ELECTRICO
-[25Jun2025 00:11:07.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was struck with lightning by Lightning Dragon
-[25Jun2025 00:11:07.982] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for joaocover with unique ID travelersbackpack.standard_25.06.2025-00.11.07.dat
-[25Jun2025 00:11:09.325] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jun2025 00:11:09.326] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[25Jun2025 00:11:51.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]
-[25Jun2025 00:12:00.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES overheated to death
-[25Jun2025 00:12:01.273] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jun2025 00:12:01.273] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
-[25Jun2025 00:12:35.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES died from hugs while running away Grotesque steve
-[25Jun2025 00:12:35.352] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES moved too quickly! 142.61541482852044,-68.9963070237565,-21.507263362779554
-[25Jun2025 00:12:36.924] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jun2025 00:12:36.924] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[25Jun2025 00:13:21.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> por que el dragon tiene strong
-[25Jun2025 00:13:28.085] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES was kicked for floating too long!
-[25Jun2025 00:13:28.086] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Disconnected
-[25Jun2025 00:13:28.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
-[25Jun2025 00:13:28.166] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[25Jun2025 00:13:37.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> NO TE VAYAS
-[25Jun2025 00:13:52.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
-[25Jun2025 00:13:57.620] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@13ad0b59[id=<null>,name=C0LIGAMES,properties={},legacy=false] (/127.53.118.236:50951) lost connection: Disconnected
-[25Jun2025 00:14:12.734] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: C0LIGAMES[/127.53.118.236:53887] logged in with entity id 50965 at (-2482.6072002911374, 118.92159999847412, -866.525305263794)
-[25Jun2025 00:14:12.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
-[25Jun2025 00:14:13.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set C0LIGAMES's game mode to Creative Mode
-[25Jun2025 00:14:18.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> AYUDAME
-[25Jun2025 00:14:24.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> WILSON
-[25Jun2025 00:14:51.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> wilsonw
-[25Jun2025 00:14:58.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]
-[25Jun2025 00:15:40.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> ME ESTA ATAANDO UN BARCO
-[25Jun2025 00:15:44.237] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES moved too quickly! 25.74197113568698,0.20000004768371582,-2.0047107048765156
-[25Jun2025 00:15:58.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set C0LIGAMES's game mode to Spectator Mode
-[25Jun2025 00:16:08.240] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover moved too quickly! -6.128033373726566,0.8245767040478995,-8.206605920522634
-[25Jun2025 00:16:29.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]
-[25Jun2025 00:16:52.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Creative Mode]
-[25Jun2025 00:17:03.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]
-[25Jun2025 00:17:11.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> AYUDA SE CULIO OTRO DRAGON
-[25Jun2025 00:17:16.977] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES moved too quickly! 2.9555274427348195,27.739111610119437,-23.80822779706989
-[25Jun2025 00:17:18.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES Hugged to death
-[25Jun2025 00:17:18.353] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES moved too quickly! 40.20097074404339,-9.98575257526818,22.733982395137218
-[25Jun2025 00:17:18.942] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
-[25Jun2025 00:17:20.741] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jun2025 00:17:20.742] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
-[25Jun2025 00:17:40.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES Hugged to death
-[25Jun2025 00:17:40.442] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES moved too quickly! 163.47793128231888,61.89688809693479,-2.855835879013057
-[25Jun2025 00:17:41.489] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jun2025 00:17:41.489] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[25Jun2025 00:18:39.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> lo mate
-[25Jun2025 00:18:41.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> PTM
-[25Jun2025 00:18:44.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> SON TRES
-[25Jun2025 00:18:47.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> al grotesco
-[25Jun2025 00:19:00.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> xd
-[25Jun2025 00:19:06.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> ME AYUDAS?
-[25Jun2025 00:19:21.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> SON TRES PUTOS DRAGONES
-[25Jun2025 00:20:53.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> ayuda
-[25Jun2025 00:21:18.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> escucho cosas
-[25Jun2025 00:21:27.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> no sera el grotesque corrompido?
-[25Jun2025 00:21:34.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> como recogo un cadaver de dragon?
-[25Jun2025 00:21:47.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> click con la mano desnuda
-[25Jun2025 00:22:29.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> no jodas medusa
-[25Jun2025 00:22:58.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Spectator Mode]
-[25Jun2025 00:23:02.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has reached the goal [Forlornliest Day of My Life]
-[25Jun2025 00:23:07.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> vaya bodrio de server
-[25Jun2025 00:23:32.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]
-[25Jun2025 00:26:09.931] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
-[25Jun2025 00:26:17.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> SERPIENTES DE MAR
-[25Jun2025 00:26:43.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported joaocover to -2460.000000, 4.410000, -842.080000]
-[25Jun2025 00:26:44.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover has reached the goal [Forlornliest Day of My Life]
-[25Jun2025 00:26:49.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> no jadass we
-[25Jun2025 00:26:55.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> XD
-[25Jun2025 00:27:09.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> espera
-[25Jun2025 00:27:11.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> PTR
-[25Jun2025 00:27:21.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> eséra mrd
-[25Jun2025 00:27:29.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> MIRA LO QUE TENGO
-[25Jun2025 00:27:41.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was slain by Lightning Dragon
-[25Jun2025 00:28:03.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Banned joaocover: Banned by an operator.
-[25Jun2025 00:28:03.068] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover lost connection: You are banned from this server
-[25Jun2025 00:28:03.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover left the game
-[25Jun2025 00:28:19.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
-[25Jun2025 00:28:21.058] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jun2025 00:28:21.058] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
-[25Jun2025 00:28:21.235] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Sheep['Sheep'/60053, l='ServerLevel[world]', x=118.23, y=66.00, z=-176.75]
-[25Jun2025 00:28:31.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Creative Mode]
-[25Jun2025 00:28:54.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported C0LIGAMES to -2460.500000, -22.500000, -831.500000]
-[25Jun2025 00:29:10.837] [Server thread/INFO] [Scaling Health/]: Blight Gloomoth has died
-[25Jun2025 00:29:21.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Spectator Mode]
-[25Jun2025 00:29:23.724] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@7be7a3e3[id=ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd,name=joaocover,properties={},legacy=false] (/127.201.115.94:36299): You are banned from this server.
-Reason: Banned by an operator.
-[25Jun2025 00:29:23.727] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7be7a3e3[id=ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd,name=joaocover,properties={},legacy=false] (/127.201.115.94:36299) lost connection: You are banned from this server.
-Reason: Banned by an operator.
-[25Jun2025 00:29:23.801] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[25Jun2025 00:29:47.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unbanned joaocover
-[25Jun2025 00:29:47.645] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joaocover[/127.201.115.94:42917] logged in with entity id 60575 at (-2453.3397542740204, 6.0, -842.3000000119209)
-[25Jun2025 00:29:47.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover joined the game
-[25Jun2025 00:29:59.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]
-[25Jun2025 00:30:20.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> reinicie
-[25Jun2025 00:30:21.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
-[25Jun2025 00:30:35.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> pera
-[25Jun2025 00:30:49.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was energized by Lightning Dragon
-[25Jun2025 00:30:51.587] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jun2025 00:30:51.587] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
-[25Jun2025 00:30:55.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Creative Mode]
-[25Jun2025 00:31:00.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> SOS UN PDJ
-[25Jun2025 00:31:01.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported C0LIGAMES to -2467.500000, 1.500000, -844.500000]
-[25Jun2025 00:31:36.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover fell from a high place
-[25Jun2025 00:31:36.837] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for joaocover with unique ID travelersbackpack.standard_25.06.2025-00.31.36.dat
-[25Jun2025 00:31:38.194] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jun2025 00:31:38.195] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
-[25Jun2025 00:31:40.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
-[25Jun2025 00:32:22.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover has made the advancement [What a Dungeon!]
-[25Jun2025 00:33:25.845] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2037, y=-26, z=-1025} but found not block entity block Block{minecraft:lava}[level=2] at location
-[25Jun2025 00:33:25.845] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:lava}[level=2] but failed at location BlockPos{x=-2037, y=-26, z=-1025}
-[25Jun2025 00:33:51.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> NO ME PROFANES
-[25Jun2025 00:34:33.287] [Worker-Main-12/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[25Jun2025 00:34:48.025] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1804, y=24, z=-871} but found not block entity block Block{minecraft:water}[level=0] at location
-[25Jun2025 00:34:48.025] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-1804, y=24, z=-871}
-[25Jun2025 00:36:55.950] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2841ms or 56 ticks behind
-[25Jun2025 00:37:48.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Sea Serpent
-[25Jun2025 00:37:49.805] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jun2025 00:37:49.806] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[25Jun2025 00:38:19.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> VIVES BIEN LEJOS
-[25Jun2025 00:41:02.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> MIS COSAS
-[25Jun2025 00:42:40.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has made the advancement [Dragonslayer]
-[25Jun2025 00:42:46.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
-[25Jun2025 00:42:50.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> lo mataron
-[25Jun2025 00:42:52.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> se auto funaronw
-[25Jun2025 00:43:28.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]
-[25Jun2025 00:43:29.837] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Disconnected
-[25Jun2025 00:43:29.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
-[25Jun2025 00:43:40.584] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: C0LIGAMES[/127.53.118.236:48959] logged in with entity id 78726 at (-1706.9256520801441, 63.0, -951.8363383671413)
-[25Jun2025 00:43:40.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
-[25Jun2025 00:43:55.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> WE
-[25Jun2025 00:43:58.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ya se mataron
-[25Jun2025 00:44:03.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> HAY UN BUEN DE DRAGONES
-[25Jun2025 00:44:21.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ya llene el chat de muertes XD
-[25Jun2025 00:44:26.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> factos o infactos
-[25Jun2025 00:44:30.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> FACTOS
-[25Jun2025 00:45:22.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> oe
-[25Jun2025 00:45:26.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> que es ese sonido?
-[25Jun2025 00:45:28.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> que?
-[25Jun2025 00:46:09.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> hice 2 camas mas XD
-[25Jun2025 00:46:15.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> para mi
-[25Jun2025 00:47:22.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> mi armadura
-[25Jun2025 00:47:25.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> mi todo we
-[25Jun2025 00:47:28.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> igualmente
-[25Jun2025 00:47:33.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> el otro ragon escapo
-[25Jun2025 00:47:38.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> era un 4 vs 1
-[25Jun2025 00:47:39.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
-[25Jun2025 00:47:45.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> mas tu y yo de metiches
-[25Jun2025 00:48:02.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> FACTOS
-[25Jun2025 00:48:29.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover fell from a high place
-[25Jun2025 00:48:30.577] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jun2025 00:48:30.577] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[25Jun2025 00:48:39.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> xd
-[25Jun2025 00:48:44.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> oe que mrd suena?
-[25Jun2025 00:49:47.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> duerme we
-[25Jun2025 00:49:53.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ya me sta dando miedito
-[25Jun2025 00:50:03.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> no puedo
-[25Jun2025 00:50:12.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ese cubo de lava
-[25Jun2025 00:50:23.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> solo usamos uno y termino en el pvp mas ptente
-[25Jun2025 00:50:28.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> escpo un dragon
-[25Jun2025 00:50:33.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> F
-[25Jun2025 00:50:38.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> no se o nchucha abran quedado los otros 3
-[25Jun2025 00:50:47.128] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Disconnected
-[25Jun2025 00:50:47.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
-[25Jun2025 00:50:56.583] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: C0LIGAMES[/127.53.118.236:38789] logged in with entity id 83651 at (-1811.300000011921, 71.5625, -958.6999999880791)
-[25Jun2025 00:50:56.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
-[25Jun2025 00:51:18.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> dejod e sonar
-[25Jun2025 00:51:27.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> XD
-[25Jun2025 00:51:50.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> YA FUE
-[25Jun2025 00:51:56.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> ESO ERA PARA GRABARLO
-[25Jun2025 00:51:59.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> que paso?
-[25Jun2025 00:52:01.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> si XD
-[25Jun2025 00:52:05.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> mi memoria
-[25Jun2025 00:52:09.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> salio memoria llena
-[25Jun2025 00:52:12.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> y la mia
-[25Jun2025 00:52:14.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> y tuve que borrar
-[25Jun2025 00:52:22.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> duerme mrd
-[25Jun2025 00:52:27.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> no puedow
-[25Jun2025 00:52:40.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> tengo al zombie campeandow
-[25Jun2025 00:52:42.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> a esperar
-[25Jun2025 00:53:03.635] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joaocover) moved wrongly! 0.5256886637527032
-[25Jun2025 00:53:03.682] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joaocover) moved wrongly! 0.6050901806412412
-[25Jun2025 00:53:03.736] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joaocover) moved wrongly! 0.7146569439289578
-[25Jun2025 00:54:04.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> las sepientes de mar se drogan?
-[25Jun2025 00:54:56.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Sea Serpent
-[25Jun2025 00:54:57.302] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jun2025 00:54:57.303] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[25Jun2025 01:07:04.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> hateas?
-[25Jun2025 01:07:19.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> ESTOY LLENDO POR MIS COSAS
-[25Jun2025 01:07:32.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has made the advancement [Mother of Dragons]
-[25Jun2025 01:07:40.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> NO JODAS
-[25Jun2025 01:08:35.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> hatea mrd
-[25Jun2025 01:08:39.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover has made the advancement [Hans Moleman]
-[25Jun2025 01:08:58.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover has made the advancement [That is One Big Pile of...]
-[25Jun2025 01:09:16.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Vesper
-[25Jun2025 01:09:18.006] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jun2025 01:09:18.006] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[25Jun2025 01:09:18.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Creative Mode]
-[25Jun2025 01:09:27.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> ok jateo
-[25Jun2025 01:15:01.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Gave 1 [C0LIGAMES] to C0LIGAMES]
-[25Jun2025 01:15:11.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]
-[25Jun2025 01:15:38.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Vesper
-[25Jun2025 01:15:39.974] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jun2025 01:15:39.974] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[25Jun2025 01:16:04.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> hijo de tu madre
-[25Jun2025 01:16:38.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> devuelveme mi mochila
-[25Jun2025 01:16:47.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD?
-[25Jun2025 01:16:55.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> yo estuve persiguiendo al dragon
-[25Jun2025 01:17:06.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> PERO SON MIS HUESOS
-[25Jun2025 01:17:13.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES fell from a high place
-[25Jun2025 01:17:14.445] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jun2025 01:17:14.445] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
-[25Jun2025 01:17:45.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> enconte el 2do dragon
-[25Jun2025 01:18:36.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> ok
-[25Jun2025 01:18:43.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> no olvidalo estan todo
-[25Jun2025 01:21:30.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Vesper
-[25Jun2025 01:21:32.083] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jun2025 01:21:32.083] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[25Jun2025 01:21:36.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES fell from a high place
-[25Jun2025 01:21:37.660] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jun2025 01:21:37.660] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
-[25Jun2025 01:21:49.267] [Server thread/INFO] [Scaling Health/]: Blight Gloomoth has died
-[25Jun2025 01:22:13.509] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES was kicked for floating too long!
-[25Jun2025 01:22:13.612] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Flying is not enabled on this server
-[25Jun2025 01:22:13.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
-[25Jun2025 01:22:49.886] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@505ec926[id=<null>,name=C0LIGAMES,properties={},legacy=false] (/127.53.118.236:54753) lost connection: Disconnected
-[25Jun2025 01:23:22.308] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1aa45912[id=<null>,name=C0LIGAMES,properties={},legacy=false] (/127.53.118.236:51171) lost connection: Disconnected
-[25Jun2025 01:23:31.059] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: C0LIGAMES[/127.53.118.236:41143] logged in with entity id 103393 at (-1560.272094425509, 91.35807168628544, -721.5196708299667)
-[25Jun2025 01:23:31.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
-[25Jun2025 01:23:39.796] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES moved too quickly! 0.0,-10.806526110008988,0.0
-[25Jun2025 01:23:43.555] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES was kicked for floating too long!
-[25Jun2025 01:23:43.636] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Flying is not enabled on this server
-[25Jun2025 01:23:43.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
-[25Jun2025 01:24:10.521] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@73db5275[id=<null>,name=C0LIGAMES,properties={},legacy=false] (/127.53.118.236:32823) lost connection: Disconnected
-[25Jun2025 01:25:40.846] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: C0LIGAMES[/127.53.118.236:56161] logged in with entity id 104143 at (-1560.2189019262478, 81.61260444018367, -721.4990928479826)
-[25Jun2025 01:25:40.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
-[25Jun2025 01:25:47.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set C0LIGAMES's game mode to Spectator Mode
-[25Jun2025 01:25:57.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]
-[25Jun2025 01:25:59.097] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Disconnected
-[25Jun2025 01:25:59.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
-[25Jun2025 01:26:30.221] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@9d01e6a[id=<null>,name=C0LIGAMES,properties={},legacy=false] (/127.53.118.236:56433) lost connection: Disconnected
-[25Jun2025 01:27:36.619] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1d37ed8b[id=<null>,name=C0LIGAMES,properties={},legacy=false] (/127.53.118.236:50269) lost connection: Disconnected
-[25Jun2025 01:27:47.201] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: C0LIGAMES[/127.53.118.236:42195] logged in with entity id 104926 at (-1560.2189019262478, 57.62250584971819, -721.4990928479826)
-[25Jun2025 01:27:47.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
-[25Jun2025 01:27:57.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was slain by Sea Serpent
-[25Jun2025 01:28:00.829] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jun2025 01:28:00.829] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
-[25Jun2025 01:28:04.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> TENGO MIEDO WE
-[25Jun2025 01:28:09.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported C0LIGAMES to -1553.500000, 59.500000, -724.500000]
-[25Jun2025 01:28:14.970] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Disconnected
-[25Jun2025 01:28:14.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
-[25Jun2025 01:28:50.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Underzealot
-[25Jun2025 01:28:50.015] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for joaocover with unique ID travelersbackpack.standard_25.06.2025-01.28.50.dat
-[25Jun2025 01:28:51.457] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jun2025 01:28:51.457] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[25Jun2025 01:29:09.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Vesper
-[25Jun2025 01:29:10.672] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jun2025 01:29:10.673] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[25Jun2025 01:29:27.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Vesper
-[25Jun2025 01:29:28.839] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jun2025 01:29:28.839] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[25Jun2025 01:29:32.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Vesper
-[25Jun2025 01:29:34.186] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jun2025 01:29:34.186] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[25Jun2025 01:29:41.267] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover moved too quickly! -1.7172684377765108,-9.667067244575914,3.348728810135526
-[25Jun2025 01:29:53.851] [Server thread/INFO] [Scaling Health/]: Blight Glow Squid has died
-[25Jun2025 01:30:17.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Vesper
-[25Jun2025 01:30:19.169] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: C0LIGAMES[/127.53.118.236:33889] logged in with entity id 107640 at (-1553.5, 49.71359914051722, -724.5)
-[25Jun2025 01:30:19.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
-[25Jun2025 01:30:19.223] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jun2025 01:30:19.223] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[25Jun2025 01:30:33.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was slain by Sea Serpent
-[25Jun2025 01:30:33.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
-[25Jun2025 01:30:36.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Vesper
-[25Jun2025 01:30:37.891] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jun2025 01:30:37.892] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[25Jun2025 01:30:40.435] [Server thread/INFO] [Scaling Health/]: Blight Gloomoth has died
-[25Jun2025 01:30:45.504] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jun2025 01:30:45.504] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[25Jun2025 01:30:48.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported C0LIGAMES to -1547.500000, 46.500000, -721.500000]
-[25Jun2025 01:30:58.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Vesper
-[25Jun2025 01:30:59.352] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jun2025 01:30:59.353] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[25Jun2025 01:31:04.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set C0LIGAMES's game mode to Creative Mode
-[25Jun2025 01:31:49.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Underzealot
-[25Jun2025 01:31:51.088] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jun2025 01:31:51.089] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[25Jun2025 01:31:56.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]
-[25Jun2025 01:32:12.500] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES moved too quickly! 11.61827017198243,0.7806827045792346,4.560286696714911
-[25Jun2025 01:32:15.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Underzealot
-[25Jun2025 01:32:15.479] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES was kicked for floating too long!
-[25Jun2025 01:32:15.502] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Flying is not enabled on this server
-[25Jun2025 01:32:15.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
-[25Jun2025 01:32:16.537] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jun2025 01:32:16.537] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[25Jun2025 01:32:40.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Vesper
-[25Jun2025 01:32:41.591] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jun2025 01:32:41.591] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[25Jun2025 01:32:55.988] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3bfe5513[id=<null>,name=C0LIGAMES,properties={},legacy=false] (/127.53.118.236:33225) lost connection: Disconnected
-[25Jun2025 01:33:05.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was doomed to fall by Vesper
-[25Jun2025 01:33:06.925] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jun2025 01:33:06.925] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[25Jun2025 01:33:17.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Vesper
-[25Jun2025 01:33:18.724] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jun2025 01:33:18.724] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[25Jun2025 01:33:31.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Vesper
-[25Jun2025 01:33:32.564] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jun2025 01:33:32.564] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[25Jun2025 01:33:33.404] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@135370f5[id=<null>,name=C0LIGAMES,properties={},legacy=false] (/127.53.118.236:47631) lost connection: Disconnected
-[25Jun2025 01:33:41.971] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
-[25Jun2025 01:33:53.518] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: C0LIGAMES[/127.53.118.236:49327] logged in with entity id 112247 at (-1230.598543346527, 65.78182135595509, -580.1637072547227)
-[25Jun2025 01:33:53.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
-[25Jun2025 01:34:10.105] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13146ms or 262 ticks behind
-[25Jun2025 01:34:15.222] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES moved too quickly! 0.8173991184987699,-10.09780262021114,0.4098666702971059
-[25Jun2025 01:34:22.724] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES moved too quickly! 10.295529633393699,3.573642368742,3.952529831467359
-[25Jun2025 01:34:38.656] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13598ms or 271 ticks behind
-[25Jun2025 01:34:43.297] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES moved too quickly! 9.734293139898455,1.311568916973684,5.022942243288867
-[25Jun2025 01:35:03.798] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10189ms or 203 ticks behind
-[25Jun2025 01:35:29.496] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10737ms or 214 ticks behind
-[25Jun2025 01:35:40.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES fell from a high place
-[25Jun2025 01:35:42.303] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jun2025 01:35:42.303] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[25Jun2025 01:35:47.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> f
-[25Jun2025 01:35:55.956] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11497ms or 229 ticks behind
-[25Jun2025 01:36:13.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
-[25Jun2025 01:36:18.318] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7410ms or 148 ticks behind
-[25Jun2025 01:36:21.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> TU CADAVER ES INMUNE A LA LAVA
-[25Jun2025 01:36:24.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> me persigue los familiares de batman
-[25Jun2025 01:36:34.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> xd
-[25Jun2025 01:36:38.052] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4743ms or 94 ticks behind
-[25Jun2025 01:36:55.761] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2752ms or 55 ticks behind
-[25Jun2025 01:37:13.986] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3227ms or 64 ticks behind
-[25Jun2025 01:38:06.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was doomed to fall by Vesper
-[25Jun2025 01:38:07.425] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jun2025 01:38:07.425] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[25Jun2025 01:38:40.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Vesper
-[25Jun2025 01:38:41.641] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jun2025 01:38:41.641] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[25Jun2025 01:38:43.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
-[25Jun2025 01:39:29.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Underzealot
-[25Jun2025 01:39:31.043] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jun2025 01:39:31.043] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[25Jun2025 01:39:36.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
-[25Jun2025 01:40:55.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover has reached the goal [The Black Parade]
-[25Jun2025 01:41:16.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Vesper
-[25Jun2025 01:41:17.673] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jun2025 01:41:17.673] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[25Jun2025 01:42:00.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Corrodent
-[25Jun2025 01:42:01.880] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jun2025 01:42:01.880] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[25Jun2025 01:42:18.323] [Server thread/INFO] [Scaling Health/]: Blight Gloomoth has died
-[25Jun2025 01:42:31.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has made the advancement [En Garde!]
-[25Jun2025 01:42:33.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Corrodent
-[25Jun2025 01:42:36.545] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jun2025 01:42:36.545] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[25Jun2025 01:42:45.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Vesper
-[25Jun2025 01:42:46.820] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jun2025 01:42:46.820] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[25Jun2025 01:42:50.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Vesper
-[25Jun2025 01:42:52.023] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jun2025 01:42:52.023] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[25Jun2025 01:43:41.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Vesper
-[25Jun2025 01:43:42.843] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jun2025 01:43:42.843] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[25Jun2025 01:44:43.074] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
-[25Jun2025 01:45:03.030] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4971ms or 99 ticks behind
-[25Jun2025 01:45:20.014] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[25Jun2025 01:46:33.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Vesper
-[25Jun2025 01:46:35.045] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jun2025 01:46:35.045] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[25Jun2025 01:47:08.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Vesper
-[25Jun2025 01:47:09.389] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jun2025 01:47:09.389] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[25Jun2025 01:47:32.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Vesper
-[25Jun2025 01:47:33.935] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jun2025 01:47:33.935] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[25Jun2025 01:48:39.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> jojajo
-[25Jun2025 01:48:41.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> estas ahi?
-[25Jun2025 01:48:42.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> que
-[25Jun2025 01:48:47.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> a sigues vivo XD
-[25Jun2025 01:48:47.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> si
-[25Jun2025 01:48:57.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Vesper
-[25Jun2025 01:48:58.999] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jun2025 01:48:59.000] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[25Jun2025 01:49:00.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
-[25Jun2025 01:49:02.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> seguia
-[25Jun2025 01:49:18.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Vesper
-[25Jun2025 01:49:19.459] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jun2025 01:49:19.460] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[25Jun2025 01:49:29.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Vesper
-[25Jun2025 01:49:31.459] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jun2025 01:49:31.459] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
-[25Jun2025 01:50:32.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> uff ta dificil la situacion
-[25Jun2025 01:50:41.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> recuperaste tus cosas?
-[25Jun2025 01:50:52.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> la familia de batman no me dej
-[25Jun2025 01:50:57.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
-[25Jun2025 01:52:56.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has made the advancement [Isn't It Iron Pick]
-[25Jun2025 01:53:03.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> por fin lo puedo usar
-[25Jun2025 01:53:16.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> al fin
-[25Jun2025 01:54:19.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Vesper
-[25Jun2025 01:54:20.587] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jun2025 01:54:20.587] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[25Jun2025 01:55:34.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Vesper
-[25Jun2025 01:55:36.022] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jun2025 01:55:36.022] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[25Jun2025 01:57:14.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Corrodent
-[25Jun2025 01:57:15.690] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jun2025 01:57:15.691] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[25Jun2025 01:57:40.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> pues la familia de batman te la esta haciendo pasar mal e
-[25Jun2025 01:57:52.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> es una granja de xp lit
-[25Jun2025 01:58:12.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> todo al 6
-[25Jun2025 01:58:16.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> no jodas
-[25Jun2025 01:58:27.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> con un bloque los buguesas
-[25Jun2025 01:58:40.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> si te matan duplican el xp
-[25Jun2025 01:59:04.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Corrodent
-[25Jun2025 01:59:06.123] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jun2025 01:59:06.123] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[25Jun2025 01:59:55.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> una mano?
-[25Jun2025 02:00:03.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD?
-[25Jun2025 02:00:45.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Vesper
-[25Jun2025 02:00:46.402] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jun2025 02:00:46.403] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[25Jun2025 02:01:12.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> ESTA MUY OP
-[25Jun2025 02:06:50.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> AQUI HAY UN JEFE WE
-[25Jun2025 02:06:55.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD?
-[25Jun2025 02:07:13.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> OJO DEL DIABLO QUE ORIGINAL
-[25Jun2025 02:08:14.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> D
-[25Jun2025 02:12:05.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has made the advancement [Blade of the Samurai]
-[25Jun2025 02:13:37.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> libertad
-[25Jun2025 02:14:01.110] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover moved too quickly! 0.19440790337694125,-0.5009966402674735,10.050900952352208
-[25Jun2025 02:14:28.742] [Server thread/INFO] [Scaling Health/]: Blight Zombie was killed by C0LIGAMES
-[25Jun2025 02:15:51.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was slain by Zombie
-[25Jun2025 02:15:52.774] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jun2025 02:15:52.774] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
-[25Jun2025 02:16:39.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> ME FUI SADISFECHO DEL NUEVO CONTINENTE
-[25Jun2025 02:16:51.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
-[25Jun2025 02:17:10.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> por que tu base es una dangueon de pilaller
-[25Jun2025 02:18:18.738] [Server thread/INFO] [Scaling Health/]: Blight Zombie was killed by C0LIGAMES
-[25Jun2025 02:18:25.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover fell off some vines
-[25Jun2025 02:18:25.990] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for joaocover with unique ID travelersbackpack.standard_25.06.2025-02.18.25.dat
-[25Jun2025 02:18:28.171] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jun2025 02:18:28.171] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[25Jun2025 02:18:32.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
-[25Jun2025 02:18:51.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> BUENO TODO DE4 NUEVOW
-[25Jun2025 02:22:31.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> CUENTAME EL FINAL
-[25Jun2025 02:22:56.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> el final feliz
-[25Jun2025 02:23:00.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD?
-[25Jun2025 02:24:29.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> nms
-[25Jun2025 02:24:36.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> hay dngueon bajo el agua
-[25Jun2025 02:24:39.056] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joaocover) moved wrongly! 0.609736831886039
-[25Jun2025 02:24:39.130] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joaocover) moved wrongly! 0.9762627299212454
-[25Jun2025 02:24:39.194] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of joaocover) moved wrongly! 1.352318955423243
-[25Jun2025 02:24:59.420] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/137313, l='ServerLevel[world]', x=-1541.27, y=58.44, z=-720.07]
-[25Jun2025 02:24:59.420] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/137314, l='ServerLevel[world]', x=-1541.27, y=58.44, z=-720.07]
-[25Jun2025 02:24:59.420] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/137315, l='ServerLevel[world]', x=-1541.27, y=58.44, z=-720.07]
-[25Jun2025 02:24:59.420] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/137316, l='ServerLevel[world]', x=-1541.27, y=58.44, z=-720.07]
-[25Jun2025 02:24:59.420] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/137317, l='ServerLevel[world]', x=-1541.27, y=58.44, z=-720.07]
-[25Jun2025 02:27:04.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was slain by Zombie
-[25Jun2025 02:27:04.566] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for C0LIGAMES with unique ID travelersbackpack.cactus_25.06.2025-02.27.04.dat
-[25Jun2025 02:27:06.054] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jun2025 02:27:06.054] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[25Jun2025 02:27:48.479] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
-[25Jun2025 02:27:52.931] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
-[25Jun2025 02:27:56.150] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
-[25Jun2025 02:28:01.131] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
-[25Jun2025 02:29:32.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> voy
-[25Jun2025 02:33:02.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has made the advancement [Voluntary Exile]
-[25Jun2025 02:34:11.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Sea Serpent
-[25Jun2025 02:34:11.069] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for joaocover with unique ID travelersbackpack.standard_25.06.2025-02.34.11.dat
-[25Jun2025 02:34:12.183] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jun2025 02:34:12.183] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[25Jun2025 02:34:14.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
-[25Jun2025 02:35:10.433] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover moved too quickly! -9.3838338849055,2.176759275064242,-3.2847908219236217
-[25Jun2025 02:36:49.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> PIN CHE SEPIENTE
-[25Jun2025 02:36:54.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD4
-[25Jun2025 02:37:42.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> pronto el conquistador francisco matthew ira
-[25Jun2025 02:37:50.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
-[25Jun2025 02:38:08.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> con el avion del 9/11
-[25Jun2025 02:39:10.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> t terminara con la princesa gustambo declaarando la guerra xd
-[25Jun2025 02:41:39.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Sea Serpent
-[25Jun2025 02:41:39.118] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for joaocover with unique ID travelersbackpack.standard_25.06.2025-02.41.39.dat
-[25Jun2025 02:41:40.356] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jun2025 02:41:40.356] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[25Jun2025 02:41:42.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
-[25Jun2025 02:41:46.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> usa un barco pe cojudo
-[25Jun2025 02:42:01.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> AAAA
-[25Jun2025 02:42:12.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
-[25Jun2025 02:47:00.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Sea Serpent
-[25Jun2025 02:47:01.723] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jun2025 02:47:01.723] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
-[25Jun2025 02:49:25.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> jojajo
-[25Jun2025 02:49:28.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> que
-[25Jun2025 02:49:29.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> apago el server
-[25Jun2025 02:49:33.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> PERA
-[25Jun2025 02:49:46.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> MIS COSAS
-[25Jun2025 02:50:07.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> no despawnean
-[25Jun2025 02:50:16.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> IGUAL VOY
-[25Jun2025 02:50:34.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> dame 5
-[25Jun2025 02:51:16.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> 5
-[25Jun2025 02:52:22.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> TIENES DAWN?
-[25Jun2025 02:52:26.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD?
-[25Jun2025 02:52:39.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> ENCONTRE UN TEMPLO ACUATICO
-[25Jun2025 02:52:49.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> 3
-[25Jun2025 02:53:45.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> 2
-[25Jun2025 02:55:07.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has made the advancement [Swashbuckler]
-[25Jun2025 02:55:15.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ya
-[25Jun2025 02:55:20.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> nos vemos jojajo
-[25Jun2025 02:55:36.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> chau
-[25Jun2025 02:55:37.584] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Disconnected
-[25Jun2025 02:55:37.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
-[25Jun2025 02:56:21.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Sea Serpent
-[25Jun2025 02:56:22.945] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jun2025 02:56:22.945] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[25Jun2025 02:56:27.623] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover lost connection: Disconnected
-[25Jun2025 02:56:27.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover left the game
-[25Jun2025 02:56:27.665] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[25Jun2025 02:57:29.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[25Jun2025 02:57:29.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[25Jun2025 02:57:29.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[25Jun2025 02:57:29.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[25Jun2025 02:57:31.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/grotesque_steve:stomach
-[25Jun2025 02:57:31.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[25Jun2025 02:57:31.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[25Jun2025 02:57:31.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[25Jun2025 02:57:31.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (stomach): All chunks are saved
-[25Jun2025 02:57:31.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[25Jun2025 02:57:31.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[25Jun2025 02:57:31.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[25Jun2025 22:31:12.143] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[25Jun2025 22:31:12.149] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[25Jun2025 22:31:16.860] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[25Jun2025 22:31:16.949] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/awdna./servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[25Jun2025 22:31:17.612] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/awdna./servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[25Jun2025 22:31:17.614] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/awdna./servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[25Jun2025 22:31:17.615] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/awdna./servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[25Jun2025 22:31:17.616] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/awdna./servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[25Jun2025 22:31:17.908] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 5 dependencies adding them to mods collection
+[25Jun2025 22:31:21.285] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[25Jun2025 22:31:21.549] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
+[25Jun2025 22:31:21.553] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[25Jun2025 22:31:21.703] [main/WARN] [mixin/]: Reference map 'puzzlesaccessapi.common.refmap.json' for puzzlesaccessapi.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[25Jun2025 22:31:21.737] [main/WARN] [mixin/]: Reference map 'mixins.spartan_materials.refmap.json' for mixins.spartan_materials.json could not be read. If this is a development environment you can ignore this message
+[25Jun2025 22:31:21.822] [main/INFO] [Puzzles Lib/]: Loading 50 mods:
+	- alexscaves 2.0.2
+	- architectury 9.2.14
+	- bettervillage 3.3.0
+		\-- mixinextras 0.4.1
+	- citadel 2.6.1
+	- corpse 1.20.1-1.0.21
+	- cpm 0.6.22a
+	- curios 5.14.1+1.20.1
+	- dedsafio3 0.0.9
+	- dungeons_arise 2.1.58-1.20.x
+	- dungeons_arise_seven_seas 1.0.2
+	- dungeons_enhanced 5.4.1
+	- enchantinginfuser 8.0.3
+	- farmersdelight 1.20.1-1.2.7
+	- firstaid 1.20.1-1.1
+	- forge 47.3.7
+	- geckolib 4.7.1.3
+	- glitchcore 0.0.1.1
+	- grotesque_steve 1.2
+	- hangglider 8.0.1
+	- iceandfire 2.1.13-1.20.1
+	- illagerinvasion 8.0.7
+	- jei 15.20.0.106
+	- justleveling 1.7
+	- libraryferret 4.0.0
+	- minecraft 1.20.1
+	- new_xp_ore 1.1.1
+	- octolib 0.5.0.1
+	- packedup 1.1.0
+	- pehkui 3.8.2+1.20.1-forge
+	- puzzleslib 8.1.32
+		\-- puzzlesaccessapi 20.1.1
+	- relics 0.8.0.9
+	- scalinghealth 8.0.2+9
+	- silentlib 8.0.0
+	- spartan_materials 1.0.1
+	- spartanfire 2.1.0
+	- spartanshields 3.1.1
+	- spartantoolkit 1.20.1-1.5.2
+	- spartanweaponry 3.1.3
+	- stalwart_dungeons 1.2.8
+	- structure_gel 2.16.2
+	- supermartijn642configlib 1.1.8
+	- supermartijn642corelib 1.1.18
+	- tlskincape 1.32
+	- toughasnails 9.2.0.171
+	- travelersbackpack 9.1.39
+	- xaerominimap 25.2.0
+	- xaeroworldmap 1.39.4
+	- xpfromharvest 1.2.4
+[25Jun2025 22:31:23.747] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
+[25Jun2025 22:31:23.748] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/Screen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER)
+[25Jun2025 22:31:23.748] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.Screen was not found relics.mixins.json:ScreenMixin
+[25Jun2025 22:31:24.020] [main/WARN] [mixin/]: Error loading class: net/bettercombat/client/collision/TargetFinder (java.lang.ClassNotFoundException: net.bettercombat.client.collision.TargetFinder)
+[25Jun2025 22:31:24.021] [main/WARN] [mixin/]: @Mixin target net.bettercombat.client.collision.TargetFinder was not found justleveling.mixins.json:MixTargetFinder
+[25Jun2025 22:31:24.268] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
+[25Jun2025 22:31:24.269] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
+[25Jun2025 22:31:24.269] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found tlskincape-mixins.json:MixinAbstractPlayer
+[25Jun2025 22:31:24.271] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER
+[25Jun2025 22:31:24.272] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/TitleScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER)
+[25Jun2025 22:31:24.272] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.TitleScreen was not found tlskincape-mixins.json:MixinMainMenu
+[25Jun2025 22:31:24.275] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/model/PlayerModel (java.lang.ClassNotFoundException: net.minecraft.client.model.PlayerModel)
+[25Jun2025 22:31:24.275] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.model.PlayerModel was not found tlskincape-mixins.json:MixinPlayerModel
+[25Jun2025 22:31:24.639] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[25Jun2025 22:31:25.137] [main/WARN] [net.minecraft.SystemReport/]: Failed retrieving info for group hardware
+java.lang.NoClassDefFoundError: com/sun/jna/Platform
+	at oshi.SystemInfo.<clinit>(SystemInfo.java:60) ~[oshi-core-6.2.2.jar%2369!/:6.2.2]
+	at net.minecraft.SystemReport.m_143564_(SystemReport.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.SystemReport.m_143516_(SystemReport.java:82) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.SystemReport.<init>(SystemReport.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.CrashReport.<init>(CrashReport.java:31) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.CrashReport.m_127529_(CrashReport.java:216) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.server.Main.main(Main.java:116) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2367!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2367!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2367!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
+	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:137) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	... 22 more
+[25Jun2025 22:31:33.025] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
+
+[25Jun2025 22:31:33.877] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[25Jun2025 22:31:33.905] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[25Jun2025 22:31:33.946] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for illagerinvasion:main
+[25Jun2025 22:31:35.369] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for hangglider:main
+[25Jun2025 22:31:35.584] [modloading-worker-0/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
+[25Jun2025 22:31:35.738] [modloading-worker-0/INFO] [Spartan Weaponry/]: Constructing Mod: Spartan Weaponry
+[25Jun2025 22:31:35.738] [modloading-worker-0/INFO] [Spartan Weaponry/]: Initialising API! Version: 11
+[25Jun2025 22:31:35.739] [modloading-worker-0/INFO] [Spartan Weaponry/]: Spartan Weaponry API version 11 has been initalized!
+[25Jun2025 22:31:36.037] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[25Jun2025 22:31:36.051] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[25Jun2025 22:31:36.052] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[25Jun2025 22:31:36.076] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[25Jun2025 22:31:36.134] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for enchantinginfuser:main
+[25Jun2025 22:31:38.779] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
+[25Jun2025 22:31:38.797] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
+[25Jun2025 22:31:38.799] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
+[25Jun2025 22:31:38.801] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
+[25Jun2025 22:31:38.971] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
+[25Jun2025 22:31:39.145] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[25Jun2025 22:31:39.146] [Thread-0/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[25Jun2025 22:31:39.148] [Thread-0/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[25Jun2025 22:31:39.282] [modloading-worker-0/INFO] [CPM/]: Customizable Player Models Initialized
+[25Jun2025 22:31:39.282] [modloading-worker-0/INFO] [firstaid/]: firstaid starting...
+[25Jun2025 22:31:39.393] [modloading-worker-0/INFO] [Spartan Shields/]: Setting up Spartan Shields!
+[25Jun2025 22:31:39.422] [modloading-worker-0/INFO] [Spartan Weaponry/]: Setting up Spartan Weaponry!
+[25Jun2025 22:31:39.450] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [illagerinvasion] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/illagerinvasion.json
+[25Jun2025 22:31:39.523] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [illagerinvasion] Found status: UP_TO_DATE Current: 8.0.7 Target: null
+[25Jun2025 22:31:39.524] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[25Jun2025 22:31:39.576] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 9.1.39 Target: null
+[25Jun2025 22:31:39.577] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cpm] Starting version check at https://raw.githubusercontent.com/tom5454/CustomPlayerModels/master/version-check.json
+[25Jun2025 22:31:39.728] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cpm] Found status: BETA Current: 0.6.22a Target: 0.6.22a
+[25Jun2025 22:31:39.729] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[25Jun2025 22:31:39.743] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 20.1.1 Target: null
+[25Jun2025 22:31:39.745] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Starting version check at http://changelogs.moddinglegacy.com/structure-gel.json
+[25Jun2025 22:31:40.118] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Found status: BETA Current: 2.16.2 Target: null
+[25Jun2025 22:31:40.120] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
+[25Jun2025 22:31:40.182] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[25Jun2025 22:31:40.183] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[25Jun2025 22:31:40.184] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[25Jun2025 22:31:40.184] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[25Jun2025 22:31:40.184] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of toughasnails:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 4
+[25Jun2025 22:31:40.184] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of toughasnails:water_canteen for Water (Fluid Amount Required: 200) with the ID 5
+[25Jun2025 22:31:40.185] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of toughasnails:water for Water (Fluid Amount Required: 1000) with the ID 6
+[25Jun2025 22:31:40.248] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[25Jun2025 22:31:40.258] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[25Jun2025 22:31:40.262] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[25Jun2025 22:31:40.263] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[25Jun2025 22:31:40.274] [modloading-worker-0/INFO] [CPM/]: Customizable Player Models API initialized: Loaded plugins: (0)
+
+[25Jun2025 22:31:40.699] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: AHEAD Current: 1.20.1-1.0.21 Target: null
+[25Jun2025 22:31:40.700] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Starting version check at https://raw.githubusercontent.com/SilentChaos512/SilentLib/1.20.x/update.json
+[25Jun2025 22:31:40.806] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Found status: BETA Current: 8.0.0 Target: null
+[25Jun2025 22:31:40.807] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hangglider] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/hangglider.json
+[25Jun2025 22:31:40.820] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hangglider] Found status: UP_TO_DATE Current: 8.0.1 Target: null
+[25Jun2025 22:31:40.820] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dungeons_enhanced] Starting version check at https://raw.githubusercontent.com/Ametrin-Studios/DungeonsEnhanced/refs/heads/master/update.json
+[25Jun2025 22:31:40.831] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dungeons_enhanced] Found status: OUTDATED Current: 5.4.1 Target: 5.4.2
+[25Jun2025 22:31:40.832] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[25Jun2025 22:31:40.845] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.32 Target: null
+[25Jun2025 22:31:40.846] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [scalinghealth] Starting version check at https://raw.githubusercontent.com/SilentChaos512/ScalingHealth/1.18/update.json
+[25Jun2025 22:31:40.860] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [scalinghealth] Found status: BETA Current: 8.0.2+9 Target: null
+[25Jun2025 22:31:40.861] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[25Jun2025 22:31:41.038] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[25Jun2025 22:31:41.038] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/enchantinginfuser.json
+[25Jun2025 22:31:41.049] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Found status: UP_TO_DATE Current: 8.0.3 Target: null
+[25Jun2025 22:31:42.925] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[25Jun2025 22:31:44.645] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/awdna./servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23191!/assets/.mcassetsroot' uses unexpected schema
+[25Jun2025 22:31:44.646] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/awdna./servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23191!/data/.mcassetsroot' uses unexpected schema
+[25Jun2025 22:31:45.366] [main/INFO] [bettervillage/]: StructureSet modified for minecraft:village : Now using custom village configuration (can be disabled in the better villages config: boolean.villages.enabled_custom_config).
+[25Jun2025 22:31:46.692] [main/INFO] [Spartan Weaponry/]: Finished registering commands for Spartan Weaponry!
+[25Jun2025 22:31:47.962] [Worker-Main-1/INFO] [Spartan Weaponry/]: Adding Diamond Weapons to the End City Treasure Loot Table!
+[25Jun2025 22:31:47.975] [Worker-Main-1/INFO] [Spartan Weaponry/]: Adding Iron Weapons to the Village Weaponsmith Loot Table!
+[25Jun2025 22:31:48.095] [Worker-Main-1/INFO] [Spartan Weaponry/]: Adding Longbow and Heavy Crossbow related loot to the Village Fletcher Loot Table!
+[25Jun2025 22:31:48.344] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
+[25Jun2025 22:31:48.344] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_blasting_electrum_weapons as it's serializer returned null
+[25Jun2025 22:31:48.384] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
+[25Jun2025 22:31:48.384] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_smelting_platinum_weapons as it's serializer returned null
+[25Jun2025 22:31:48.410] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
+[25Jun2025 22:31:48.410] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_blasting_aluminum_weapons as it's serializer returned null
+[25Jun2025 22:31:48.457] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/bronze" Skipping...
+[25Jun2025 22:31:48.458] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:bronze_nugget_from_blasting_bronze_weapons as it's serializer returned null
+[25Jun2025 22:31:48.493] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/steel" Skipping...
+[25Jun2025 22:31:48.493] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:steel_nugget_from_blasting_steel_weapons as it's serializer returned null
+[25Jun2025 22:31:48.502] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
+[25Jun2025 22:31:48.503] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_smelting_invar_weapons as it's serializer returned null
+[25Jun2025 22:31:48.517] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
+[25Jun2025 22:31:48.517] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_smelting_constantan_weapons as it's serializer returned null
+[25Jun2025 22:31:48.568] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
+[25Jun2025 22:31:48.569] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_smelting_nickel_weapons as it's serializer returned null
+[25Jun2025 22:31:48.569] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
+[25Jun2025 22:31:48.569] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_smelting_electrum_weapons as it's serializer returned null
+[25Jun2025 22:31:48.597] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/lead" Skipping...
+[25Jun2025 22:31:48.597] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:lead_nugget_from_smelting_lead_weapons as it's serializer returned null
+[25Jun2025 22:31:48.617] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/steel" Skipping...
+[25Jun2025 22:31:48.617] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:steel_nugget_from_smelting_steel_weapons as it's serializer returned null
+[25Jun2025 22:31:48.662] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
+[25Jun2025 22:31:48.662] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_blasting_platinum_weapons as it's serializer returned null
+[25Jun2025 22:31:48.667] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
+[25Jun2025 22:31:48.667] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_blasting_constantan_weapons as it's serializer returned null
+[25Jun2025 22:31:48.703] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/lead" Skipping...
+[25Jun2025 22:31:48.704] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:lead_nugget_from_blasting_lead_weapons as it's serializer returned null
+[25Jun2025 22:31:48.719] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/bronze" Skipping...
+[25Jun2025 22:31:48.720] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:bronze_nugget_from_smelting_bronze_weapons as it's serializer returned null
+[25Jun2025 22:31:48.725] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/tin" Skipping...
+[25Jun2025 22:31:48.726] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:tin_nugget_from_smelting_tin_weapons as it's serializer returned null
+[25Jun2025 22:31:48.760] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dedsafio3:llave_crafteo
+com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipe.java:295) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:219) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.20.1-47.3.7-universal.jar%23196!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:148) ~[forge-1.20.1-47.3.7-universal.jar%23196!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_288218_(Ingredient.java:194) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_44210_(ShapedRecipe.java:278) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:306) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:301) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.3.7-universal.jar%23196!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2367!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2367!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2367!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[25Jun2025 22:31:48.790] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
+[25Jun2025 22:31:48.790] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_blasting_nickel_weapons as it's serializer returned null
+[25Jun2025 22:31:48.799] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
+[25Jun2025 22:31:48.799] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_blasting_invar_weapons as it's serializer returned null
+[25Jun2025 22:31:48.817] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/tin" Skipping...
+[25Jun2025 22:31:48.817] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:tin_nugget_from_blasting_tin_weapons as it's serializer returned null
+[25Jun2025 22:31:48.845] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
+[25Jun2025 22:31:48.845] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_smelting_aluminum_weapons as it's serializer returned null
+[25Jun2025 22:31:48.859] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 11 recipes
+[25Jun2025 22:31:48.894] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_basic_shield: Unknown item id 'enderio:octadic_capacitor'
+[25Jun2025 22:31:48.962] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_tower_shield: Unknown item id 'mekanism:energy_tablet'
+[25Jun2025 22:31:48.985] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_tower_shield: Unknown item id 'enderio:octadic_capacitor'
+[25Jun2025 22:31:48.992] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_basic_shield: Unknown item id 'mekanism:energy_tablet'
+[25Jun2025 22:31:49.044] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3101 advancements
+[25Jun2025 22:31:49.074] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
+[25Jun2025 22:31:49.098] [main/ERROR] [top.theillusivec4.curios.Curios/]: talisman is not a registered slot type!
+[25Jun2025 22:31:49.100] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[25Jun2025 22:31:49.104] [main/ERROR] [bettervillage/]: Ice And Fire compatibility is not enabled for Better Village and Ice And Fire is present in your mod list.
+     - Please install the datapack for better compatibility between Better Villages and Ice And Fire.
+     - You can find the datapack URL in the `compatibility` section of the Better Villages description.
+     - URL=https://www.curseforge.com/minecraft/mc-mods/better-village-forge
+[25Jun2025 22:31:50.466] [main/INFO] [Spartan Weaponry/]: Finished initialising Weapon Traits & Attributes! Took 8.066837ms
+[25Jun2025 22:31:50.472] [main/INFO] [firstaid/registry]: Built local FirstAid registry lookups
+[25Jun2025 22:31:50.611] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[25Jun2025 22:31:50.612] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[25Jun2025 22:31:50.612] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[25Jun2025 22:31:50.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[25Jun2025 22:31:50.719] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[25Jun2025 22:31:50.765] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[25Jun2025 22:31:50.901] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[25Jun2025 22:31:50.902] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[25Jun2025 22:31:50.903] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[25Jun2025 22:31:50.903] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[25Jun2025 22:31:50.946] [Server thread/INFO] [Puzzles Lib/]: Loading server config for illagerinvasion
+[25Jun2025 22:31:50.970] [Server thread/INFO] [Puzzles Lib/]: Loading server config for hangglider
+[25Jun2025 22:31:50.974] [Thread-0/INFO] [Puzzles Lib/]: Reloading server config for hangglider
+[25Jun2025 22:31:50.985] [Server thread/INFO] [Puzzles Lib/]: Loading server config for enchantinginfuser
+[25Jun2025 22:31:50.993] [Thread-0/INFO] [Puzzles Lib/]: Reloading server config for enchantinginfuser
+[25Jun2025 22:31:51.146] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[25Jun2025 22:31:55.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[25Jun2025 22:31:57.538] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Jun2025 22:31:57.612] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Jun2025 22:31:57.647] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Jun2025 22:31:57.658] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Jun2025 22:31:57.991] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Jun2025 22:31:58.491] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Jun2025 22:31:59.389] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Jun2025 22:31:59.514] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Jun2025 22:31:59.990] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Jun2025 22:32:00.496] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Jun2025 22:32:00.992] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Jun2025 22:32:01.496] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Jun2025 22:32:02.032] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Jun2025 22:32:02.488] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
+[25Jun2025 22:32:02.989] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 31%
+[25Jun2025 22:32:03.321] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 7334 ms
+[25Jun2025 22:32:03.321] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (12.397s)! For help, type "help"
+[25Jun2025 22:32:03.443] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[25Jun2025 22:32:03.453] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[25Jun2025 22:32:03.454] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[25Jun2025 22:32:11.454] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joaocover[/127.201.115.94:33471] logged in with entity id 235 at (2.5, 79.0, -7.5)
+[25Jun2025 22:32:11.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover joined the game
+[25Jun2025 22:32:20.097] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: asrielmanrique[/127.43.186.68:49199] logged in with entity id 272 at (-201.07067083835884, 18.0, -153.41833740885167)
+[25Jun2025 22:32:20.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique joined the game
+[25Jun2025 22:33:59.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <asrielmanrique> jaou veni a la cueva
+[25Jun2025 22:34:11.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> OK
+[25Jun2025 22:37:29.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> byron a ver si entra gustambo y te ayuda
+[25Jun2025 22:37:41.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <asrielmanrique> vienes a la cueva?
+[25Jun2025 22:37:49.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> SI
+[25Jun2025 22:38:02.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> SOLO PERAME
+[25Jun2025 22:38:19.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> VOY POR MIS COSAS
+[25Jun2025 22:39:19.886] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anzu_ara[/127.197.59.154:51083] logged in with entity id 3925 at (-496.894135363992, 106.0, -589.4346584058574)
+[25Jun2025 22:39:19.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara joined the game
+[25Jun2025 22:39:29.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> SE UNI LGUIEN MAS XD
+[25Jun2025 22:41:24.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to joaocover: y tus amigos?
+[25Jun2025 22:41:28.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was shot by Skeleton
+[25Jun2025 22:41:31.537] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jun2025 22:41:31.537] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[25Jun2025 22:41:40.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> xd
+[25Jun2025 22:42:45.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Sea Serpent
+[25Jun2025 22:42:47.228] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jun2025 22:42:47.229] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[25Jun2025 22:42:58.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Sea Serpent
+[25Jun2025 22:42:59.631] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jun2025 22:42:59.631] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[25Jun2025 22:43:03.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Sea Serpent
+[25Jun2025 22:43:04.492] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jun2025 22:43:04.492] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[25Jun2025 22:43:12.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Sea Serpent
+[25Jun2025 22:43:13.285] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jun2025 22:43:13.285] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[25Jun2025 22:43:23.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was shot by Skeleton
+[25Jun2025 22:43:24.875] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jun2025 22:43:24.875] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[25Jun2025 22:44:35.443] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anzu_ara lost connection: Timed out
+[25Jun2025 22:44:35.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara left the game
+[25Jun2025 22:44:38.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was shot by Skeleton
+[25Jun2025 22:44:39.139] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jun2025 22:44:39.140] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[25Jun2025 22:45:23.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Sea Serpent
+[25Jun2025 22:45:25.178] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jun2025 22:45:25.179] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[25Jun2025 22:45:33.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Sea Serpent
+[25Jun2025 22:45:34.678] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jun2025 22:45:34.678] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[25Jun2025 22:45:48.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was shot by Skeleton
+[25Jun2025 22:45:49.874] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jun2025 22:45:49.874] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[25Jun2025 22:46:08.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Zombie
+[25Jun2025 22:46:09.625] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jun2025 22:46:09.625] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[25Jun2025 22:46:48.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was shot by Skeleton
+[25Jun2025 22:46:50.102] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jun2025 22:46:50.102] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[25Jun2025 22:47:40.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Zombie
+[25Jun2025 22:47:41.701] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jun2025 22:47:41.701] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[25Jun2025 22:48:56.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Zombie
+[25Jun2025 22:48:57.316] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jun2025 22:48:57.316] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[25Jun2025 22:49:02.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Zombie
+[25Jun2025 22:49:03.423] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jun2025 22:49:03.424] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[25Jun2025 22:49:17.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Zombie
+[25Jun2025 22:49:18.671] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jun2025 22:49:18.671] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[25Jun2025 22:49:22.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Sea Serpent
+[25Jun2025 22:49:23.381] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jun2025 22:49:23.381] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[25Jun2025 22:53:01.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> duplique xp
+[25Jun2025 22:53:06.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <asrielmanrique> xd
+[25Jun2025 22:53:13.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> tengo 17
+[25Jun2025 22:54:09.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> GUSTAMBO VOY
+[25Jun2025 22:59:49.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> eres mas lento que una vieja
+[25Jun2025 23:00:14.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> LOS DOS SPAWN
+[25Jun2025 23:01:04.126] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anzu_ara[/127.197.59.154:40235] logged in with entity id 21389 at (-496.6025097401371, 106.0, -580.0847474464512)
+[25Jun2025 23:01:04.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara joined the game

@@ -27,6 +27,7 @@
       "minecraft:sparse_jungle": "2025-06-25 00:42:53 +0000",
       "minecraft:river": "2025-06-16 00:25:04 +0000",
       "minecraft:lukewarm_ocean": "2025-06-25 00:26:05 +0000",
+      "minecraft:swamp": "2025-06-25 22:33:24 +0000",
       "minecraft:cold_ocean": "2025-06-25 02:21:53 +0000",
       "minecraft:forest": "2025-06-16 00:24:09 +0000",
       "minecraft:lush_caves": "2025-06-25 02:18:26 +0000",
@@ -4709,27 +4710,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_helmet": {
+  "minecraft:recipes/building_blocks/mud_bricks": {
     "criteria": {
-      "has_leather": "2025-06-25 02:14:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_wood": {
-    "criteria": {
-      "has_log": "2025-06-25 01:12:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_smoking": {
-    "criteria": {
-      "has_cod": "2025-06-25 02:55:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_chestplate": {
-    "criteria": {
-      "has_leather": "2025-06-25 02:14:14 +0000"
+      "has_packed_mud": "2025-06-25 00:31:33 +0000"
     },
     "done": true
   },
@@ -4740,9 +4723,27 @@
     },
     "done": false
   },
-  "minecraft:recipes/misc/leather_horse_armor": {
+  "dungeons_enhanced:thats_a_dungeon": {
     "criteria": {
-      "has_leather": "2025-06-25 02:14:14 +0000"
+      "entered_large_dungeon": "2025-06-25 00:32:22 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:root": {
+    "criteria": {
+      "entered_large_dungeon": "2025-06-25 00:32:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-06-25 00:51:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-06-25 00:51:15 +0000"
     },
     "done": true
   },
@@ -4752,21 +4753,75 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/horse": {
+  "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
-      "has_leather": "2025-06-25 02:14:14 +0000"
+      "has_planks": "2025-06-25 00:51:32 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/jungle_stairs": {
+  "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
-      "has_planks": "2025-06-25 01:13:08 +0000"
+      "has_planks": "2025-06-25 00:51:32 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/underzealot_sacrifice": {
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
-      "underzealot_sacrifice": "2025-06-25 01:40:55 +0000"
+      "has_planks": "2025-06-25 00:51:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-25 00:51:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-06-25 00:51:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-25 00:51:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-06-25 00:51:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-06-25 00:51:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-06-25 00:59:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-06-25 00:59:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-06-25 00:59:36 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_underzealot": {
+    "criteria": {
+      "killed_by_underzealot": "2025-06-25 01:08:39 +0000"
     },
     "done": true
   },
@@ -4776,27 +4831,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dark_oak_door": {
+  "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
-      "has_planks": "2025-06-25 00:51:32 +0000"
+      "has_log": "2025-06-25 01:12:01 +0000"
     },
     "done": true
   },
-  "hangglider:recipes/tools/glider_wing": {
+  "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
-      "has_leather": "2025-06-25 02:14:14 +0000"
+      "has_logs": "2025-06-25 01:12:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-25 01:13:08 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/jungle_trapdoor": {
     "criteria": {
       "has_planks": "2025-06-25 01:13:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/item_frame": {
-    "criteria": {
-      "has_leather": "2025-06-25 02:14:14 +0000"
     },
     "done": true
   },
@@ -4812,39 +4867,87 @@
     },
     "done": true
   },
-  "dungeons_enhanced:thats_a_dungeon": {
-    "criteria": {
-      "entered_large_dungeon": "2025-06-25 00:32:22 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/jungle_fence": {
     "criteria": {
       "has_planks": "2025-06-25 01:13:08 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mud_bricks": {
+  "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
-      "has_packed_mud": "2025-06-25 00:31:33 +0000"
+      "has_planks": "2025-06-25 01:13:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-06-25 01:13:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-25 01:13:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-25 01:13:08 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:collect_heads": {
+    "criteria": {
+      "skeleton_skull": "2025-06-25 01:21:27 +0000"
+    },
+    "done": false
+  },
+  "alexscaves:alexscaves/underzealot_sacrifice": {
+    "criteria": {
+      "underzealot_sacrifice": "2025-06-25 01:40:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-06-25 02:14:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-06-25 02:14:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-06-25 02:14:14 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/horse": {
+    "criteria": {
+      "has_leather": "2025-06-25 02:14:14 +0000"
+    },
+    "done": true
+  },
+  "hangglider:recipes/tools/glider_wing": {
+    "criteria": {
+      "has_leather": "2025-06-25 02:14:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-06-25 02:14:14 +0000"
     },
     "done": true
   },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-06-25 02:14:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dark_oak_sign": {
-    "criteria": {
-      "has_planks": "2025-06-25 00:51:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_slab": {
-    "criteria": {
-      "has_planks": "2025-06-25 01:13:08 +0000"
     },
     "done": true
   },
@@ -4866,99 +4969,15 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/discover_underzealot": {
-    "criteria": {
-      "killed_by_underzealot": "2025-06-25 01:08:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-06-25 00:51:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-06-25 00:51:32 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/misc/blindfold": {
     "criteria": {
       "has_item": "2025-06-25 02:14:14 +0000"
     },
     "done": true
   },
-  "spartanweaponry:collect_heads": {
-    "criteria": {
-      "skeleton_skull": "2025-06-25 01:21:27 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/redstone/dark_oak_button": {
-    "criteria": {
-      "has_planks": "2025-06-25 00:51:32 +0000"
-    },
-    "done": true
-  },
-  "dungeons_enhanced:root": {
-    "criteria": {
-      "entered_large_dungeon": "2025-06-25 00:32:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_button": {
-    "criteria": {
-      "has_planks": "2025-06-25 01:13:08 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/ocelot": {
-    "criteria": {
-      "has_cod": "2025-06-25 02:55:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-06-25 00:51:32 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/leather_heavy_crossbow": {
     "criteria": {
       "has_leather": "2025-06-25 02:14:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-06-25 01:13:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dark_oak_fence": {
-    "criteria": {
-      "has_planks": "2025-06-25 00:51:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_slab": {
-    "criteria": {
-      "has_planks": "2025-06-25 00:51:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
-    "criteria": {
-      "has_log": "2025-06-25 00:51:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_planks": {
-    "criteria": {
-      "has_logs": "2025-06-25 01:12:01 +0000"
     },
     "done": true
   },
@@ -4974,9 +4993,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_wood": {
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
-      "has_log": "2025-06-25 00:51:15 +0000"
+      "has_cod": "2025-06-25 02:55:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/ocelot": {
+    "criteria": {
+      "has_cod": "2025-06-25 02:55:35 +0000"
     },
     "done": true
   },
@@ -4986,33 +5011,63 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/jungle_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-06-25 01:13:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/stick_from_bamboo_item": {
-    "criteria": {
-      "has_bamboo": "2025-06-25 00:59:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2025-06-25 02:55:35 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bamboo_block": {
+  "farmersdelight:recipes/food/melon_juice": {
     "criteria": {
-      "has_bamboo": "2025-06-25 00:59:36 +0000"
+      "has_melon_slice": "2025-06-25 22:45:15 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/scaffolding": {
+  "farmersdelight:recipes/food/melon_popsicle": {
     "criteria": {
-      "has_bamboo": "2025-06-25 00:59:36 +0000"
+      "has_melon": "2025-06-25 22:45:15 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-06-25 22:45:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_planks": {
+    "criteria": {
+      "has_logs": "2025-06-25 22:50:30 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/simple_pole": {
+    "criteria": {
+      "has_handle": "2025-06-25 22:45:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-06-25 22:45:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-06-25 22:45:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-06-25 22:45:15 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/melon": {
+    "criteria": {
+      "has_melon_slice": "2025-06-25 22:45:15 +0000"
     },
     "done": true
   },
