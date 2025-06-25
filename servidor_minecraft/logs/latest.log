@@ -88,3 +88,66 @@
 [25Jun2025 00:21:27.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> no sera el grotesque corrompido?
 [25Jun2025 00:21:34.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> como recogo un cadaver de dragon?
 [25Jun2025 00:21:47.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> click con la mano desnuda
+[25Jun2025 00:22:29.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> no jodas medusa
+[25Jun2025 00:22:58.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Spectator Mode]
+[25Jun2025 00:23:02.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has reached the goal [Forlornliest Day of My Life]
+[25Jun2025 00:23:07.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> vaya bodrio de server
+[25Jun2025 00:23:32.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]
+[25Jun2025 00:26:09.931] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[25Jun2025 00:26:17.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> SERPIENTES DE MAR
+[25Jun2025 00:26:43.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported joaocover to -2460.000000, 4.410000, -842.080000]
+[25Jun2025 00:26:44.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover has reached the goal [Forlornliest Day of My Life]
+[25Jun2025 00:26:49.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> no jadass we
+[25Jun2025 00:26:55.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> XD
+[25Jun2025 00:27:09.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> espera
+[25Jun2025 00:27:11.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> PTR
+[25Jun2025 00:27:21.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> eséra mrd
+[25Jun2025 00:27:29.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> MIRA LO QUE TENGO
+[25Jun2025 00:27:41.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was slain by Lightning Dragon
+[25Jun2025 00:28:03.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Banned joaocover: Banned by an operator.
+[25Jun2025 00:28:03.068] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover lost connection: You are banned from this server
+[25Jun2025 00:28:03.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover left the game
+[25Jun2025 00:28:19.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[25Jun2025 00:28:21.058] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jun2025 00:28:21.058] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[25Jun2025 00:28:21.235] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Sheep['Sheep'/60053, l='ServerLevel[world]', x=118.23, y=66.00, z=-176.75]
+[25Jun2025 00:28:31.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Creative Mode]
+[25Jun2025 00:28:54.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported C0LIGAMES to -2460.500000, -22.500000, -831.500000]
+[25Jun2025 00:29:10.837] [Server thread/INFO] [Scaling Health/]: Blight Gloomoth has died
+[25Jun2025 00:29:21.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Spectator Mode]
+[25Jun2025 00:29:23.724] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@7be7a3e3[id=ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd,name=joaocover,properties={},legacy=false] (/127.201.115.94:36299): You are banned from this server.
+Reason: Banned by an operator.
+[25Jun2025 00:29:23.727] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7be7a3e3[id=ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd,name=joaocover,properties={},legacy=false] (/127.201.115.94:36299) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[25Jun2025 00:29:23.801] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[25Jun2025 00:29:47.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unbanned joaocover
+[25Jun2025 00:29:47.645] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joaocover[/127.201.115.94:42917] logged in with entity id 60575 at (-2453.3397542740204, 6.0, -842.3000000119209)
+[25Jun2025 00:29:47.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover joined the game
+[25Jun2025 00:29:59.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]
+[25Jun2025 00:30:20.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> reinicie
+[25Jun2025 00:30:21.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[25Jun2025 00:30:35.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> pera
+[25Jun2025 00:30:49.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was energized by Lightning Dragon
+[25Jun2025 00:30:51.587] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jun2025 00:30:51.587] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[25Jun2025 00:30:55.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Creative Mode]
+[25Jun2025 00:31:00.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> SOS UN PDJ
+[25Jun2025 00:31:01.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported C0LIGAMES to -2467.500000, 1.500000, -844.500000]
+[25Jun2025 00:31:36.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover fell from a high place
+[25Jun2025 00:31:36.837] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for joaocover with unique ID travelersbackpack.standard_25.06.2025-00.31.36.dat
+[25Jun2025 00:31:38.194] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jun2025 00:31:38.195] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[25Jun2025 00:31:40.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[25Jun2025 00:32:22.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover has made the advancement [What a Dungeon!]
+[25Jun2025 00:33:25.845] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2037, y=-26, z=-1025} but found not block entity block Block{minecraft:lava}[level=2] at location
+[25Jun2025 00:33:25.845] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:lava}[level=2] but failed at location BlockPos{x=-2037, y=-26, z=-1025}
+[25Jun2025 00:33:51.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> NO ME PROFANES
+[25Jun2025 00:34:33.287] [Worker-Main-12/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[25Jun2025 00:34:48.025] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1804, y=24, z=-871} but found not block entity block Block{minecraft:water}[level=0] at location
+[25Jun2025 00:34:48.025] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-1804, y=24, z=-871}
+[25Jun2025 00:36:55.950] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2841ms or 56 ticks behind
+[25Jun2025 00:37:48.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Sea Serpent
+[25Jun2025 00:37:49.805] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jun2025 00:37:49.806] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[25Jun2025 00:38:19.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> VIVES BIEN LEJOS
+[25Jun2025 00:41:02.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> MIS COSAS
