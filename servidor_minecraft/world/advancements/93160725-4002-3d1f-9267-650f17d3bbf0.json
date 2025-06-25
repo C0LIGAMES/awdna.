@@ -781,7 +781,8 @@
     "criteria": {
       "minecraft:skeleton": "2025-06-22 01:51:08 +0000",
       "minecraft:spider": "2025-06-25 22:32:53 +0000",
-      "minecraft:creeper": "2025-06-22 01:59:07 +0000"
+      "minecraft:creeper": "2025-06-22 01:59:07 +0000",
+      "minecraft:zombie": "2025-06-25 23:01:41 +0000"
     },
     "done": false
   },
@@ -1739,6 +1740,12 @@
     },
     "done": true
   },
+  "spartanfire:recipes/dragon_bone_pike": {
+    "criteria": {
+      "has_dragon_bone": "2025-06-25 23:05:08 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/silver_saber": {
     "criteria": {
       "has_silver_ingot": "2025-06-25 22:35:39 +0000"
@@ -1757,6 +1764,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_bone_wall": {
+    "criteria": {
+      "has_item": "2025-06-25 23:05:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-25 22:37:15 +0000"
@@ -1766,6 +1779,12 @@
   "spartanweaponry:recipes/silver_javelin": {
     "criteria": {
       "has_silver_ingot": "2025-06-25 22:35:39 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/dragon_bone_rapier": {
+    "criteria": {
+      "has_dragon_bone": "2025-06-25 23:05:08 +0000"
     },
     "done": true
   },
@@ -1781,15 +1800,51 @@
     },
     "done": true
   },
+  "spartanfire:recipes/dragon_bone_dagger": {
+    "criteria": {
+      "has_dragon_bone": "2025-06-25 23:05:08 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/dragon_bone_flanged_mace": {
+    "criteria": {
+      "has_dragon_bone": "2025-06-25 23:05:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_flute": {
+    "criteria": {
+      "has_item": "2025-06-25 23:05:08 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/silver_warhammer": {
     "criteria": {
       "has_silver_ingot": "2025-06-25 22:35:39 +0000"
     },
     "done": true
   },
+  "spartanfire:recipes/dragon_bone_scythe": {
+    "criteria": {
+      "has_dragon_bone": "2025-06-25 23:05:08 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/silver_glaive": {
     "criteria": {
       "has_silver_ingot": "2025-06-25 22:35:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/forest_troll_leather_boots": {
+    "criteria": {
+      "has_item": "2025-06-25 23:05:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
+    "criteria": {
+      "has_item": "2025-06-25 23:05:07 +0000"
     },
     "done": true
   },
@@ -1805,6 +1860,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/nest": {
+    "criteria": {
+      "has_item": "2025-06-25 23:05:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-25 22:37:15 +0000"
@@ -1817,9 +1878,39 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/dragonbone_bow": {
+    "criteria": {
+      "has_item": "2025-06-25 23:05:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/forest_troll_leather_leggings": {
+    "criteria": {
+      "has_item": "2025-06-25 23:05:08 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/dragon_bone_greatsword": {
+    "criteria": {
+      "has_dragon_bone": "2025-06-25 23:05:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-25 22:37:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2025-06-25 23:05:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragon_bone_block": {
+    "criteria": {
+      "has_dragonbone": "2025-06-25 23:05:08 +0000"
     },
     "done": true
   },
@@ -1841,6 +1932,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_hoe": {
+    "criteria": {
+      "has_item": "2025-06-25 23:05:08 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/dragon_bone_throwing_knife": {
+    "criteria": {
+      "has_dragon_bone": "2025-06-25 23:05:08 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/silver_tomahawk": {
     "criteria": {
       "has_silver_ingot": "2025-06-25 22:35:39 +0000"
@@ -1850,6 +1953,12 @@
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-25 22:37:15 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/dragon_bone_glaive": {
+    "criteria": {
+      "has_dragon_bone": "2025-06-25 23:05:08 +0000"
     },
     "done": true
   },
@@ -1865,15 +1974,39 @@
     },
     "done": true
   },
+  "spartanfire:recipes/dragon_bone_parrying_dagger": {
+    "criteria": {
+      "has_dragon_bone": "2025-06-25 23:05:08 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/silver_scythe": {
     "criteria": {
       "has_silver_ingot": "2025-06-25 22:35:39 +0000"
     },
     "done": true
   },
+  "spartanfire:recipes/dragon_bone_warhammer": {
+    "criteria": {
+      "has_dragon_bone": "2025-06-25 23:05:08 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/silver_parrying_dagger": {
     "criteria": {
       "has_silver_ingot": "2025-06-25 22:35:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/forest_troll_leather_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-25 23:05:08 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/dragon_bone_longsword": {
+    "criteria": {
+      "has_dragon_bone": "2025-06-25 23:05:08 +0000"
     },
     "done": true
   },
@@ -1898,6 +2031,12 @@
   "spartanweaponry:recipes/silver_longsword": {
     "criteria": {
       "has_silver_ingot": "2025-06-25 22:35:39 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/dragon_bone_battle_hammer": {
+    "criteria": {
+      "has_dragon_bone": "2025-06-25 23:05:08 +0000"
     },
     "done": true
   },
@@ -1931,9 +2070,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_shovel": {
+    "criteria": {
+      "has_item": "2025-06-25 23:05:08 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/silver_battle_hammer": {
     "criteria": {
       "has_silver_ingot": "2025-06-25 22:35:39 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/dragon_bone_longbow": {
+    "criteria": {
+      "has_dragon_bone": "2025-06-25 23:05:08 +0000"
     },
     "done": true
   },
@@ -1967,6 +2118,24 @@
     },
     "done": true
   },
+  "spartanfire:recipes/dragon_bone_lance": {
+    "criteria": {
+      "has_dragon_bone": "2025-06-25 23:05:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_axe": {
+    "criteria": {
+      "has_item": "2025-06-25 23:05:08 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/dragon_bone_halberd": {
+    "criteria": {
+      "has_dragon_bone": "2025-06-25 23:05:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-06-25 22:34:24 +0000"
@@ -1979,9 +2148,33 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_pickaxe": {
+    "criteria": {
+      "has_item": "2025-06-25 23:05:08 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/dragon_bone_katana": {
+    "criteria": {
+      "has_dragon_bone": "2025-06-25 23:05:08 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/dragon_bone_boomerang": {
+    "criteria": {
+      "has_dragon_bone": "2025-06-25 23:05:08 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/silver_throwing_knife": {
     "criteria": {
       "has_silver_ingot": "2025-06-25 22:35:39 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/dragon_bone_javelin": {
+    "criteria": {
+      "has_dragon_bone": "2025-06-25 23:05:08 +0000"
     },
     "done": true
   },
@@ -1991,15 +2184,33 @@
     },
     "done": true
   },
+  "spartanfire:recipes/dragon_bone_tomahawk": {
+    "criteria": {
+      "has_dragon_bone": "2025-06-25 23:05:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-06-25 22:32:55 +0000"
     },
     "done": true
   },
+  "spartanfire:recipes/dragon_bone_spear": {
+    "criteria": {
+      "has_dragon_bone": "2025-06-25 23:05:08 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/silver_rapier": {
     "criteria": {
       "has_silver_ingot": "2025-06-25 22:35:39 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/dragon_bone_saber": {
+    "criteria": {
+      "has_dragon_bone": "2025-06-25 23:05:08 +0000"
     },
     "done": true
   },
@@ -2012,6 +2223,18 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-25 22:37:15 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/dragon_bone_battleaxe": {
+    "criteria": {
+      "has_dragon_bone": "2025-06-25 23:05:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_sword": {
+    "criteria": {
+      "has_item": "2025-06-25 23:05:08 +0000"
     },
     "done": true
   },
@@ -2033,11 +2256,35 @@
     },
     "done": true
   },
+  "spartanfire:recipes/dragon_bone_heavy_crossbow": {
+    "criteria": {
+      "has_dragon_bone": "2025-06-25 23:05:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "rotten_flesh": "2025-06-25 22:34:24 +0000"
     },
     "done": false
+  },
+  "iceandfire:recipes/misc/dragon_horn": {
+    "criteria": {
+      "has_item": "2025-06-25 23:05:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_stick": {
+    "criteria": {
+      "has_item": "2025-06-25 23:05:07 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/dragon_bone_quarterstaff": {
+    "criteria": {
+      "has_dragon_bone": "2025-06-25 23:05:08 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

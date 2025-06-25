@@ -1197,6 +1197,7 @@
       "mutton": "2025-06-16 00:25:42 +0000",
       "bread": "2025-06-18 02:57:06 +0000",
       "rotten_flesh": "2025-06-18 02:28:49 +0000",
+      "cod": "2025-06-25 22:59:55 +0000",
       "cooked_salmon": "2025-06-24 23:18:50 +0000"
     },
     "done": false
@@ -5059,9 +5060,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-06-25 23:06:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
       "has_melon": "2025-06-25 22:45:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-06-25 23:06:03 +0000"
     },
     "done": true
   },
