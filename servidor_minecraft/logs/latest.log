@@ -399,3 +399,17 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [26Jun2025 23:04:08.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> -976 64 -1048
 [26Jun2025 23:06:37.398] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{Anzu_ara})
 [26Jun2025 23:07:53.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> hatea
+[26Jun2025 23:09:53.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was burnt to a crisp whilst fighting Zombie
+[26Jun2025 23:09:54.837] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Jun2025 23:09:54.838] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[26Jun2025 23:09:57.891] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2363ms or 47 ticks behind
+[26Jun2025 23:13:10.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was burnt to a crisp whilst fighting Zombie
+[26Jun2025 23:13:11.601] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Jun2025 23:13:11.602] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[26Jun2025 23:13:14.616] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2339ms or 46 ticks behind
+[26Jun2025 23:14:41.696] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Disconnected
+[26Jun2025 23:14:41.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
+[26Jun2025 23:14:49.503] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: C0LIGAMES[/127.53.118.236:49303] logged in with entity id 13997 at (-980.3753420793, 67.0, -1032.300000011921)
+[26Jun2025 23:14:49.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
+[26Jun2025 23:18:27.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> Ya esta todo saqueado
+[26Jun2025 23:19:03.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> checa si hay material util como estructura xd
