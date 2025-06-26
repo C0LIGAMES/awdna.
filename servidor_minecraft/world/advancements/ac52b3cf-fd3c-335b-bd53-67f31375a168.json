@@ -1959,6 +1959,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/iron_smithing": {
+    "criteria": {
+      "has_iron": "2025-06-26 23:37:03 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:root": {
     "criteria": {
       "has_handle": "2025-06-26 23:26:57 +0000"
@@ -1995,6 +2001,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/snow_smithing": {
+    "criteria": {
+      "has_snow": "2025-06-26 23:35:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2025-06-26 23:26:46 +0000"
@@ -2010,6 +2022,12 @@
   "spartanweaponry:recipes/combat/handle_from_string": {
     "criteria": {
       "has_string": "2025-06-26 23:26:46 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:longbow": {
+    "criteria": {
+      "has_longbow": "2025-06-26 23:41:28 +0000"
     },
     "done": true
   },
