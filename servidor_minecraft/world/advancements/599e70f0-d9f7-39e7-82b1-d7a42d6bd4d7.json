@@ -5193,6 +5193,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/horse_smithing": {
+    "criteria": {
+      "has_horse": "2025-06-25 23:53:24 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:battle_hammer": {
     "criteria": {
       "has_battle_hammer": "2025-06-25 23:40:35 +0000"

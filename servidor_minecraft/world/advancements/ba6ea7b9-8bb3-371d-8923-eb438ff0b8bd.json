@@ -5018,6 +5018,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2025-06-26 00:00:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2025-06-25 23:27:31 +0000"
@@ -5120,6 +5126,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-26 00:00:05 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/aluminum_warhammer": {
     "criteria": {
       "has_aluminum_ingot": "2025-06-25 23:28:26 +0000"
@@ -5129,6 +5141,12 @@
   "spartanweaponry:recipes/steel_scythe": {
     "criteria": {
       "has_steel_ingot": "2025-06-25 23:29:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2025-06-26 00:00:05 +0000"
     },
     "done": true
   },
@@ -5177,6 +5195,12 @@
   "spartanweaponry:recipes/aluminum_saber": {
     "criteria": {
       "has_aluminum_ingot": "2025-06-25 23:28:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2025-06-26 00:00:05 +0000"
     },
     "done": true
   },
@@ -5243,6 +5267,12 @@
   "spartanweaponry:recipes/aluminum_rapier": {
     "criteria": {
       "has_aluminum_ingot": "2025-06-25 23:28:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-06-25 23:59:59 +0000"
     },
     "done": true
   },
@@ -5324,6 +5354,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-26 00:00:05 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/aluminum_battle_hammer": {
     "criteria": {
       "has_aluminum_ingot": "2025-06-25 23:28:26 +0000"
@@ -5348,6 +5384,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2025-06-26 00:00:05 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
     "criteria": {
       "has_iron_knife": "2025-06-25 23:47:04 +0000"
@@ -5360,9 +5402,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-26 00:00:05 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/steel_quarterstaff": {
     "criteria": {
       "has_steel_ingot": "2025-06-25 23:29:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-06-26 00:00:34 +0000"
     },
     "done": true
   },
@@ -5462,6 +5516,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-26 00:00:05 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/steel_basic_shield": {
     "criteria": {
       "has_steel_ingot": "2025-06-25 23:29:35 +0000"
@@ -5528,6 +5588,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2025-06-26 00:00:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_banner": {
     "criteria": {
       "has_yellow_wool": "2025-06-25 23:45:39 +0000"
@@ -5564,9 +5630,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-06-25 23:59:59 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/steel_greatsword": {
     "criteria": {
       "has_steel_ingot": "2025-06-25 23:29:35 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:boomerang": {
+    "criteria": {
+      "has_boomerang": "2025-06-25 23:53:24 +0000"
     },
     "done": true
   },
