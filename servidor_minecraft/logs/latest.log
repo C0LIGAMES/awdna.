@@ -369,3 +369,17 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [26Jun2025 22:45:48.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara was slain by Zombie
 [26Jun2025 22:46:06.873] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [26Jun2025 22:46:06.873] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[26Jun2025 22:48:37.201] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: C0LIGAMES[/127.53.118.236:42797] logged in with entity id 6034 at (-1044.5328130267092, 80.0, -1177.1802228267177)
+[26Jun2025 22:48:37.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
+[26Jun2025 22:48:56.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> y ese milagorXD
+[26Jun2025 22:49:19.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> jodete acabo de entrar y me dajs la granja
+[26Jun2025 22:49:25.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> :3
+[26Jun2025 22:51:40.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> duerme pe
+[26Jun2025 22:51:52.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> no tengo cama xd
+[26Jun2025 22:52:13.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> en el primer piso hay XD
+[26Jun2025 22:52:20.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> voy xd
+[26Jun2025 22:52:46.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ZZZZZZZZZZZZZZZZZZZ
+[26Jun2025 22:52:50.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara has made the advancement [Sweet Dreams]
+[26Jun2025 22:52:58.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XDDDDDDDDDD
+[26Jun2025 22:58:12.056] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{Anzu_ara})
+[26Jun2025 22:58:15.654] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{Anzu_ara})
