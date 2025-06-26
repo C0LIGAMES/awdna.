@@ -1466,6 +1466,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/coal_smithing": {
+    "criteria": {
+      "has_coal": "2025-06-26 00:37:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2025-06-26 00:15:54 +0000"
