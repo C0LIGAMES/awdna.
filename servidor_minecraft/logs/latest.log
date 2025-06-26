@@ -4,3 +4,157 @@
 [26Jun2025 00:01:59.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Zombie
 [26Jun2025 00:02:01.032] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [26Jun2025 00:02:01.032] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[26Jun2025 00:02:57.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was struck with lightning by Lightning Dragon
+[26Jun2025 00:02:59.140] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Jun2025 00:02:59.140] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[26Jun2025 00:04:23.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Spider
+[26Jun2025 00:04:24.589] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Jun2025 00:04:24.590] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[26Jun2025 00:04:46.241] [Ice and Fire Pathfinding Worker #0/WARN] [com.github.alexthe666.iceandfire.IceAndFire/]: Pathfinding Exception
+java.lang.IllegalArgumentException: Cannot get property BooleanProperty{name=ropelogged, clazz=class java.lang.Boolean, values=[true, false]} as it does not exist in Block{minecraft:air}
+	at net.minecraft.world.level.block.state.StateHolder.m_61143_(StateHolder.java:98) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at vectorwing.farmersdelight.common.block.TomatoVineBlock.isLadder(TomatoVineBlock.java:157) ~[FarmersDelight-1.20.1-1.2.7.jar%23155!/:1.20.1-1.2.7]
+	at com.github.alexthe666.iceandfire.pathfinding.raycoms.pathjobs.AbstractPathJob.isLadder(AbstractPathJob.java:1469) ~[iceandfire-2.1.13-1.20.1-beta-5.jar%23161!/:2.1.13-1.20.1]
+	at com.github.alexthe666.iceandfire.pathfinding.raycoms.pathjobs.AbstractPathJob.isPassable(AbstractPathJob.java:1305) ~[iceandfire-2.1.13-1.20.1-beta-5.jar%23161!/:2.1.13-1.20.1]
+	at com.github.alexthe666.iceandfire.pathfinding.raycoms.pathjobs.AbstractPathJob.isFlyable(AbstractPathJob.java:1424) ~[iceandfire-2.1.13-1.20.1-beta-5.jar%23161!/:2.1.13-1.20.1]
+	at com.github.alexthe666.iceandfire.pathfinding.raycoms.pathjobs.AbstractPathJob.getGroundHeight(AbstractPathJob.java:1020) ~[iceandfire-2.1.13-1.20.1-beta-5.jar%23161!/:2.1.13-1.20.1]
+	at com.github.alexthe666.iceandfire.pathfinding.raycoms.pathjobs.AbstractPathJob.walk(AbstractPathJob.java:877) ~[iceandfire-2.1.13-1.20.1-beta-5.jar%23161!/:2.1.13-1.20.1]
+	at com.github.alexthe666.iceandfire.pathfinding.raycoms.pathjobs.AbstractPathJob.walkCurrentNode(AbstractPathJob.java:677) ~[iceandfire-2.1.13-1.20.1-beta-5.jar%23161!/:2.1.13-1.20.1]
+	at com.github.alexthe666.iceandfire.pathfinding.raycoms.pathjobs.AbstractPathJob.search(AbstractPathJob.java:596) ~[iceandfire-2.1.13-1.20.1-beta-5.jar%23161!/:2.1.13-1.20.1]
+	at com.github.alexthe666.iceandfire.pathfinding.raycoms.pathjobs.PathJobMoveToLocation.search(PathJobMoveToLocation.java:62) ~[iceandfire-2.1.13-1.20.1-beta-5.jar%23161!/:2.1.13-1.20.1]
+	at com.github.alexthe666.iceandfire.pathfinding.raycoms.pathjobs.AbstractPathJob.call(AbstractPathJob.java:541) ~[iceandfire-2.1.13-1.20.1-beta-5.jar%23161!/:2.1.13-1.20.1]
+	at com.github.alexthe666.iceandfire.pathfinding.raycoms.pathjobs.AbstractPathJob.call(AbstractPathJob.java:46) ~[iceandfire-2.1.13-1.20.1-beta-5.jar%23161!/:2.1.13-1.20.1]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[26Jun2025 00:04:50.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was struck with lightning by Lightning Dragon
+[26Jun2025 00:04:51.739] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Jun2025 00:04:51.739] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[26Jun2025 00:05:50.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Lightning Dragon
+[26Jun2025 00:05:51.449] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Jun2025 00:05:51.449] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[26Jun2025 00:08:02.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Cockatrice
+[26Jun2025 00:08:03.695] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Jun2025 00:08:03.695] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[26Jun2025 00:09:06.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was struck with lightning by Lightning Dragon
+[26Jun2025 00:09:07.784] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Jun2025 00:09:07.784] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[26Jun2025 00:09:56.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Lightning Dragon
+[26Jun2025 00:09:58.136] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Jun2025 00:09:58.136] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[26Jun2025 00:11:50.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was energized by Lightning Dragon
+[26Jun2025 00:11:51.773] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Jun2025 00:11:51.774] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[26Jun2025 00:11:55.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> ayuda
+[26Jun2025 00:13:48.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Lightning Dragon
+[26Jun2025 00:13:49.340] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Jun2025 00:13:49.340] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[26Jun2025 00:14:36.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was struck with lightning by Lightning Dragon
+[26Jun2025 00:14:37.335] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Jun2025 00:14:37.335] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[26Jun2025 00:15:17.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was energized by Lightning Dragon
+[26Jun2025 00:15:18.480] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Jun2025 00:15:18.481] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[26Jun2025 00:15:34.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <asrielmanrique> listo
+[26Jun2025 00:15:41.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to C0LIGAMES: Como estan todos soy el Server
+[26Jun2025 00:15:41.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Anzu_ara: Como estan todos soy el Server
+[26Jun2025 00:15:41.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to asrielmanrique: Como estan todos soy el Server
+[26Jun2025 00:15:41.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to joaocover: Como estan todos soy el Server
+[26Jun2025 00:15:45.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <asrielmanrique> ise un tunel justo abajo del dragon
+[26Jun2025 00:15:51.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> WTF
+[26Jun2025 00:15:54.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara has made the advancement [Acquire Hardware]
+[26Jun2025 00:16:10.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was energized by Lightning Dragon
+[26Jun2025 00:16:11.550] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Jun2025 00:16:11.551] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[26Jun2025 00:16:26.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> :>
+[26Jun2025 00:16:37.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> ya te iba decir: mi turno xd
+[26Jun2025 00:16:37.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was struck with lightning by Lightning Dragon
+[26Jun2025 00:16:39.244] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Jun2025 00:16:39.244] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[26Jun2025 00:16:44.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[26Jun2025 00:16:56.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> me estan papando
+[26Jun2025 00:17:15.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> haz que todos se vallan a un punto xd, sufro por golpear a los costados
+[26Jun2025 00:17:21.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to C0LIGAMES: Bienvenidos a SAGA-HARDFIO
+[26Jun2025 00:17:21.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Anzu_ara: Bienvenidos a SAGA-HARDFIO
+[26Jun2025 00:17:21.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to asrielmanrique: Bienvenidos a SAGA-HARDFIO
+[26Jun2025 00:17:21.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to joaocover: Bienvenidos a SAGA-HARDFIO
+[26Jun2025 00:17:31.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> GRACIASXSD
+[26Jun2025 00:17:46.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> hi
+[26Jun2025 00:17:50.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to C0LIGAMES: Pronto dare a conocer eventos y muchas cosas mas asi que nos vemos
+[26Jun2025 00:17:50.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Anzu_ara: Pronto dare a conocer eventos y muchas cosas mas asi que nos vemos
+[26Jun2025 00:17:50.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to asrielmanrique: Pronto dare a conocer eventos y muchas cosas mas asi que nos vemos
+[26Jun2025 00:17:50.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to joaocover: Pronto dare a conocer eventos y muchas cosas mas asi que nos vemos
+[26Jun2025 00:17:52.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> mira arriba
+[26Jun2025 00:17:58.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[26Jun2025 00:18:01.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> xd
+[26Jun2025 00:18:02.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique was slain by Zombie
+[26Jun2025 00:18:03.941] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Jun2025 00:18:03.942] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[26Jun2025 00:18:13.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> pasa pico
+[26Jun2025 00:18:24.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> pasa pico
+[26Jun2025 00:18:32.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> ahi
+[26Jun2025 00:18:35.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> te tire
+[26Jun2025 00:18:51.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover withered away whilst fighting Cockatrice
+[26Jun2025 00:18:52.850] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Jun2025 00:18:52.850] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[26Jun2025 00:19:55.819] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/46986, l='ServerLevel[world]', x=-1190.70, y=63.00, z=-1288.70] died, message: 'Scribe was slain by Zombie'
+[26Jun2025 00:20:18.925] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/47125, l='ServerLevel[world]', x=-1146.15, y=63.00, z=-1316.61] died, message: 'Farmer was slain by Zombie'
+[26Jun2025 00:20:47.335] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{Anzu_ara})
+[26Jun2025 00:21:00.771] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/47073, l='ServerLevel[world]', x=-1121.07, y=62.56, z=-1292.70] died, message: 'Scribe was slain by Zombie'
+[26Jun2025 00:21:03.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Lightning Dragon
+[26Jun2025 00:21:05.054] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Jun2025 00:21:05.054] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[26Jun2025 00:21:31.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Lightning Dragon
+[26Jun2025 00:21:32.291] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Jun2025 00:21:32.291] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[26Jun2025 00:22:36.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was struck with lightning by Lightning Dragon
+[26Jun2025 00:22:37.631] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Jun2025 00:22:37.631] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[26Jun2025 00:23:47.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was shot by Skeleton
+[26Jun2025 00:23:49.235] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Jun2025 00:23:49.235] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[26Jun2025 00:24:14.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Spider
+[26Jun2025 00:24:16.184] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Jun2025 00:24:16.184] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[26Jun2025 00:24:22.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was shot by Skeleton
+[26Jun2025 00:24:22.282] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for C0LIGAMES with unique ID travelersbackpack.cactus_26.06.2025-00.24.22.dat
+[26Jun2025 00:24:23.648] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Jun2025 00:24:23.648] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[26Jun2025 00:24:28.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique was energized by Lightning Dragon
+[26Jun2025 00:24:39.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was energized by Lightning Dragon
+[26Jun2025 00:24:40.578] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Jun2025 00:24:40.579] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[26Jun2025 00:24:58.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> F
+[26Jun2025 00:25:12.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Spider
+[26Jun2025 00:25:14.049] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Jun2025 00:25:14.049] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[26Jun2025 00:25:16.821] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/60341, l='ServerLevel[world]', x=-1178.44, y=70.00, z=-1343.05] died, message: 'Villager was slain by Zombie'
+[26Jun2025 00:26:55.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was struck with lightning by Lightning Dragon
+[26Jun2025 00:26:56.925] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Jun2025 00:26:56.925] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[26Jun2025 00:27:01.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> wow
+[26Jun2025 00:27:18.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> you need help?
+[26Jun2025 00:27:40.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> anzu
+[26Jun2025 00:27:40.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was energized by Lightning Dragon
+[26Jun2025 00:27:41.632] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Jun2025 00:27:41.633] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[26Jun2025 00:27:43.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> pasame 2 picos
+[26Jun2025 00:27:49.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> 7-7
+[26Jun2025 00:28:10.681] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Jun2025 00:28:10.681] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[26Jun2025 00:28:27.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Lightning Dragon
+[26Jun2025 00:28:28.780] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Jun2025 00:28:28.780] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[26Jun2025 00:28:58.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Lightning Dragon
+[26Jun2025 00:28:59.531] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Jun2025 00:28:59.531] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[26Jun2025 00:30:51.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> T
+[26Jun2025 00:31:01.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> t?
+[26Jun2025 00:31:14.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Lightning Dragon
+[26Jun2025 00:31:15.793] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Jun2025 00:31:15.793] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[26Jun2025 00:31:49.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> quito antorchas xd?
+[26Jun2025 00:32:41.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> xd
+[26Jun2025 00:32:42.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> me toca
+[26Jun2025 00:32:45.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> yo hize TODO

@@ -5096,6 +5096,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-06-26 00:08:13 +0000"
+    },
+    "done": true
+  },
   "toughasnails:recipes/food/melon_juice": {
     "criteria": {
       "has_melon_slice": "2025-06-25 22:45:15 +0000"
@@ -5108,9 +5114,27 @@
     },
     "done": true
   },
+  "toughasnails:recipes/decorations/thermoregulator": {
+    "criteria": {
+      "has_thermometer": "2025-06-26 00:24:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bamboo_planks": {
     "criteria": {
       "has_logs": "2025-06-25 22:50:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-26 00:03:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-06-26 00:05:28 +0000"
     },
     "done": true
   },
@@ -5138,6 +5162,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-06-26 00:05:28 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/steel_scythe": {
     "criteria": {
       "has_steel_ingot": "2025-06-25 23:29:35 +0000"
@@ -5153,6 +5183,12 @@
   "minecraft:recipes/decorations/bamboo_fence": {
     "criteria": {
       "has_planks": "2025-06-25 23:15:07 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/redstone/temperature_gauge": {
+    "criteria": {
+      "has_thermometer": "2025-06-26 00:24:52 +0000"
     },
     "done": true
   },
@@ -5174,9 +5210,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-26 00:03:33 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/cooked_bacon_from_campfire_cooking": {
     "criteria": {
       "cooked_bacon": "2025-06-25 23:47:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-26 00:03:33 +0000"
     },
     "done": true
   },
@@ -5198,9 +5246,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/chainmail_helmet": {
+    "criteria": {
+      "has_item": "2025-06-26 00:03:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/acacia_sign": {
     "criteria": {
       "has_planks": "2025-06-26 00:00:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_leggings": {
+    "criteria": {
+      "has_item": "2025-06-26 00:03:33 +0000"
     },
     "done": true
   },
@@ -5261,6 +5321,12 @@
   "spartanshields:recipes/aluminum_tower_shield": {
     "criteria": {
       "has_aluminum_ingot": "2025-06-25 23:28:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/chain": {
+    "criteria": {
+      "has_item": "2025-06-26 00:03:33 +0000"
     },
     "done": true
   },
@@ -5357,6 +5423,18 @@
   "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
       "has_planks": "2025-06-26 00:00:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_boots": {
+    "criteria": {
+      "has_item": "2025-06-26 00:03:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-26 00:05:28 +0000"
     },
     "done": true
   },
@@ -5462,6 +5540,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-26 00:05:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-06-25 23:06:02 +0000"
@@ -5477,6 +5561,12 @@
   "spartanweaponry:recipes/steel_pike": {
     "criteria": {
       "has_steel_ingot": "2025-06-25 23:29:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-26 00:03:33 +0000"
     },
     "done": true
   },
@@ -5606,9 +5696,33 @@
     },
     "done": true
   },
+  "enchantinginfuser:recipes/decorations/enchanting_infuser": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-26 00:03:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-26 00:03:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/bamboo_fence_gate": {
     "criteria": {
       "has_planks": "2025-06-25 23:15:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2025-06-26 00:08:13 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-26 00:05:28 +0000"
     },
     "done": true
   },
