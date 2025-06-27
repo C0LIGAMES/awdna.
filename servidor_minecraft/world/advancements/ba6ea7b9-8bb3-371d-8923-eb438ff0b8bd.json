@@ -23,6 +23,7 @@
       "minecraft:deep_ocean": "2025-06-25 00:03:44 +0000",
       "minecraft:windswept_hills": "2025-06-21 01:36:10 +0000",
       "minecraft:bamboo_jungle": "2025-06-25 00:41:37 +0000",
+      "minecraft:savanna_plateau": "2025-06-27 01:00:50 +0000",
       "minecraft:beach": "2025-06-18 02:36:23 +0000",
       "minecraft:sparse_jungle": "2025-06-25 00:42:53 +0000",
       "minecraft:river": "2025-06-16 00:25:04 +0000",
@@ -5799,9 +5800,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-06-27 01:16:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
       "has_mossy_cobblestone": "2025-06-27 00:19:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-06-27 01:16:05 +0000"
     },
     "done": true
   },
