@@ -322,3 +322,10 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [27Jun2025 22:03:08.449] [Server thread/INFO] [Scaling Health/]: Blight Zombie was killed by C0LIGAMES
 [27Jun2025 22:05:10.987] [Server thread/INFO] [Scaling Health/]: Blight Zombie was killed by C0LIGAMES
 [27Jun2025 22:08:23.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has made the advancement [Who is Cutting Onions?]
+[27Jun2025 22:26:43.196] [Server thread/INFO] [Scaling Health/]: Blight Spider was killed by C0LIGAMES
+[27Jun2025 22:31:10.248] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Disconnected
+[27Jun2025 22:31:10.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
+[27Jun2025 22:33:23.967] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: C0LIGAMES[/127.53.118.236:44761] logged in with entity id 11134 at (62.85770037042306, 77.0, -585.3891634634706)
+[27Jun2025 22:33:24.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
+[27Jun2025 22:33:48.199] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Disconnected
+[27Jun2025 22:33:48.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
