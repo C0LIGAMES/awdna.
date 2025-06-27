@@ -28,6 +28,7 @@
       "minecraft:sparse_jungle": "2025-06-25 00:42:53 +0000",
       "minecraft:river": "2025-06-16 00:25:04 +0000",
       "minecraft:lukewarm_ocean": "2025-06-25 00:26:05 +0000",
+      "minecraft:dripstone_caves": "2025-06-27 01:19:56 +0000",
       "minecraft:swamp": "2025-06-25 22:33:24 +0000",
       "minecraft:cold_ocean": "2025-06-25 02:21:53 +0000",
       "minecraft:forest": "2025-06-16 00:24:09 +0000",
@@ -4722,7 +4723,8 @@
     "criteria": {
       "entered_stables": "2025-06-25 02:14:05 +0000",
       "entered_druid_circle": "2025-06-27 00:21:24 +0000",
-      "entered_large_dungeon": "2025-06-25 00:32:22 +0000"
+      "entered_large_dungeon": "2025-06-25 00:32:22 +0000",
+      "entered_ruined_building": "2025-06-27 01:28:57 +0000"
     },
     "done": false
   },
@@ -5866,6 +5868,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-06-27 01:29:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_helmet": "2025-06-26 23:43:11 +0000"
@@ -5887,6 +5895,12 @@
   "farmersdelight:recipes/cooking/vegetable_noodles": {
     "criteria": {
       "has_any_ingredient": "2025-06-26 23:53:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/ambrosia": {
+    "criteria": {
+      "has_item": "2025-06-27 01:34:26 +0000"
     },
     "done": true
   },
