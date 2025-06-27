@@ -5616,9 +5616,39 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/aluminum_lance": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-06-27 22:10:55 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/aluminum_katana": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-06-27 22:10:55 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/aluminum_tomahawk": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-06-27 22:10:55 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/aluminum_javelin": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-06-27 22:10:55 +0000"
+    },
+    "done": true
+  },
   "toughasnails:recipes/food/apple_juice": {
     "criteria": {
       "has_apple": "2025-06-27 21:25:07 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/aluminum_warhammer": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-06-27 22:10:55 +0000"
     },
     "done": true
   },
@@ -5634,6 +5664,48 @@
     },
     "done": false
   },
+  "spartanweaponry:recipes/aluminum_battleaxe": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-06-27 22:10:55 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/aluminum_saber": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-06-27 22:10:55 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/aluminum_quarterstaff": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-06-27 22:10:55 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/aluminum_tower_shield": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-06-27 22:10:55 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/aluminum_rapier": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-06-27 22:10:55 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/aluminum_pike": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-06-27 22:10:55 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/aluminum_flanged_mace": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-06-27 22:10:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-06-27 22:08:29 +0000"
@@ -5646,9 +5718,81 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/aluminum_parrying_dagger": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-06-27 22:10:55 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/aluminum_boomerang": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-06-27 22:10:55 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/aluminum_battle_hammer": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-06-27 22:10:55 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/aluminum_halberd": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-06-27 22:10:55 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/aluminum_longsword": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-06-27 22:10:55 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/aluminum_longbow": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-06-27 22:10:55 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/aluminum_throwing_knife": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-06-27 22:10:55 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/aluminum_spear": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-06-27 22:10:55 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/aluminum_heavy_crossbow": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-06-27 22:10:55 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/aluminum_greatsword": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-06-27 22:10:55 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/aluminum_scythe": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-06-27 22:10:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-06-27 21:43:26 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/aluminum_basic_shield": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-06-27 22:10:55 +0000"
     },
     "done": true
   },
@@ -5658,9 +5802,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/aluminum_dagger": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-06-27 22:10:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/moss_carpet": {
     "criteria": {
       "has_moss_block": "2025-06-27 21:43:26 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/aluminum_glaive": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-06-27 22:10:55 +0000"
     },
     "done": true
   },
