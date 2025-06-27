@@ -329,3 +329,14 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [27Jun2025 22:33:24.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
 [27Jun2025 22:33:48.199] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Disconnected
 [27Jun2025 22:33:48.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
+[27Jun2025 22:37:02.065] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: C0LIGAMES[/127.53.118.236:57995] logged in with entity id 11357 at (62.450056805320365, 77.0, -585.5364011201696)
+[27Jun2025 22:37:02.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
+[27Jun2025 22:40:59.802] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@78073a70[id=<null>,name=joaocover,properties={},legacy=false] (/127.201.115.94:38787) lost connection: Disconnected
+[27Jun2025 22:41:03.402] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@114f7ce2[id=<null>,name=joaocover,properties={},legacy=false] (/127.201.115.94:42061) lost connection: Disconnected
+[27Jun2025 22:44:23.383] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joaocover[/127.201.115.94:37079] logged in with entity id 12271 at (-347.5522886332135, 65.16610926093821, -235.1441994249319)
+[27Jun2025 22:44:23.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover joined the game
+[27Jun2025 22:44:53.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[27Jun2025 22:44:55.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> hola
+[27Jun2025 22:45:04.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> puedes venir a mu ubicacion?
+[27Jun2025 22:45:15.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> para matar al grotesque
+[27Jun2025 22:45:29.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> ok
