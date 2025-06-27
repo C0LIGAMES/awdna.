@@ -5590,12 +5590,6 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/pumpkin_smithing": {
-    "criteria": {
-      "has_pumpkin": "2025-06-27 01:17:24 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/misc/gold_smithing": {
     "criteria": {
       "has_gold": "2025-06-27 01:02:31 +0000"
@@ -5611,6 +5605,12 @@
   "travelersbackpack:recipes/misc/squid_smithing": {
     "criteria": {
       "has_squid": "2025-06-27 01:12:32 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pumpkin_smithing": {
+    "criteria": {
+      "has_pumpkin": "2025-06-27 01:17:24 +0000"
     },
     "done": true
   },
