@@ -5839,5 +5839,11 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/bestiary": {
+    "criteria": {
+      "has_item": "2025-06-27 22:55:22 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

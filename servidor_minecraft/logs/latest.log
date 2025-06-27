@@ -340,3 +340,56 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [27Jun2025 22:45:04.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> puedes venir a mu ubicacion?
 [27Jun2025 22:45:15.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> para matar al grotesque
 [27Jun2025 22:45:29.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> ok
+[27Jun2025 22:45:53.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> xaero-waypoint:cerca del grotesque:C:61:77:-585:14:false:0:Internal-overworld-waypoints
+[27Jun2025 22:45:56.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ya lo mande
+[27Jun2025 22:46:00.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ven con cama
+[27Jun2025 22:48:34.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> tienes cama?
+[27Jun2025 22:48:39.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> no encontre
+[27Jun2025 22:48:56.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ven
+[27Jun2025 22:49:14.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> hazcama
+[27Jun2025 22:49:29.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> oe te di madera
+[27Jun2025 22:49:40.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> pera ecesito para algo
+[27Jun2025 22:49:44.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> TMR
+[27Jun2025 22:49:49.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> eso?
+[27Jun2025 22:49:55.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> hatea mrd
+[27Jun2025 22:50:24.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ZZZZZZZZZZZZZ
+[27Jun2025 22:50:29.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> el gortesco muere
+[27Jun2025 22:50:38.251] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{joaocover})
+[27Jun2025 22:50:52.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ya vamos?
+[27Jun2025 22:50:55.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> corre tu primero
+[27Jun2025 22:50:57.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> SI
+[27Jun2025 22:51:22.565] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover moved too quickly! 129.11472606120088,-80.30690427068356,62.65779220542572
+[27Jun2025 22:51:29.398] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Disconnected
+[27Jun2025 22:51:29.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
+[27Jun2025 22:51:33.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover Hugged to death
+[27Jun2025 22:51:33.768] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for joaocover with unique ID travelersbackpack.standard_27.06.2025-22.51.33.dat
+[27Jun2025 22:51:33.903] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover moved too quickly! 3.2010408270746353,13.921599998474122,14.317196201534102
+[27Jun2025 22:51:34.900] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[27Jun2025 22:51:34.901] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[27Jun2025 22:51:38.272] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: C0LIGAMES[/127.53.118.236:59793] logged in with entity id 14218 at (77.40946579890121, 75.0, -547.8333000680868)
+[27Jun2025 22:51:38.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
+[27Jun2025 22:51:39.222] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover moved too quickly! 60.12978079000325,1.0,-1.9096174744373684
+[27Jun2025 22:51:40.281] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover moved too quickly! 21.583036123601048,11.575329616062717,-15.873425567903269
+[27Jun2025 22:51:44.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover died from hugs while running away Grotesque steve
+[27Jun2025 22:51:44.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES died from hugs while running away Grotesque steve
+[27Jun2025 22:51:44.931] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover moved too quickly! 8.665725154585857,-12.716153239375835,1.9307922889171323
+[27Jun2025 22:51:45.264] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[27Jun2025 22:51:45.264] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[27Jun2025 22:51:46.159] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[27Jun2025 22:51:46.159] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[27Jun2025 22:51:50.058] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover moved too quickly! 52.38272063877501,-24.048848176427384,30.991698929279096
+[27Jun2025 22:51:50.771] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover moved too quickly! 1.6017051405224265,1.7509719185989496,10.698307752976348
+[27Jun2025 22:51:58.920] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover moved too quickly! 129.75182829628065,42.3182592097732,32.9267252735973
+[27Jun2025 22:52:04.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover Hugged to death
+[27Jun2025 22:52:05.735] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[27Jun2025 22:52:05.735] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[27Jun2025 22:52:18.372] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES moved too quickly! 251.11489745697037,-49.53231047870647,313.9787292021614
+[27Jun2025 22:52:19.758] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES moved too quickly! 0.13424105386648932,-3.232635577368427,24.497739037784186
+[27Jun2025 22:52:31.622] [Server thread/INFO] [Scaling Health/]: Blight Bee was killed by C0LIGAMES
+[27Jun2025 22:52:46.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[27Jun2025 22:53:02.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ya buena buena
+[27Jun2025 22:53:18.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> VEN CAUSA
+[27Jun2025 22:54:22.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> un cementerio
+[27Jun2025 22:54:34.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> pasa bloques
+[27Jun2025 22:55:38.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> no hay nada ahi
+[27Jun2025 22:55:54.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> ESE BOSQUE ERA LO INTERESANTE
