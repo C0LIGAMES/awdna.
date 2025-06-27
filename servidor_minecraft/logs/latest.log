@@ -316,3 +316,4 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [27Jun2025 21:15:27.990] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
 [27Jun2025 21:18:40.187] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: C0LIGAMES[/127.53.118.236:43755] logged in with entity id 189 at (-462.23783432152896, 37.0, -318.1253150624875)
 [27Jun2025 21:18:40.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
+[27Jun2025 21:44:45.300] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
