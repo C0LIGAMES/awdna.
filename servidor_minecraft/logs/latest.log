@@ -318,3 +318,7 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [27Jun2025 21:18:40.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
 [27Jun2025 21:44:45.300] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
 [27Jun2025 21:48:15.959] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
+[27Jun2025 22:01:59.103] [Server thread/INFO] [Scaling Health/]: Blight Skeleton was killed by C0LIGAMES
+[27Jun2025 22:03:08.449] [Server thread/INFO] [Scaling Health/]: Blight Zombie was killed by C0LIGAMES
+[27Jun2025 22:05:10.987] [Server thread/INFO] [Scaling Health/]: Blight Zombie was killed by C0LIGAMES
+[27Jun2025 22:08:23.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has made the advancement [Who is Cutting Onions?]

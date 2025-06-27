@@ -1040,6 +1040,8 @@
       "cooked_porkchop": "2025-06-21 01:30:13 +0000",
       "cooked_mutton": "2025-06-25 02:11:38 +0000",
       "cooked_beef": "2025-06-22 02:45:24 +0000",
+      "potato": "2025-06-27 22:03:19 +0000",
+      "bread": "2025-06-27 22:07:44 +0000",
       "suspicious_stew": "2025-06-22 02:16:36 +0000",
       "cooked_chicken": "2025-06-16 00:42:37 +0000",
       "carrot": "2025-06-24 23:47:48 +0000"
@@ -5632,9 +5634,27 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-06-27 22:08:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-06-27 22:08:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-06-27 21:43:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-06-27 22:08:23 +0000"
     },
     "done": true
   },
