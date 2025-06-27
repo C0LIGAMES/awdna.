@@ -6654,3 +6654,41 @@
 [27Jun2025 02:01:12.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
 [27Jun2025 02:01:26.061] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [27Jun2025 02:01:26.061] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[27Jun2025 02:01:40.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to joaocover: Con todos voy a descansar
+[27Jun2025 02:01:40.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to EsoChoclin: Con todos voy a descansar
+[27Jun2025 02:01:59.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EsoChoclin> pta madre
+[27Jun2025 02:02:13.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EsoChoclin> :(
+[27Jun2025 02:02:22.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> xd
+[27Jun2025 02:02:26.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to joaocover: entren mas temprano
+[27Jun2025 02:02:26.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to EsoChoclin: entren mas temprano
+[27Jun2025 02:02:37.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to joaocover: Adios gente
+[27Jun2025 02:02:37.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to EsoChoclin: Adios gente
+[27Jun2025 02:02:40.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> OYE MIRA HAY LIRIOS PAR CRIAR DRAGONES
+[27Jun2025 02:02:56.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EsoChoclin> no c q es eso xd
+[27Jun2025 02:03:04.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to joaocover: Ya chicos dejen descansar salganse para guardar todo
+[27Jun2025 02:03:04.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to EsoChoclin: Ya chicos dejen descansar salganse para guardar todo
+[27Jun2025 02:03:07.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> dejame salir de la base de byron
+[27Jun2025 02:03:16.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EsoChoclin froze to death
+[27Jun2025 02:03:16.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EsoChoclin> me estoy quedando quieto para darle tiempo a mi pc de cargar el server
+[27Jun2025 02:03:20.108] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[27Jun2025 02:03:20.109] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[27Jun2025 02:03:30.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to joaocover: ya estan chicos?
+[27Jun2025 02:03:30.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to EsoChoclin: ya estan chicos?
+[27Jun2025 02:03:46.755] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover moved too quickly! 6.393635973599771,1.127890238205481,8.003489593508164
+[27Jun2025 02:03:47.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> si
+[27Jun2025 02:03:48.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to joaocover: Chau
+[27Jun2025 02:03:48.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to EsoChoclin: Chau
+[27Jun2025 02:03:49.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EsoChoclin> si
+[27Jun2025 02:03:51.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[27Jun2025 02:03:51.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[27Jun2025 02:03:51.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[27Jun2025 02:03:51.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[27Jun2025 02:03:51.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[27Jun2025 02:03:52.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[27Jun2025 02:03:52.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/grotesque_steve:stomach
+[27Jun2025 02:03:52.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[27Jun2025 02:03:52.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[27Jun2025 02:03:52.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[27Jun2025 02:03:52.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (stomach): All chunks are saved
+[27Jun2025 02:03:52.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[27Jun2025 02:03:52.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
