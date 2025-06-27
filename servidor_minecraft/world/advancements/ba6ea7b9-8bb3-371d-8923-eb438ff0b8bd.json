@@ -1193,6 +1193,7 @@
     "criteria": {
       "chicken": "2025-06-16 00:22:49 +0000",
       "cooked_mutton": "2025-06-16 00:39:15 +0000",
+      "beef": "2025-06-27 01:42:23 +0000",
       "porkchop": "2025-06-22 01:39:04 +0000",
       "apple": "2025-06-24 01:00:23 +0000",
       "rabbit": "2025-06-16 00:25:20 +0000",
@@ -4721,7 +4722,9 @@
   },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
+      "entered_tower_of_the_undead": "2025-06-27 01:47:14 +0000",
       "entered_stables": "2025-06-25 02:14:05 +0000",
+      "entered_hay_storage": "2025-06-27 01:43:40 +0000",
       "entered_druid_circle": "2025-06-27 00:21:24 +0000",
       "entered_large_dungeon": "2025-06-25 00:32:22 +0000",
       "entered_ruined_building": "2025-06-27 01:28:57 +0000"
@@ -5808,6 +5811,12 @@
     },
     "done": true
   },
+  "spartanweaponry:rapier": {
+    "criteria": {
+      "has_rapier": "2025-06-27 01:40:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
       "has_mossy_cobblestone": "2025-06-27 00:19:59 +0000"
@@ -5826,9 +5835,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-06-27 01:42:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
       "has_beetroot": "2025-06-26 23:50:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-27 01:42:12 +0000"
     },
     "done": true
   },
@@ -5868,6 +5889,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-06-27 01:42:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2025-06-27 01:29:46 +0000"
@@ -5901,6 +5928,12 @@
   "iceandfire:recipes/food/ambrosia": {
     "criteria": {
       "has_item": "2025-06-27 01:34:26 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:flanged_mace": {
+    "criteria": {
+      "has_flanged_mace": "2025-06-27 01:40:28 +0000"
     },
     "done": true
   },
@@ -5961,6 +5994,12 @@
   "farmersdelight:recipes/cooking/vegetable_soup": {
     "criteria": {
       "has_any_ingredient": "2025-06-26 23:50:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-06-27 01:42:12 +0000"
     },
     "done": true
   },
