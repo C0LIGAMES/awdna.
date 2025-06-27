@@ -42,3 +42,18 @@
 [27Jun2025 00:29:49.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> estuve afk
 [27Jun2025 00:29:53.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> me salio 1
 [27Jun2025 00:30:00.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> ese cartel nunca aparecio
+[27Jun2025 00:30:45.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> te mande a wasa
+[27Jun2025 00:30:52.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> YA LO VI
+[27Jun2025 00:32:27.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> si quieres vengarte para la siguiente quitame ewl bestiario
+[27Jun2025 00:34:16.891] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Disconnected
+[27Jun2025 00:34:16.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
+[27Jun2025 00:34:52.035] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6536efab[id=<null>,name=C0LIGAMES,properties={},legacy=false] (/127.53.118.236:38075) lost connection: Disconnected
+[27Jun2025 00:35:24.489] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@16579492[id=<null>,name=C0LIGAMES,properties={},legacy=false] (/127.53.118.236:50811) lost connection: Disconnected
+[27Jun2025 00:35:32.905] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: C0LIGAMES[/127.53.118.236:42971] logged in with entity id 45801 at (-463.3116665926066, 36.0, -321.9883565364493)
+[27Jun2025 00:35:32.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
+[27Jun2025 00:35:45.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> cxon que qahi vive el grotsco
+[27Jun2025 00:36:03.014] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Timed out
+[27Jun2025 00:36:03.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
+[27Jun2025 00:36:42.002] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@b1501f4[id=<null>,name=C0LIGAMES,properties={},legacy=false] (/127.53.118.236:50405) lost connection: Disconnected
+[27Jun2025 00:36:49.900] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: C0LIGAMES[/127.53.118.236:40237] logged in with entity id 46236 at (-463.3116665926066, 36.0, -321.9883565364493)
+[27Jun2025 00:36:49.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
