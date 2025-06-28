@@ -323,3 +323,7 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [28Jun2025 12:48:09.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara joined the game
 [28Jun2025 13:11:46.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara has made the advancement [Diamonds!]
 [28Jun2025 13:27:50.658] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{Anzu_ara})
+[28Jun2025 13:44:37.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara has made the advancement [Take Aim]
+[28Jun2025 13:51:01.384] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anzu_ara lost connection: Disconnected
+[28Jun2025 13:51:01.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara left the game
+[28Jun2025 13:51:01.477] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
