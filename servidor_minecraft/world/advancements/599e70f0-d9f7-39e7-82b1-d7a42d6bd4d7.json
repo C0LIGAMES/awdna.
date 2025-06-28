@@ -5928,9 +5928,33 @@
     },
     "done": true
   },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-06-28 00:10:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-06-28 00:13:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
+    "criteria": {
+      "has_eye_armor_trim_smithing_template": "2025-06-28 00:13:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2025-06-28 00:15:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/jar_pixie": {
+    "criteria": {
+      "jar": "2025-06-28 00:18:09 +0000"
     },
     "done": true
   },
@@ -5952,24 +5976,6 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/jar_pixie": {
-    "criteria": {
-      "jar": "2025-06-28 00:18:09 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:greatsword": {
-    "criteria": {
-      "has_greatsword": "2025-06-28 00:40:48 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/bestiary": {
-    "criteria": {
-      "bestiary": "2025-06-28 00:15:43 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stone_bricks": "2025-06-28 00:21:01 +0000"
@@ -5979,12 +5985,6 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-06-28 00:21:01 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/sponge_smithing": {
-    "criteria": {
-      "has_sponge": "2025-06-28 00:43:11 +0000"
     },
     "done": true
   },
@@ -6018,12 +6018,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/totem_of_undying": {
-    "criteria": {
-      "used_totem": "2025-06-28 00:10:06 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-06-28 00:21:01 +0000"
@@ -6036,12 +6030,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
-    "criteria": {
-      "has_eye_armor_trim_smithing_template": "2025-06-28 00:13:34 +0000"
-    },
-    "done": true
-  },
   "dungeons_arise:find_small_blimp": {
     "criteria": {
       "location0": "2025-06-28 00:24:05 +0000"
@@ -6051,6 +6039,18 @@
   "iceandfire:iceandfire/gorgon_head": {
     "criteria": {
       "bestiary": "2025-06-28 00:28:18 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:greatsword": {
+    "criteria": {
+      "has_greatsword": "2025-06-28 00:40:48 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/sponge_smithing": {
+    "criteria": {
+      "has_sponge": "2025-06-28 00:43:11 +0000"
     },
     "done": true
   },

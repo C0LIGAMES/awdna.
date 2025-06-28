@@ -1338,6 +1338,7 @@
       "minecraft:spider": "2025-06-18 02:36:36 +0000",
       "minecraft:creeper": "2025-06-24 23:46:45 +0000",
       "minecraft:slime": "2025-06-24 23:41:02 +0000",
+      "minecraft:enderman": "2025-06-28 01:13:15 +0000",
       "minecraft:vex": "2025-06-27 23:48:59 +0000",
       "minecraft:zombie": "2025-06-16 00:40:28 +0000"
     },
@@ -6106,6 +6107,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
+    "criteria": {
+      "has_eye_armor_trim_smithing_template": "2025-06-27 23:52:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-06-27 23:59:32 +0000"
+    },
+    "done": true
+  },
   "illagerinvasion:recipes/decorations/imbuing_table": {
     "criteria": {
       "has_primal_essence": "2025-06-28 00:10:55 +0000"
@@ -6115,6 +6128,12 @@
   "iceandfire:iceandfire/jar_pixie": {
     "criteria": {
       "jar": "2025-06-28 00:17:39 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2025-06-28 00:23:24 +0000"
     },
     "done": true
   },
@@ -6130,9 +6149,9 @@
     },
     "done": true
   },
-  "minecraft:story/iron_tools": {
+  "travelersbackpack:recipes/misc/cow": {
     "criteria": {
-      "iron_pickaxe": "2025-06-27 23:59:32 +0000"
+      "has_milk_bucket": "2025-06-28 00:48:16 +0000"
     },
     "done": true
   },
@@ -6142,21 +6161,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
+  "alexscaves:alexscaves/root": {
     "criteria": {
-      "has_eye_armor_trim_smithing_template": "2025-06-27 23:52:01 +0000"
+      "underground_cabin": "2025-06-28 01:08:59 +0000"
     },
     "done": true
   },
-  "dungeons_arise:find_small_blimp": {
+  "minecraft:husbandry/tame_an_animal": {
     "criteria": {
-      "location0": "2025-06-28 00:23:24 +0000"
+      "tamed_animal": "2025-06-28 01:10:31 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/cow": {
+  "travelersbackpack:recipes/misc/fox_smithing": {
     "criteria": {
-      "has_milk_bucket": "2025-06-28 00:48:16 +0000"
+      "has_fox": "2025-06-28 01:13:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_mosaic": {
+    "criteria": {
+      "has_bamboo_slab": "2025-06-28 02:11:55 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-06-28 01:09:37 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2025-06-28 01:13:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/tame_hippocampus": {
+    "criteria": {
+      "tame_rat": "2025-06-28 01:10:31 +0000"
     },
     "done": true
   },

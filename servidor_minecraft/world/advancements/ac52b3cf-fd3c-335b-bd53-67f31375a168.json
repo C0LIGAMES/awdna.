@@ -22,11 +22,19 @@
       "minecraft:taiga": "2025-06-16 00:01:56 +0000",
       "minecraft:deep_ocean": "2025-06-22 02:24:42 +0000",
       "minecraft:windswept_hills": "2025-06-22 02:17:13 +0000",
+      "minecraft:bamboo_jungle": "2025-06-28 02:02:49 +0000",
+      "minecraft:beach": "2025-06-28 01:40:46 +0000",
+      "minecraft:sparse_jungle": "2025-06-28 01:47:31 +0000",
       "minecraft:river": "2025-06-22 02:11:46 +0000",
+      "minecraft:lukewarm_ocean": "2025-06-28 01:39:51 +0000",
       "minecraft:forest": "2025-06-22 01:57:36 +0000",
       "minecraft:windswept_forest": "2025-06-16 00:09:20 +0000",
       "minecraft:ocean": "2025-06-22 02:24:30 +0000",
+      "minecraft:jungle": "2025-06-28 02:08:27 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-06-16 00:02:41 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-06-28 01:59:43 +0000",
+      "minecraft:old_growth_birch_forest": "2025-06-28 01:42:01 +0000",
+      "minecraft:savanna": "2025-06-28 01:55:10 +0000",
       "minecraft:plains": "2025-06-22 02:11:44 +0000"
     },
     "done": false
@@ -1252,6 +1260,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "potato": "2025-06-28 01:29:35 +0000",
+      "bread": "2025-06-28 02:36:22 +0000",
       "rotten_flesh": "2025-06-25 23:39:15 +0000",
       "carrot": "2025-06-25 23:38:58 +0000"
     },
@@ -1935,51 +1945,21 @@
     },
     "done": true
   },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2025-06-26 22:52:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/tripwire_hook": {
-    "criteria": {
-      "has_string": "2025-06-26 23:26:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/candle": {
-    "criteria": {
-      "has_string": "2025-06-26 23:26:46 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:greatsword": {
-    "criteria": {
-      "has_greatsword": "2025-06-26 23:27:46 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/iron_smithing": {
-    "criteria": {
-      "has_iron": "2025-06-26 23:37:03 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:root": {
-    "criteria": {
-      "has_handle": "2025-06-26 23:26:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_chestplate": "2025-06-26 23:20:40 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_sword": "2025-06-26 22:47:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_sword": "2025-06-26 22:47:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-06-26 22:52:50 +0000"
     },
     "done": true
   },
@@ -1995,15 +1975,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/bow": {
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-06-26 23:20:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-06-26 23:26:46 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/snow_smithing": {
+  "minecraft:recipes/decorations/candle": {
     "criteria": {
-      "has_snow": "2025-06-26 23:35:32 +0000"
+      "has_string": "2025-06-26 23:26:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-06-26 23:26:46 +0000"
     },
     "done": true
   },
@@ -2025,12 +2017,6 @@
     },
     "done": true
   },
-  "spartanweaponry:longbow": {
-    "criteria": {
-      "has_longbow": "2025-06-26 23:41:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-06-26 23:26:46 +0000"
@@ -2043,15 +2029,183 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_nugget_from_blasting": {
-    "criteria": {
-      "has_iron_sword": "2025-06-26 22:47:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-06-26 23:26:46 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:root": {
+    "criteria": {
+      "has_handle": "2025-06-26 23:26:57 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:greatsword": {
+    "criteria": {
+      "has_greatsword": "2025-06-26 23:27:46 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/snow_smithing": {
+    "criteria": {
+      "has_snow": "2025-06-26 23:35:32 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/iron_smithing": {
+    "criteria": {
+      "has_iron": "2025-06-26 23:37:03 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:longbow": {
+    "criteria": {
+      "has_longbow": "2025-06-26 23:41:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-06-28 02:14:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-06-28 01:28:35 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/food/glow_berry_juice": {
+    "criteria": {
+      "has_glow_berries": "2025-06-28 02:37:51 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/grease_ball": {
+    "criteria": {
+      "has_meat": "2025-06-28 01:28:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/chicken": {
+    "criteria": {
+      "has_feather": "2025-06-28 01:28:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-28 02:37:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-06-28 01:50:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-06-28 01:33:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-06-28 01:28:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-28 01:33:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-06-28 02:03:41 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/bolt": {
+    "criteria": {
+      "has_feather": "2025-06-28 01:28:35 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_bolt": {
+    "criteria": {
+      "has_feather": "2025-06-28 01:28:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-06-28 01:33:38 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_meal": {
+    "criteria": {
+      "has_item": "2025-06-28 01:28:35 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_undead_pirate_ship": {
+    "criteria": {
+      "location0": "2025-06-28 01:52:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-06-28 01:50:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-06-28 01:50:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-06-28 01:28:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-06-28 01:28:35 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_bolt": {
+    "criteria": {
+      "has_feather": "2025-06-28 01:28:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-06-28 02:03:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-06-28 02:14:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-06-28 01:33:38 +0000"
     },
     "done": true
   },
