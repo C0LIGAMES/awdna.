@@ -321,3 +321,4 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [28Jun2025 12:47:56.526] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5c48fa5[id=<null>,name=Anzu_ara,properties={},legacy=false] (/127.59.47.31:36817) lost connection: Disconnected
 [28Jun2025 12:48:09.750] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anzu_ara[/127.59.47.31:37233] logged in with entity id 348 at (-2088.300000011921, 14.0, 1348.408866744679)
 [28Jun2025 12:48:09.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara joined the game
+[28Jun2025 13:11:46.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara has made the advancement [Diamonds!]
