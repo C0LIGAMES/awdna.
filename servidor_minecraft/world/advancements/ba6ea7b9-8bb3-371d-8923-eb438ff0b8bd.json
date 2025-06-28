@@ -1199,12 +1199,14 @@
       "beef": "2025-06-27 01:42:23 +0000",
       "porkchop": "2025-06-22 01:39:04 +0000",
       "apple": "2025-06-24 01:00:23 +0000",
+      "potato": "2025-06-28 00:44:46 +0000",
       "rabbit": "2025-06-16 00:25:20 +0000",
       "mutton": "2025-06-16 00:25:42 +0000",
       "bread": "2025-06-18 02:57:06 +0000",
       "rotten_flesh": "2025-06-18 02:28:49 +0000",
       "cod": "2025-06-25 22:59:55 +0000",
-      "cooked_salmon": "2025-06-24 23:18:50 +0000"
+      "cooked_salmon": "2025-06-24 23:18:50 +0000",
+      "carrot": "2025-06-28 00:29:03 +0000"
     },
     "done": false
   },
@@ -1332,9 +1334,11 @@
     "criteria": {
       "minecraft:pillager": "2025-06-24 00:40:14 +0000",
       "minecraft:skeleton": "2025-06-16 01:11:28 +0000",
+      "minecraft:vindicator": "2025-06-27 23:50:02 +0000",
       "minecraft:spider": "2025-06-18 02:36:36 +0000",
       "minecraft:creeper": "2025-06-24 23:46:45 +0000",
       "minecraft:slime": "2025-06-24 23:41:02 +0000",
+      "minecraft:vex": "2025-06-27 23:48:59 +0000",
       "minecraft:zombie": "2025-06-16 00:40:28 +0000"
     },
     "done": false
@@ -6030,12 +6034,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_wood": {
-    "criteria": {
-      "has_log": "2025-06-27 22:50:06 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2025-06-27 22:48:30 +0000"
@@ -6051,6 +6049,24 @@
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-06-27 22:48:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-27 22:48:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-27 22:48:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-06-27 22:50:06 +0000"
     },
     "done": true
   },
@@ -6084,15 +6100,63 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_trapdoor": {
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
-      "has_planks": "2025-06-27 22:48:30 +0000"
+      "has_smithing_trim_template": "2025-06-27 23:52:01 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_pressure_plate": {
+  "illagerinvasion:recipes/decorations/imbuing_table": {
     "criteria": {
-      "has_planks": "2025-06-27 22:48:30 +0000"
+      "has_primal_essence": "2025-06-28 00:10:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/jar_pixie": {
+    "criteria": {
+      "jar": "2025-06-28 00:17:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-28 00:48:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2025-06-28 00:48:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-06-27 23:59:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-06-28 01:00:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
+    "criteria": {
+      "has_eye_armor_trim_smithing_template": "2025-06-27 23:52:01 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2025-06-28 00:23:24 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cow": {
+    "criteria": {
+      "has_milk_bucket": "2025-06-28 00:48:16 +0000"
     },
     "done": true
   },
