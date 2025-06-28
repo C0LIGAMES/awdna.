@@ -327,3 +327,5 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [28Jun2025 13:51:01.384] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anzu_ara lost connection: Disconnected
 [28Jun2025 13:51:01.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara left the game
 [28Jun2025 13:51:01.477] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[28Jun2025 13:56:03.398] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anzu_ara[/127.59.47.31:44495] logged in with entity id 7810 at (-2066.300000011921, 12.0, 1271.6624002683016)
+[28Jun2025 13:56:03.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara joined the game
